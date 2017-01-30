@@ -1,0 +1,1743 @@
+orig.isocode,orig.name,orig.region,orig.majorarea,dest.isocode,dest.name,dest.name,dest.region,pop.mig (in thousands)
+FRA,France,Western Europe,Europe,ARE,United Arab Emirates,Western Asia,Asia,23.44
+AUT,Austria,Western Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,20.434
+FRA,France,Western Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,39.107
+DEU,Germany,Western Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,134.664
+NLD,Netherlands,Western Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,91.358
+CHE,Switzerland,Western Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,15.75
+DEU,Germany,Western Europe,Europe,AUT,Austria,Western Europe,Europe,223.705
+CHE,Switzerland,Western Europe,Europe,AUT,Austria,Western Europe,Europe,15.802
+FRA,France,Western Europe,Europe,BEL,Belgium,Western Europe,Europe,170.858
+DEU,Germany,Western Europe,Europe,BEL,Belgium,Western Europe,Europe,44.268
+NLD,Netherlands,Western Europe,Europe,BEL,Belgium,Western Europe,Europe,160.363
+FRA,France,Western Europe,Europe,BRA,Brazil,South America,Latin America and the Caribbean,11.411
+DEU,Germany,Western Europe,Europe,BRA,Brazil,South America,Latin America and the Caribbean,19.389
+AUT,Austria,Western Europe,Europe,CAN,Canada,Northern America,Northern America,19.2
+BEL,Belgium,Western Europe,Europe,CAN,Canada,Northern America,Northern America,23.119
+FRA,France,Western Europe,Europe,CAN,Canada,Northern America,Northern America,122.212
+DEU,Germany,Western Europe,Europe,CAN,Canada,Northern America,Northern America,186.592
+NLD,Netherlands,Western Europe,Europe,CAN,Canada,Northern America,Northern America,109.581
+CHE,Switzerland,Western Europe,Europe,CAN,Canada,Northern America,Northern America,22.566
+AUT,Austria,Western Europe,Europe,CHE,Switzerland,Western Europe,Europe,65.09
+BEL,Belgium,Western Europe,Europe,CHE,Switzerland,Western Europe,Europe,16.243
+FRA,France,Western Europe,Europe,CHE,Switzerland,Western Europe,Europe,152.058
+DEU,Germany,Western Europe,Europe,CHE,Switzerland,Western Europe,Europe,362.506
+NLD,Netherlands,Western Europe,Europe,CHE,Switzerland,Western Europe,Europe,31.367
+DEU,Germany,Western Europe,Europe,CHL,Chile,South America,Latin America and the Caribbean,12.169
+FRA,France,Western Europe,Europe,COG,Congo,Middle Africa,Africa,10.32
+DEU,Germany,Western Europe,Europe,CZE,Czech Republic,Eastern Europe,Europe,15.209
+AUT,Austria,Western Europe,Europe,DEU,Germany,Western Europe,Europe,257.583
+BEL,Belgium,Western Europe,Europe,DEU,Germany,Western Europe,Europe,34.947
+FRA,France,Western Europe,Europe,DEU,Germany,Western Europe,Europe,145.806
+LUX,Luxembourg,Western Europe,Europe,DEU,Germany,Western Europe,Europe,20.941
+NLD,Netherlands,Western Europe,Europe,DEU,Germany,Western Europe,Europe,139.292
+CHE,Switzerland,Western Europe,Europe,DEU,Germany,Western Europe,Europe,84.294
+DEU,Germany,Western Europe,Europe,DNK,Denmark,Northern Europe,Europe,36.937
+BEL,Belgium,Western Europe,Europe,ESP,Spain,Southern Europe,Europe,43.052
+FRA,France,Western Europe,Europe,ESP,Spain,Southern Europe,Europe,201.769
+DEU,Germany,Western Europe,Europe,ESP,Spain,Southern Europe,Europe,200.87
+NLD,Netherlands,Western Europe,Europe,ESP,Spain,Southern Europe,Europe,46.181
+CHE,Switzerland,Western Europe,Europe,ESP,Spain,Southern Europe,Europe,61.401
+AUT,Austria,Western Europe,Europe,FRA,France,Western Europe,Europe,12.559
+BEL,Belgium,Western Europe,Europe,FRA,France,Western Europe,Europe,153.22
+DEU,Germany,Western Europe,Europe,FRA,France,Western Europe,Europe,233.627
+LUX,Luxembourg,Western Europe,Europe,FRA,France,Western Europe,Europe,12.888
+MCO,Monaco,Western Europe,Europe,FRA,France,Western Europe,Europe,24.947
+NLD,Netherlands,Western Europe,Europe,FRA,France,Western Europe,Europe,43.838
+CHE,Switzerland,Western Europe,Europe,FRA,France,Western Europe,Europe,95.267
+FRA,France,Western Europe,Europe,GAB,Gabon,Middle Africa,Africa,10.403
+AUT,Austria,Western Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,21.698
+BEL,Belgium,Western Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,29.142
+FRA,France,Western Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,149.872
+DEU,Germany,Western Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,322.22
+NLD,Netherlands,Western Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,68.489
+CHE,Switzerland,Western Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,21.458
+FRA,France,Western Europe,Europe,GLP,Guadeloupe,Caribbean,Latin America and the Caribbean,55.739
+DEU,Germany,Western Europe,Europe,GRC,Greece,Southern Europe,Europe,114.343
+FRA,France,Western Europe,Europe,GUF,French Guiana,South America,Latin America and the Caribbean,20.934
+DEU,Germany,Western Europe,Europe,HRV,Croatia,Southern Europe,Europe,33.774
+DEU,Germany,Western Europe,Europe,HUN,Hungary,Eastern Europe,Europe,30.123
+FRA,France,Western Europe,Europe,IRL,Ireland,Northern Europe,Europe,11.147
+DEU,Germany,Western Europe,Europe,IRL,Ireland,Northern Europe,Europe,14.368
+FRA,France,Western Europe,Europe,ISR,Israel,Western Asia,Asia,41.847
+DEU,Germany,Western Europe,Europe,ISR,Israel,Western Asia,Asia,23.656
+AUT,Austria,Western Europe,Europe,ITA,Italy,Southern Europe,Europe,16.331
+BEL,Belgium,Western Europe,Europe,ITA,Italy,Southern Europe,Europe,46.393
+FRA,France,Western Europe,Europe,ITA,Italy,Southern Europe,Europe,134.403
+DEU,Germany,Western Europe,Europe,ITA,Italy,Southern Europe,Europe,220.013
+NLD,Netherlands,Western Europe,Europe,ITA,Italy,Southern Europe,Europe,13.034
+CHE,Switzerland,Western Europe,Europe,ITA,Italy,Southern Europe,Europe,198.17
+DEU,Germany,Western Europe,Europe,KAZ,Kazakhstan,Central Asia,Asia,218.348
+CHE,Switzerland,Western Europe,Europe,LIE,Liechtenstein,Western Europe,Europe,12.862
+BEL,Belgium,Western Europe,Europe,LUX,Luxembourg,Western Europe,Europe,19.836
+FRA,France,Western Europe,Europe,LUX,Luxembourg,Western Europe,Europe,36.242
+DEU,Germany,Western Europe,Europe,LUX,Luxembourg,Western Europe,Europe,14.216
+FRA,France,Western Europe,Europe,MAR,Morocco,Northern Africa,Africa,29.271
+FRA,France,Western Europe,Europe,MEX,Mexico,Central America,Latin America and the Caribbean,11.903
+FRA,France,Western Europe,Europe,MLI,Mali,Western Africa,Africa,18.238
+FRA,France,Western Europe,Europe,MTQ,Martinique,Caribbean,Latin America and the Caribbean,47.093
+FRA,France,Western Europe,Europe,MYT,Mayotte,Eastern Africa,Africa,10.05
+FRA,France,Western Europe,Europe,NCL,New Caledonia,Melanesia,Oceania,37.966
+BEL,Belgium,Western Europe,Europe,NLD,Netherlands,Western Europe,Europe,54.038
+FRA,France,Western Europe,Europe,NLD,Netherlands,Western Europe,Europe,24.712
+DEU,Germany,Western Europe,Europe,NLD,Netherlands,Western Europe,Europe,123.273
+DEU,Germany,Western Europe,Europe,NOR,Norway,Northern Europe,Europe,28.212
+DEU,Germany,Western Europe,Europe,NZL,New Zealand,Australia/New Zealand,Oceania,13.447
+NLD,Netherlands,Western Europe,Europe,NZL,New Zealand,Australia/New Zealand,Oceania,20.589
+FRA,France,Western Europe,Europe,POL,Poland,Eastern Europe,Europe,26.12
+DEU,Germany,Western Europe,Europe,POL,Poland,Eastern Europe,Europe,76.313
+FRA,France,Western Europe,Europe,PRT,Portugal,Southern Europe,Europe,87.899
+DEU,Germany,Western Europe,Europe,PRT,Portugal,Southern Europe,Europe,26.048
+CHE,Switzerland,Western Europe,Europe,PRT,Portugal,Southern Europe,Europe,15.668
+FRA,France,Western Europe,Europe,PYF,French Polynesia,Polynesia,Oceania,20.918
+FRA,France,Western Europe,Europe,REU,R?union,Eastern Africa,Africa,84.056
+DEU,Germany,Western Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,142.026
+FRA,France,Western Europe,Europe,SEN,Senegal,Western Africa,Africa,13.391
+DEU,Germany,Western Europe,Europe,SRB,Serbia,Southern Europe,Europe,16.083
+DEU,Germany,Western Europe,Europe,SWE,Sweden,Northern Europe,Europe,50.473
+NLD,Netherlands,Western Europe,Europe,SWE,Sweden,Northern Europe,Europe,10.413
+AUT,Austria,Western Europe,Europe,TUR,Turkey,Western Asia,Asia,14.394
+FRA,France,Western Europe,Europe,TUR,Turkey,Western Asia,Asia,16.041
+DEU,Germany,Western Europe,Europe,TUR,Turkey,Western Asia,Asia,274.691
+NLD,Netherlands,Western Europe,Europe,TUR,Turkey,Western Asia,Asia,21.913
+CHE,Switzerland,Western Europe,Europe,TUR,Turkey,Western Asia,Asia,10.411
+AUT,Austria,Western Europe,Europe,USA,United States of America,Northern America,Northern America,49.704
+BEL,Belgium,Western Europe,Europe,USA,United States of America,Northern America,Northern America,32.907
+FRA,France,Western Europe,Europe,USA,United States of America,Northern America,Northern America,166.729
+DEU,Germany,Western Europe,Europe,USA,United States of America,Northern America,Northern America,627.493
+NLD,Netherlands,Western Europe,Europe,USA,United States of America,Northern America,Northern America,87.922
+CHE,Switzerland,Western Europe,Europe,USA,United States of America,Northern America,Northern America,41.218
+DEU,Germany,Western Europe,Europe,ZAF,South Africa,Southern Africa,Africa,40.902
+NLD,Netherlands,Western Europe,Europe,ZAF,South Africa,Southern Africa,Africa,21.6
+GBR,United Kingdom,Northern Europe,Europe,ARE,United Arab Emirates,Western Asia,Asia,19.164
+DNK,Denmark,Northern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,11.625
+FIN,Finland,Northern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,10.307
+IRL,Ireland,Northern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,101.032
+SWE,Sweden,Northern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,12.585
+GBR,United Kingdom,Northern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,1289.396
+GBR,United Kingdom,Northern Europe,Europe,AUT,Austria,Western Europe,Europe,11.013
+GBR,United Kingdom,Northern Europe,Europe,BEL,Belgium,Western Europe,Europe,27.335
+NOR,Norway,Northern Europe,Europe,BGD,Bangladesh,Southern Asia,Asia,14.311
+GBR,United Kingdom,Northern Europe,Europe,BGD,Bangladesh,Southern Asia,Asia,33.47
+LVA,Latvia,Northern Europe,Europe,BLR,Belarus,Eastern Europe,Europe,10.486
+LTU,Lithuania,Northern Europe,Europe,BLR,Belarus,Eastern Europe,Europe,17.385
+DNK,Denmark,Northern Europe,Europe,CAN,Canada,Northern America,Northern America,16.719
+FIN,Finland,Northern Europe,Europe,CAN,Canada,Northern America,Northern America,10.966
+IRL,Ireland,Northern Europe,Europe,CAN,Canada,Northern America,Northern America,33.53
+GBR,United Kingdom,Northern Europe,Europe,CAN,Canada,Northern America,Northern America,607.377
+SWE,Sweden,Northern Europe,Europe,CHE,Switzerland,Western Europe,Europe,10.201
+GBR,United Kingdom,Northern Europe,Europe,CHE,Switzerland,Western Europe,Europe,48.058
+GBR,United Kingdom,Northern Europe,Europe,CHI,Channel Islands,Northern Europe,Europe,59.38
+GBR,United Kingdom,Northern Europe,Europe,CHL,Chile,South America,Latin America and the Caribbean,18.161
+GBR,United Kingdom,Northern Europe,Europe,CYP,Cyprus,Western Asia,Asia,40.547
+DNK,Denmark,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,25.973
+EST,Estonia,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,11.724
+FIN,Finland,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,16.29
+IRL,Ireland,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,11.373
+LVA,Latvia,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,30.712
+LTU,Lithuania,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,49.836
+SWE,Sweden,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,19.99
+GBR,United Kingdom,Northern Europe,Europe,DEU,Germany,Western Europe,Europe,103.352
+FRO,Faeroe Islands,Northern Europe,Europe,DNK,Denmark,Northern Europe,Europe,12.324
+NOR,Norway,Northern Europe,Europe,DNK,Denmark,Northern Europe,Europe,20.324
+SWE,Sweden,Northern Europe,Europe,DNK,Denmark,Northern Europe,Europe,22.609
+GBR,United Kingdom,Northern Europe,Europe,DNK,Denmark,Northern Europe,Europe,18.556
+DNK,Denmark,Northern Europe,Europe,ESP,Spain,Southern Europe,Europe,11.269
+FIN,Finland,Northern Europe,Europe,ESP,Spain,Southern Europe,Europe,11.803
+IRL,Ireland,Northern Europe,Europe,ESP,Spain,Southern Europe,Europe,14.651
+LTU,Lithuania,Northern Europe,Europe,ESP,Spain,Southern Europe,Europe,16.837
+NOR,Norway,Northern Europe,Europe,ESP,Spain,Southern Europe,Europe,15.96
+SWE,Sweden,Northern Europe,Europe,ESP,Spain,Southern Europe,Europe,19.056
+GBR,United Kingdom,Northern Europe,Europe,ESP,Spain,Southern Europe,Europe,308.821
+EST,Estonia,Northern Europe,Europe,FIN,Finland,Northern Europe,Europe,51.279
+SWE,Sweden,Northern Europe,Europe,FIN,Finland,Northern Europe,Europe,41.265
+SWE,Sweden,Northern Europe,Europe,FRA,France,Western Europe,Europe,10.061
+GBR,United Kingdom,Northern Europe,Europe,FRA,France,Western Europe,Europe,185.344
+CHI,Channel Islands,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,19.942
+DNK,Denmark,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,24.972
+FIN,Finland,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,14.325
+IRL,Ireland,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,503.288
+IMN,Isle of Man,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,10.589
+LVA,Latvia,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,66.046
+LTU,Lithuania,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,116.861
+NOR,Norway,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,18.236
+SWE,Sweden,Northern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,35.055
+GBR,United Kingdom,Northern Europe,Europe,GRC,Greece,Southern Europe,Europe,17.679
+GBR,United Kingdom,Northern Europe,Europe,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,17.666
+GBR,United Kingdom,Northern Europe,Europe,IDN,Indonesia,South-Eastern Asia,Asia,30.446
+GBR,United Kingdom,Northern Europe,Europe,IMN,Isle of Man,Northern Europe,Europe,39.052
+LVA,Latvia,Northern Europe,Europe,IRL,Ireland,Northern Europe,Europe,22.126
+LTU,Lithuania,Northern Europe,Europe,IRL,Ireland,Northern Europe,Europe,38.572
+GBR,United Kingdom,Northern Europe,Europe,IRL,Ireland,Northern Europe,Europe,254.761
+GBR,United Kingdom,Northern Europe,Europe,ISR,Israel,Western Asia,Asia,21.869
+GBR,United Kingdom,Northern Europe,Europe,ITA,Italy,Southern Europe,Europe,64.986
+GBR,United Kingdom,Northern Europe,Europe,JPN,Japan,Eastern Asia,Asia,14.959
+LTU,Lithuania,Northern Europe,Europe,LVA,Latvia,Northern Europe,Europe,16.964
+GBR,United Kingdom,Northern Europe,Europe,MLT,Malta,Southern Europe,Europe,12.046
+GBR,United Kingdom,Northern Europe,Europe,NLD,Netherlands,Western Europe,Europe,49.549
+DNK,Denmark,Northern Europe,Europe,NOR,Norway,Northern Europe,Europe,25.26
+LTU,Lithuania,Northern Europe,Europe,NOR,Norway,Northern Europe,Europe,35.941
+SWE,Sweden,Northern Europe,Europe,NOR,Norway,Northern Europe,Europe,49.216
+GBR,United Kingdom,Northern Europe,Europe,NOR,Norway,Northern Europe,Europe,19.339
+GBR,United Kingdom,Northern Europe,Europe,NZL,New Zealand,Australia/New Zealand,Oceania,265.014
+LTU,Lithuania,Northern Europe,Europe,POL,Poland,Eastern Europe,Europe,50.444
+GBR,United Kingdom,Northern Europe,Europe,POL,Poland,Eastern Europe,Europe,34.545
+GBR,United Kingdom,Northern Europe,Europe,PRT,Portugal,Southern Europe,Europe,17.798
+EST,Estonia,Northern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,58.751
+LVA,Latvia,Northern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,89.389
+LTU,Lithuania,Northern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,71.078
+DNK,Denmark,Northern Europe,Europe,SWE,Sweden,Northern Europe,Europe,43.331
+EST,Estonia,Northern Europe,Europe,SWE,Sweden,Northern Europe,Europe,10.499
+FIN,Finland,Northern Europe,Europe,SWE,Sweden,Northern Europe,Europe,162.067
+LTU,Lithuania,Northern Europe,Europe,SWE,Sweden,Northern Europe,Europe,10.726
+NOR,Norway,Northern Europe,Europe,SWE,Sweden,Northern Europe,Europe,43.256
+GBR,United Kingdom,Northern Europe,Europe,SWE,Sweden,Northern Europe,Europe,24.95
+GBR,United Kingdom,Northern Europe,Europe,TUR,Turkey,Western Asia,Asia,18.992
+EST,Estonia,Northern Europe,Europe,UKR,Ukraine,Eastern Europe,Europe,10.222
+LVA,Latvia,Northern Europe,Europe,UKR,Ukraine,Eastern Europe,Europe,19.497
+LTU,Lithuania,Northern Europe,Europe,UKR,Ukraine,Eastern Europe,Europe,24.418
+DNK,Denmark,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,30.499
+FIN,Finland,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,19.725
+IRL,Ireland,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,132.28
+LVA,Latvia,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,24.643
+LTU,Lithuania,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,36.722
+NOR,Norway,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,27.839
+SWE,Sweden,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,46.919
+GBR,United Kingdom,Northern Europe,Europe,USA,United States of America,Northern America,Northern America,714.999
+IRL,Ireland,Northern Europe,Europe,ZAF,South Africa,Southern Africa,Africa,13.009
+GBR,United Kingdom,Northern Europe,Europe,ZAF,South Africa,Southern Africa,Africa,318.536
+RUS,Russian Federation,Eastern Europe,Europe,ARM,Armenia,Western Asia,Asia,20.58
+CZE,Czech Republic,Eastern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,14.337
+HUN,Hungary,Eastern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,23.135
+POL,Poland,Eastern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,59.868
+ROU,Romania,Eastern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,18.008
+RUS,Russian Federation,Eastern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,24.812
+UKR,Ukraine,Eastern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,17.227
+BGR,Bulgaria,Eastern Europe,Europe,AUT,Austria,Western Europe,Europe,15.733
+CZE,Czech Republic,Eastern Europe,Europe,AUT,Austria,Western Europe,Europe,54.997
+HUN,Hungary,Eastern Europe,Europe,AUT,Austria,Western Europe,Europe,44.468
+POL,Poland,Eastern Europe,Europe,AUT,Austria,Western Europe,Europe,65.989
+ROU,Romania,Eastern Europe,Europe,AUT,Austria,Western Europe,Europe,70.267
+RUS,Russian Federation,Eastern Europe,Europe,AUT,Austria,Western Europe,Europe,30.972
+SVK,Slovakia,Eastern Europe,Europe,AUT,Austria,Western Europe,Europe,27.17
+RUS,Russian Federation,Eastern Europe,Europe,AZE,Azerbaijan,Western Asia,Asia,28.76
+BGR,Bulgaria,Eastern Europe,Europe,BEL,Belgium,Western Europe,Europe,26.415
+POL,Poland,Eastern Europe,Europe,BEL,Belgium,Western Europe,Europe,68.538
+ROU,Romania,Eastern Europe,Europe,BEL,Belgium,Western Europe,Europe,57.125
+RUS,Russian Federation,Eastern Europe,Europe,BEL,Belgium,Western Europe,Europe,21.168
+RUS,Russian Federation,Eastern Europe,Europe,BGR,Bulgaria,Eastern Europe,Europe,20.549
+RUS,Russian Federation,Eastern Europe,Europe,BLR,Belarus,Eastern Europe,Europe,682.362
+UKR,Ukraine,Eastern Europe,Europe,BLR,Belarus,Eastern Europe,Europe,225.734
+BLR,Belarus,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,11.655
+BGR,Bulgaria,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,19.336
+CZE,Czech Republic,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,23.136
+HUN,Hungary,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,44.441
+POL,Poland,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,167.62
+MDA,Republic of Moldova,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,13.945
+ROU,Romania,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,91.049
+RUS,Russian Federation,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,81.799
+SVK,Slovakia,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,14.64
+UKR,Ukraine,Eastern Europe,Europe,CAN,Canada,Northern America,Northern America,73.108
+CZE,Czech Republic,Eastern Europe,Europe,CHE,Switzerland,Western Europe,Europe,14.233
+HUN,Hungary,Eastern Europe,Europe,CHE,Switzerland,Western Europe,Europe,17.521
+POL,Poland,Eastern Europe,Europe,CHE,Switzerland,Western Europe,Europe,26.401
+ROU,Romania,Eastern Europe,Europe,CHE,Switzerland,Western Europe,Europe,14.849
+RUS,Russian Federation,Eastern Europe,Europe,CHE,Switzerland,Western Europe,Europe,19.234
+SVK,Slovakia,Eastern Europe,Europe,CHE,Switzerland,Western Europe,Europe,12.47
+RUS,Russian Federation,Eastern Europe,Europe,CYP,Cyprus,Western Asia,Asia,14.485
+POL,Poland,Eastern Europe,Europe,CZE,Czech Republic,Eastern Europe,Europe,19.224
+RUS,Russian Federation,Eastern Europe,Europe,CZE,Czech Republic,Eastern Europe,Europe,31.669
+SVK,Slovakia,Eastern Europe,Europe,CZE,Czech Republic,Eastern Europe,Europe,87.584
+UKR,Ukraine,Eastern Europe,Europe,CZE,Czech Republic,Eastern Europe,Europe,97.474
+BLR,Belarus,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,25.532
+BGR,Bulgaria,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,105.331
+CZE,Czech Republic,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,543.527
+HUN,Hungary,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,172.755
+POL,Poland,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,1930.136
+MDA,Republic of Moldova,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,23.196
+ROU,Romania,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,590.189
+RUS,Russian Federation,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,1080.503
+SVK,Slovakia,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,42.856
+UKR,Ukraine,Eastern Europe,Europe,DEU,Germany,Western Europe,Europe,261.147
+POL,Poland,Eastern Europe,Europe,DNK,Denmark,Northern Europe,Europe,32.426
+ROU,Romania,Eastern Europe,Europe,DNK,Denmark,Northern Europe,Europe,13.999
+BGR,Bulgaria,Eastern Europe,Europe,ESP,Spain,Southern Europe,Europe,130.116
+POL,Poland,Eastern Europe,Europe,ESP,Spain,Southern Europe,Europe,64.96
+MDA,Republic of Moldova,Eastern Europe,Europe,ESP,Spain,Southern Europe,Europe,16.35
+ROU,Romania,Eastern Europe,Europe,ESP,Spain,Southern Europe,Europe,658.132
+RUS,Russian Federation,Eastern Europe,Europe,ESP,Spain,Southern Europe,Europe,73.266
+UKR,Ukraine,Eastern Europe,Europe,ESP,Spain,Southern Europe,Europe,77.42
+BLR,Belarus,Eastern Europe,Europe,EST,Estonia,Northern Europe,Europe,11.883
+RUS,Russian Federation,Eastern Europe,Europe,EST,Estonia,Northern Europe,Europe,143.677
+UKR,Ukraine,Eastern Europe,Europe,EST,Estonia,Northern Europe,Europe,21.683
+RUS,Russian Federation,Eastern Europe,Europe,FIN,Finland,Northern Europe,Europe,14.36
+BGR,Bulgaria,Eastern Europe,Europe,FRA,France,Western Europe,Europe,17.626
+HUN,Hungary,Eastern Europe,Europe,FRA,France,Western Europe,Europe,10.553
+POL,Poland,Eastern Europe,Europe,FRA,France,Western Europe,Europe,111.648
+ROU,Romania,Eastern Europe,Europe,FRA,France,Western Europe,Europe,89.793
+RUS,Russian Federation,Eastern Europe,Europe,FRA,France,Western Europe,Europe,63.993
+UKR,Ukraine,Eastern Europe,Europe,FRA,France,Western Europe,Europe,15.88
+BGR,Bulgaria,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,51.875
+CZE,Czech Republic,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,41.605
+HUN,Hungary,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,56.166
+POL,Poland,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,703.05
+ROU,Romania,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,89.402
+RUS,Russian Federation,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,42.491
+SVK,Slovakia,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,67.781
+UKR,Ukraine,Eastern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,23.414
+RUS,Russian Federation,Eastern Europe,Europe,GEO,Georgia,Western Asia,Asia,92.937
+UKR,Ukraine,Eastern Europe,Europe,GEO,Georgia,Western Asia,Asia,22.263
+BGR,Bulgaria,Eastern Europe,Europe,GRC,Greece,Southern Europe,Europe,72.893
+POL,Poland,Eastern Europe,Europe,GRC,Greece,Southern Europe,Europe,15.664
+MDA,Republic of Moldova,Eastern Europe,Europe,GRC,Greece,Southern Europe,Europe,10.049
+ROU,Romania,Eastern Europe,Europe,GRC,Greece,Southern Europe,Europe,46.193
+RUS,Russian Federation,Eastern Europe,Europe,GRC,Greece,Southern Europe,Europe,54.192
+UKR,Ukraine,Eastern Europe,Europe,GRC,Greece,Southern Europe,Europe,19.457
+ROU,Romania,Eastern Europe,Europe,HUN,Hungary,Eastern Europe,Europe,204.603
+SVK,Slovakia,Eastern Europe,Europe,HUN,Hungary,Eastern Europe,Europe,21.927
+UKR,Ukraine,Eastern Europe,Europe,HUN,Hungary,Eastern Europe,Europe,34.369
+POL,Poland,Eastern Europe,Europe,IRL,Ireland,Northern Europe,Europe,127.507
+ROU,Romania,Eastern Europe,Europe,IRL,Ireland,Northern Europe,Europe,19.919
+SVK,Slovakia,Eastern Europe,Europe,IRL,Ireland,Northern Europe,Europe,11.838
+POL,Poland,Eastern Europe,Europe,ISL,Iceland,Northern Europe,Europe,10.44
+BLR,Belarus,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,23.119
+BGR,Bulgaria,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,16.633
+HUN,Hungary,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,12.495
+POL,Poland,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,59.286
+MDA,Republic of Moldova,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,10.911
+ROU,Romania,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,103.678
+RUS,Russian Federation,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,114.63
+UKR,Ukraine,Eastern Europe,Europe,ISR,Israel,Western Asia,Asia,135.112
+BLR,Belarus,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,32.383
+BGR,Bulgaria,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,57.691
+CZE,Czech Republic,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,10.403
+HUN,Hungary,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,12.889
+POL,Poland,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,118.641
+MDA,Republic of Moldova,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,166.819
+ROU,Romania,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,1021.613
+RUS,Russian Federation,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,80.75
+SVK,Slovakia,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,10.996
+UKR,Ukraine,Eastern Europe,Europe,ITA,Italy,Southern Europe,Europe,222.241
+BLR,Belarus,Eastern Europe,Europe,KAZ,Kazakhstan,Central Asia,Asia,69.136
+POL,Poland,Eastern Europe,Europe,KAZ,Kazakhstan,Central Asia,Asia,29.224
+MDA,Republic of Moldova,Eastern Europe,Europe,KAZ,Kazakhstan,Central Asia,Asia,12.048
+RUS,Russian Federation,Eastern Europe,Europe,KAZ,Kazakhstan,Central Asia,Asia,2352.598
+UKR,Ukraine,Eastern Europe,Europe,KAZ,Kazakhstan,Central Asia,Asia,338.022
+RUS,Russian Federation,Eastern Europe,Europe,KGZ,Kyrgyzstan,Central Asia,Asia,111.753
+UKR,Ukraine,Eastern Europe,Europe,KGZ,Kyrgyzstan,Central Asia,Asia,26.771
+BLR,Belarus,Eastern Europe,Europe,LTU,Lithuania,Northern Europe,Europe,35.005
+RUS,Russian Federation,Eastern Europe,Europe,LTU,Lithuania,Northern Europe,Europe,59.466
+UKR,Ukraine,Eastern Europe,Europe,LTU,Lithuania,Northern Europe,Europe,12.248
+BLR,Belarus,Eastern Europe,Europe,LVA,Latvia,Northern Europe,Europe,45.962
+RUS,Russian Federation,Eastern Europe,Europe,LVA,Latvia,Northern Europe,Europe,137.224
+UKR,Ukraine,Eastern Europe,Europe,LVA,Latvia,Northern Europe,Europe,33.493
+RUS,Russian Federation,Eastern Europe,Europe,MDA,Republic of Moldova,Eastern Europe,Europe,59.259
+UKR,Ukraine,Eastern Europe,Europe,MDA,Republic of Moldova,Eastern Europe,Europe,64.009
+BGR,Bulgaria,Eastern Europe,Europe,NLD,Netherlands,Western Europe,Europe,18.714
+HUN,Hungary,Eastern Europe,Europe,NLD,Netherlands,Western Europe,Europe,12.801
+POL,Poland,Eastern Europe,Europe,NLD,Netherlands,Western Europe,Europe,98.435
+ROU,Romania,Eastern Europe,Europe,NLD,Netherlands,Western Europe,Europe,14.757
+RUS,Russian Federation,Eastern Europe,Europe,NLD,Netherlands,Western Europe,Europe,56.841
+POL,Poland,Eastern Europe,Europe,NOR,Norway,Northern Europe,Europe,91.213
+ROU,Romania,Eastern Europe,Europe,NOR,Norway,Northern Europe,Europe,12.087
+RUS,Russian Federation,Eastern Europe,Europe,NOR,Norway,Northern Europe,Europe,17.2
+BLR,Belarus,Eastern Europe,Europe,POL,Poland,Eastern Europe,Europe,75.926
+RUS,Russian Federation,Eastern Europe,Europe,POL,Poland,Eastern Europe,Europe,38.146
+UKR,Ukraine,Eastern Europe,Europe,POL,Poland,Eastern Europe,Europe,206.518
+MDA,Republic of Moldova,Eastern Europe,Europe,PRT,Portugal,Southern Europe,Europe,19.098
+ROU,Romania,Eastern Europe,Europe,PRT,Portugal,Southern Europe,Europe,22.038
+UKR,Ukraine,Eastern Europe,Europe,PRT,Portugal,Southern Europe,Europe,45.051
+BGR,Bulgaria,Eastern Europe,Europe,ROU,Romania,Eastern Europe,Europe,11.154
+MDA,Republic of Moldova,Eastern Europe,Europe,ROU,Romania,Eastern Europe,Europe,81.856
+BLR,Belarus,Eastern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,764.279
+CZE,Czech Republic,Eastern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,11.257
+HUN,Hungary,Eastern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,16.841
+POL,Poland,Eastern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,29.207
+MDA,Republic of Moldova,Eastern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,294.314
+UKR,Ukraine,Eastern Europe,Europe,RUS,Russian Federation,Eastern Europe,Europe,3269.992
+CZE,Czech Republic,Eastern Europe,Europe,SVK,Slovakia,Eastern Europe,Europe,89.304
+HUN,Hungary,Eastern Europe,Europe,SVK,Slovakia,Eastern Europe,Europe,17.537
+UKR,Ukraine,Eastern Europe,Europe,SVK,Slovakia,Eastern Europe,Europe,10.001
+HUN,Hungary,Eastern Europe,Europe,SWE,Sweden,Northern Europe,Europe,16.558
+POL,Poland,Eastern Europe,Europe,SWE,Sweden,Northern Europe,Europe,83.542
+ROU,Romania,Eastern Europe,Europe,SWE,Sweden,Northern Europe,Europe,25.223
+RUS,Russian Federation,Eastern Europe,Europe,SWE,Sweden,Northern Europe,Europe,19.457
+RUS,Russian Federation,Eastern Europe,Europe,TJK,Tajikistan,Central Asia,Asia,237.935
+RUS,Russian Federation,Eastern Europe,Europe,TKM,Turkmenistan,Central Asia,Asia,62.351
+BGR,Bulgaria,Eastern Europe,Europe,TUR,Turkey,Western Asia,Asia,482.851
+ROU,Romania,Eastern Europe,Europe,TUR,Turkey,Western Asia,Asia,20.822
+RUS,Russian Federation,Eastern Europe,Europe,TUR,Turkey,Western Asia,Asia,19.944
+BLR,Belarus,Eastern Europe,Europe,UKR,Ukraine,Eastern Europe,Europe,245.534
+MDA,Republic of Moldova,Eastern Europe,Europe,UKR,Ukraine,Eastern Europe,Europe,149.745
+RUS,Russian Federation,Eastern Europe,Europe,UKR,Ukraine,Eastern Europe,Europe,3276.758
+BLR,Belarus,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,56.701
+BGR,Bulgaria,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,65.19
+CZE,Czech Republic,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,70.917
+HUN,Hungary,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,77.67
+POL,Poland,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,463.732
+MDA,Republic of Moldova,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,37.489
+ROU,Romania,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,167.135
+RUS,Russian Federation,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,402.574
+UKR,Ukraine,Eastern Europe,Europe,USA,United States of America,Northern America,Northern America,345.783
+BLR,Belarus,Eastern Europe,Europe,UZB,Uzbekistan,Central Asia,Asia,26.532
+RUS,Russian Federation,Eastern Europe,Europe,UZB,Uzbekistan,Central Asia,Asia,877.69
+UKR,Ukraine,Eastern Europe,Europe,UZB,Uzbekistan,Central Asia,Asia,124.602
+POL,Poland,Eastern Europe,Europe,ZAF,South Africa,Southern Africa,Africa,10.061
+PRT,Portugal,Southern Europe,Europe,AGO,Angola,Middle Africa,Africa,15.528
+GRC,Greece,Southern Europe,Europe,ALB,Albania,Southern Europe,Europe,34.989
+PRT,Portugal,Southern Europe,Europe,AND,Andorra,Southern Europe,Europe,11.012
+ESP,Spain,Southern Europe,Europe,AND,Andorra,Southern Europe,Europe,20.446
+ITA,Italy,Southern Europe,Europe,ARG,Argentina,South America,Latin America and the Caribbean,152.338
+ESP,Spain,Southern Europe,Europe,ARG,Argentina,South America,Latin America and the Caribbean,98.05
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,41.449
+HRV,Croatia,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,69.89
+GRC,Greece,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,126.551
+ITA,Italy,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,210.061
+MLT,Malta,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,49.224
+PRT,Portugal,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,20.044
+SRB,Serbia,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,37.967
+ESP,Spain,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,18.061
+MKD,TFYR Macedonia,Southern Europe,Europe,AUS,Australia,Australia/New Zealand,Oceania,53.665
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,AUT,Austria,Western Europe,Europe,155.164
+HRV,Croatia,Southern Europe,Europe,AUT,Austria,Western Europe,Europe,40.006
+ITA,Italy,Southern Europe,Europe,AUT,Austria,Western Europe,Europe,29.738
+MNE,Montenegro,Southern Europe,Europe,AUT,Austria,Western Europe,Europe,21.842
+SRB,Serbia,Southern Europe,Europe,AUT,Austria,Western Europe,Europe,195.177
+SVN,Slovenia,Southern Europe,Europe,AUT,Austria,Western Europe,Europe,17.908
+MKD,TFYR Macedonia,Southern Europe,Europe,AUT,Austria,Western Europe,Europe,21.921
+GRC,Greece,Southern Europe,Europe,BEL,Belgium,Western Europe,Europe,17.276
+ITA,Italy,Southern Europe,Europe,BEL,Belgium,Western Europe,Europe,175.322
+PRT,Portugal,Southern Europe,Europe,BEL,Belgium,Western Europe,Europe,43.224
+ESP,Spain,Southern Europe,Europe,BEL,Belgium,Western Europe,Europe,60.598
+HRV,Croatia,Southern Europe,Europe,BIH,Bosnia and Herzegovina,Southern Europe,Europe,11.528
+ESP,Spain,Southern Europe,Europe,BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,12.181
+ITA,Italy,Southern Europe,Europe,BRA,Brazil,South America,Latin America and the Caribbean,44.366
+PRT,Portugal,Southern Europe,Europe,BRA,Brazil,South America,Latin America and the Caribbean,164.705
+ESP,Spain,Southern Europe,Europe,BRA,Brazil,South America,Latin America and the Caribbean,36.691
+ALB,Albania,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,15.265
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,39.583
+HRV,Croatia,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,44.376
+GRC,Greece,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,73.005
+ITA,Italy,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,282.537
+PRT,Portugal,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,152.329
+SRB,Serbia,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,35.859
+ESP,Spain,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,10.943
+MKD,TFYR Macedonia,Southern Europe,Europe,CAN,Canada,Northern America,Northern America,10.563
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,CHE,Switzerland,Western Europe,Europe,57.542
+HRV,Croatia,Southern Europe,Europe,CHE,Switzerland,Western Europe,Europe,21.766
+ITA,Italy,Southern Europe,Europe,CHE,Switzerland,Western Europe,Europe,264.786
+PRT,Portugal,Southern Europe,Europe,CHE,Switzerland,Western Europe,Europe,205.887
+SRB,Serbia,Southern Europe,Europe,CHE,Switzerland,Western Europe,Europe,168.629
+ESP,Spain,Southern Europe,Europe,CHE,Switzerland,Western Europe,Europe,62.87
+MKD,TFYR Macedonia,Southern Europe,Europe,CHE,Switzerland,Western Europe,Europe,58.804
+PRT,Portugal,Southern Europe,Europe,CHI,Channel Islands,Northern Europe,Europe,13.856
+GRC,Greece,Southern Europe,Europe,CYP,Cyprus,Western Asia,Asia,26.409
+ALB,Albania,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,18.043
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,199.837
+HRV,Croatia,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,209.477
+GRC,Greece,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,215.059
+ITA,Italy,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,414.476
+PRT,Portugal,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,98.464
+SRB,Serbia,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,106.673
+SVN,Slovenia,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,39.738
+ESP,Spain,Southern Europe,Europe,DEU,Germany,Western Europe,Europe,100.56
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,DNK,Denmark,Northern Europe,Europe,18.735
+ITA,Italy,Southern Europe,Europe,ESP,Spain,Southern Europe,Europe,100.304
+PRT,Portugal,Southern Europe,Europe,ESP,Spain,Southern Europe,Europe,114.661
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,FRA,France,Western Europe,Europe,13.939
+HRV,Croatia,Southern Europe,Europe,FRA,France,Western Europe,Europe,10.097
+GRC,Greece,Southern Europe,Europe,FRA,France,Western Europe,Europe,12.89
+ITA,Italy,Southern Europe,Europe,FRA,France,Western Europe,Europe,367.593
+PRT,Portugal,Southern Europe,Europe,FRA,France,Western Europe,Europe,713.158
+SRB,Serbia,Southern Europe,Europe,FRA,France,Western Europe,Europe,84.701
+ESP,Spain,Southern Europe,Europe,FRA,France,Western Europe,Europe,304.422
+ALB,Albania,Southern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,14.688
+GIB,Gibraltar,Southern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,11.955
+GRC,Greece,Southern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,39.7
+ITA,Italy,Southern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,151.79
+MLT,Malta,Southern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,31.758
+PRT,Portugal,Southern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,98.967
+ESP,Spain,Southern Europe,Europe,GBR,United Kingdom,Northern Europe,Europe,91.179
+ALB,Albania,Southern Europe,Europe,GRC,Greece,Southern Europe,Europe,437.356
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,HRV,Croatia,Southern Europe,Europe,404.874
+SRB,Serbia,Southern Europe,Europe,HRV,Croatia,Southern Europe,Europe,52.185
+SVN,Slovenia,Southern Europe,Europe,HRV,Croatia,Southern Europe,Europe,19.587
+MKD,TFYR Macedonia,Southern Europe,Europe,HRV,Croatia,Southern Europe,Europe,10.055
+SRB,Serbia,Southern Europe,Europe,HUN,Hungary,Eastern Europe,Europe,38.724
+ALB,Albania,Southern Europe,Europe,ITA,Italy,Southern Europe,Europe,447.586
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,ITA,Italy,Southern Europe,Europe,11.106
+HRV,Croatia,Southern Europe,Europe,ITA,Italy,Southern Europe,Europe,24.709
+GRC,Greece,Southern Europe,Europe,ITA,Italy,Southern Europe,Europe,17.405
+SRB,Serbia,Southern Europe,Europe,ITA,Italy,Southern Europe,Europe,45.581
+ESP,Spain,Southern Europe,Europe,ITA,Italy,Southern Europe,Europe,31.829
+MKD,TFYR Macedonia,Southern Europe,Europe,ITA,Italy,Southern Europe,Europe,73.033
+ITA,Italy,Southern Europe,Europe,LUX,Luxembourg,Western Europe,Europe,20.657
+PRT,Portugal,Southern Europe,Europe,LUX,Luxembourg,Western Europe,Europe,94.851
+ESP,Spain,Southern Europe,Europe,MEX,Mexico,Central America,Latin America and the Caribbean,26.909
+ALB,Albania,Southern Europe,Europe,MKD,TFYR Macedonia,Southern Europe,Europe,67.799
+SRB,Serbia,Southern Europe,Europe,MKD,TFYR Macedonia,Southern Europe,Europe,17.93
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,MNE,Montenegro,Southern Europe,Europe,34.259
+HRV,Croatia,Southern Europe,Europe,MNE,Montenegro,Southern Europe,Europe,16.344
+SRB,Serbia,Southern Europe,Europe,MNE,Montenegro,Southern Europe,Europe,17.433
+GRC,Greece,Southern Europe,Europe,NLD,Netherlands,Western Europe,Europe,13.959
+ITA,Italy,Southern Europe,Europe,NLD,Netherlands,Western Europe,Europe,24.402
+PRT,Portugal,Southern Europe,Europe,NLD,Netherlands,Western Europe,Europe,16.75
+SRB,Serbia,Southern Europe,Europe,NLD,Netherlands,Western Europe,Europe,26.711
+ESP,Spain,Southern Europe,Europe,NLD,Netherlands,Western Europe,Europe,24.734
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,NOR,Norway,Northern Europe,Europe,13.343
+ESP,Spain,Southern Europe,Europe,PRT,Portugal,Southern Europe,Europe,15.339
+ITA,Italy,Southern Europe,Europe,ROU,Romania,Eastern Europe,Europe,26.38
+ESP,Spain,Southern Europe,Europe,ROU,Romania,Eastern Europe,Europe,22.914
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,SRB,Serbia,Southern Europe,Europe,335.992
+HRV,Croatia,Southern Europe,Europe,SRB,Serbia,Southern Europe,Europe,283.247
+MNE,Montenegro,Southern Europe,Europe,SRB,Serbia,Southern Europe,Europe,71.224
+SVN,Slovenia,Southern Europe,Europe,SRB,Serbia,Southern Europe,Europe,10.93
+MKD,TFYR Macedonia,Southern Europe,Europe,SRB,Serbia,Southern Europe,Europe,46.737
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,SVN,Slovenia,Southern Europe,Europe,105.313
+HRV,Croatia,Southern Europe,Europe,SVN,Slovenia,Southern Europe,Europe,49.719
+SRB,Serbia,Southern Europe,Europe,SVN,Slovenia,Southern Europe,Europe,28.334
+MKD,TFYR Macedonia,Southern Europe,Europe,SVN,Slovenia,Southern Europe,Europe,16.51
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,SWE,Sweden,Northern Europe,Europe,58.583
+GRC,Greece,Southern Europe,Europe,SWE,Sweden,Northern Europe,Europe,15.518
+ITA,Italy,Southern Europe,Europe,SWE,Sweden,Northern Europe,Europe,10.242
+GRC,Greece,Southern Europe,Europe,TUR,Turkey,Western Asia,Asia,59.465
+MKD,TFYR Macedonia,Southern Europe,Europe,TUR,Turkey,Western Asia,Asia,144.544
+ITA,Italy,Southern Europe,Europe,URY,Uruguay,South America,Latin America and the Caribbean,10.051
+ESP,Spain,Southern Europe,Europe,URY,Uruguay,South America,Latin America and the Caribbean,13.224
+ALB,Albania,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,81.196
+BIH,Bosnia and Herzegovina,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,122.19
+HRV,Croatia,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,44.598
+GRC,Greece,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,141.257
+ITA,Italy,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,376.13
+PRT,Portugal,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,392.626
+SRB,Serbia,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,33.605
+ESP,Spain,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,94.364
+MKD,TFYR Macedonia,Southern Europe,Europe,USA,United States of America,Northern America,Northern America,25.316
+ITA,Italy,Southern Europe,Europe,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,51.068
+PRT,Portugal,Southern Europe,Europe,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,54.591
+ESP,Spain,Southern Europe,Europe,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,74.582
+ITA,Italy,Southern Europe,Europe,ZAF,South Africa,Southern Africa,Africa,25.07
+PRT,Portugal,Southern Europe,Europe,ZAF,South Africa,Southern Africa,Africa,48.738
+EGY,Egypt,Northern Africa,Africa,ARE,United Arab Emirates,Western Asia,Asia,935.308
+SDN,Sudan,Northern Africa,Africa,ARE,United Arab Emirates,Western Asia,Asia,86.981
+EGY,Egypt,Northern Africa,Africa,AUS,Australia,Australia/New Zealand,Oceania,45.352
+SDN,Sudan,Northern Africa,Africa,AUS,Australia,Australia/New Zealand,Oceania,23.989
+EGY,Egypt,Northern Africa,Africa,AUT,Austria,Western Europe,Europe,14.891
+DZA,Algeria,Northern Africa,Africa,BEL,Belgium,Western Europe,Europe,12.054
+MAR,Morocco,Northern Africa,Africa,BEL,Belgium,Western Europe,Europe,93.012
+EGY,Egypt,Northern Africa,Africa,BHR,Bahrain,Western Asia,Asia,80.889
+SDN,Sudan,Northern Africa,Africa,CAF,Central African Republic,Middle Africa,Africa,19.546
+DZA,Algeria,Northern Africa,Africa,CAN,Canada,Northern America,Northern America,57.024
+EGY,Egypt,Northern Africa,Africa,CAN,Canada,Northern America,Northern America,55.927
+MAR,Morocco,Northern Africa,Africa,CAN,Canada,Northern America,Northern America,63.869
+SDN,Sudan,Northern Africa,Africa,CAN,Canada,Northern America,Northern America,15.221
+TUN,Tunisia,Northern Africa,Africa,CAN,Canada,Northern America,Northern America,13.099
+MAR,Morocco,Northern Africa,Africa,CHE,Switzerland,Western Europe,Europe,17.494
+TUN,Tunisia,Northern Africa,Africa,CHE,Switzerland,Western Europe,Europe,11.153
+DZA,Algeria,Northern Africa,Africa,DEU,Germany,Western Europe,Europe,23.272
+EGY,Egypt,Northern Africa,Africa,DEU,Germany,Western Europe,Europe,23.35
+MAR,Morocco,Northern Africa,Africa,DEU,Germany,Western Europe,Europe,114.552
+TUN,Tunisia,Northern Africa,Africa,DEU,Germany,Western Europe,Europe,41.332
+ESH,Western Sahara,Northern Africa,Africa,DZA,Algeria,Northern Africa,Africa,90.939
+SDN,Sudan,Northern Africa,Africa,EGY,Egypt,Northern Africa,Africa,31.589
+DZA,Algeria,Northern Africa,Africa,ESP,Spain,Southern Europe,Europe,55.306
+MAR,Morocco,Northern Africa,Africa,ESP,Spain,Southern Europe,Europe,699.8
+SDN,Sudan,Northern Africa,Africa,ETH,Ethiopia,Eastern Africa,Africa,24.539
+DZA,Algeria,Northern Africa,Africa,FRA,France,Western Europe,Europe,1430.656
+EGY,Egypt,Northern Africa,Africa,FRA,France,Western Europe,Europe,30.937
+MAR,Morocco,Northern Africa,Africa,FRA,France,Western Europe,Europe,926.466
+TUN,Tunisia,Northern Africa,Africa,FRA,France,Western Europe,Europe,388.598
+DZA,Algeria,Northern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,26.826
+EGY,Egypt,Northern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,33.686
+LBY,Libya,Northern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,17.684
+MAR,Morocco,Northern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,23.519
+SDN,Sudan,Northern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,19.758
+EGY,Egypt,Northern Africa,Africa,GRC,Greece,Southern Europe,Europe,28.267
+EGY,Egypt,Northern Africa,Africa,IRQ,Iraq,Western Asia,Asia,14.364
+DZA,Algeria,Northern Africa,Africa,ISR,Israel,Western Asia,Asia,45.68
+EGY,Egypt,Northern Africa,Africa,ISR,Israel,Western Asia,Asia,21.1
+LBY,Libya,Northern Africa,Africa,ISR,Israel,Western Asia,Asia,17.273
+MAR,Morocco,Northern Africa,Africa,ISR,Israel,Western Asia,Asia,163.113
+TUN,Tunisia,Northern Africa,Africa,ISR,Israel,Western Asia,Asia,23.543
+DZA,Algeria,Northern Africa,Africa,ITA,Italy,Southern Europe,Europe,22.471
+EGY,Egypt,Northern Africa,Africa,ITA,Italy,Southern Europe,Europe,108.49
+LBY,Libya,Northern Africa,Africa,ITA,Italy,Southern Europe,Europe,36.222
+MAR,Morocco,Northern Africa,Africa,ITA,Italy,Southern Europe,Europe,425.238
+TUN,Tunisia,Northern Africa,Africa,ITA,Italy,Southern Europe,Europe,107.671
+EGY,Egypt,Northern Africa,Africa,JOR,Jordan,Western Asia,Asia,138.939
+EGY,Egypt,Northern Africa,Africa,KWT,Kuwait,Western Asia,Asia,387.993
+SDN,Sudan,Northern Africa,Africa,KWT,Kuwait,Western Asia,Asia,45.525
+EGY,Egypt,Northern Africa,Africa,LBN,Lebanon,Western Asia,Asia,83.312
+EGY,Egypt,Northern Africa,Africa,LBY,Libya,Northern Africa,Africa,21.004
+SDN,Sudan,Northern Africa,Africa,LBY,Libya,Northern Africa,Africa,14.428
+DZA,Algeria,Northern Africa,Africa,MAR,Morocco,Northern Africa,Africa,13.664
+EGY,Egypt,Northern Africa,Africa,NLD,Netherlands,Western Europe,Europe,12.893
+MAR,Morocco,Northern Africa,Africa,NLD,Netherlands,Western Europe,Europe,172.291
+EGY,Egypt,Northern Africa,Africa,OMN,Oman,Western Asia,Asia,78.63
+SDN,Sudan,Northern Africa,Africa,OMN,Oman,Western Asia,Asia,15.775
+EGY,Egypt,Northern Africa,Africa,PSE,State of Palestine,Western Asia,Asia,18.451
+EGY,Egypt,Northern Africa,Africa,QAT,Qatar,Western Asia,Asia,163.569
+SDN,Sudan,Northern Africa,Africa,QAT,Qatar,Western Asia,Asia,18.583
+EGY,Egypt,Northern Africa,Africa,SAU,Saudi Arabia,Western Asia,Asia,728.608
+SDN,Sudan,Northern Africa,Africa,SAU,Saudi Arabia,Western Asia,Asia,364.304
+EGY,Egypt,Northern Africa,Africa,SDN,Sudan,Northern Africa,Africa,13.423
+SDN,Sudan,Northern Africa,Africa,SSD,South Sudan,Eastern Africa,Africa,552.391
+SDN,Sudan,Northern Africa,Africa,TCD,Chad,Middle Africa,Africa,363.465
+DZA,Algeria,Northern Africa,Africa,TUN,Tunisia,Northern Africa,Africa,10.443
+SDN,Sudan,Northern Africa,Africa,UGA,Uganda,Eastern Africa,Africa,164.136
+DZA,Algeria,Northern Africa,Africa,USA,United States of America,Northern America,Northern America,17.7
+EGY,Egypt,Northern Africa,Africa,USA,United States of America,Northern America,Northern America,159.562
+MAR,Morocco,Northern Africa,Africa,USA,United States of America,Northern America,Northern America,62.51
+SDN,Sudan,Northern Africa,Africa,USA,United States of America,Northern America,Northern America,42.306
+TUN,Tunisia,Northern Africa,Africa,USA,United States of America,Northern America,Northern America,10.295
+EGY,Egypt,Northern Africa,Africa,YEM,Yemen,Western Asia,Asia,11.096
+SDN,Sudan,Northern Africa,Africa,YEM,Yemen,Western Asia,Asia,27.082
+CPV,Cabo Verde,Western Africa,Africa,AGO,Angola,Middle Africa,Africa,10.459
+NGA,Nigeria,Western Africa,Africa,ARE,United Arab Emirates,Western Asia,Asia,22.572
+GIN,Guinea,Western Africa,Africa,BEL,Belgium,Western Europe,Europe,12.274
+CIV,C?te d'Ivoire,Western Africa,Africa,BEN,Benin,Western Africa,Africa,13.742
+GHA,Ghana,Western Africa,Africa,BEN,Benin,Western Africa,Africa,10.211
+NER,Niger,Western Africa,Africa,BEN,Benin,Western Africa,Africa,75.775
+NGA,Nigeria,Western Africa,Africa,BEN,Benin,Western Africa,Africa,44.603
+TGO,Togo,Western Africa,Africa,BEN,Benin,Western Africa,Africa,48.118
+CIV,C?te d'Ivoire,Western Africa,Africa,BFA,Burkina Faso,Western Africa,Africa,540.779
+GHA,Ghana,Western Africa,Africa,BFA,Burkina Faso,Western Africa,Africa,32.217
+MLI,Mali,Western Africa,Africa,BFA,Burkina Faso,Western Africa,Africa,43.815
+NER,Niger,Western Africa,Africa,BFA,Burkina Faso,Western Africa,Africa,12.757
+TGO,Togo,Western Africa,Africa,BFA,Burkina Faso,Western Africa,Africa,15.393
+GHA,Ghana,Western Africa,Africa,CAN,Canada,Northern America,Northern America,23.868
+NGA,Nigeria,Western Africa,Africa,CAN,Canada,Northern America,Northern America,34.432
+BEN,Benin,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,54.068
+BFA,Burkina Faso,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,1294.323
+GHA,Ghana,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,42.749
+GIN,Guinea,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,94.98
+LBR,Liberia,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,82.428
+MLI,Mali,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,356.019
+NER,Niger,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,49.783
+NGA,Nigeria,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,38.917
+SEN,Senegal,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,18.994
+TGO,Togo,Western Africa,Africa,CIV,C?te d'Ivoire,Western Africa,Africa,50.328
+NGA,Nigeria,Western Africa,Africa,CMR,Cameroon,Middle Africa,Africa,81.676
+BEN,Benin,Western Africa,Africa,COG,Congo,Middle Africa,Africa,15.194
+MLI,Mali,Western Africa,Africa,COG,Congo,Middle Africa,Africa,33.918
+SEN,Senegal,Western Africa,Africa,COG,Congo,Middle Africa,Africa,13.265
+GHA,Ghana,Western Africa,Africa,DEU,Germany,Western Europe,Europe,30.143
+NGA,Nigeria,Western Africa,Africa,DEU,Germany,Western Europe,Europe,26.623
+TGO,Togo,Western Africa,Africa,DEU,Germany,Western Europe,Europe,14.251
+GMB,Gambia,Western Africa,Africa,ESP,Spain,Southern Europe,Europe,16.954
+GHA,Ghana,Western Africa,Africa,ESP,Spain,Southern Europe,Europe,12.033
+MLI,Mali,Western Africa,Africa,ESP,Spain,Southern Europe,Europe,17.771
+NGA,Nigeria,Western Africa,Africa,ESP,Spain,Southern Europe,Europe,30.995
+SEN,Senegal,Western Africa,Africa,ESP,Spain,Southern Europe,Europe,49.383
+BEN,Benin,Western Africa,Africa,FRA,France,Western Europe,Europe,20.414
+CPV,Cabo Verde,Western Africa,Africa,FRA,France,Western Europe,Europe,22.292
+CIV,C?te d'Ivoire,Western Africa,Africa,FRA,France,Western Europe,Europe,89.937
+GIN,Guinea,Western Africa,Africa,FRA,France,Western Europe,Europe,30.209
+MLI,Mali,Western Africa,Africa,FRA,France,Western Europe,Europe,75.555
+MRT,Mauritania,Western Africa,Africa,FRA,France,Western Europe,Europe,17.768
+SEN,Senegal,Western Africa,Africa,FRA,France,Western Europe,Europe,117.87
+TGO,Togo,Western Africa,Africa,FRA,France,Western Europe,Europe,23.763
+BEN,Benin,Western Africa,Africa,GAB,Gabon,Middle Africa,Africa,33.794
+MLI,Mali,Western Africa,Africa,GAB,Gabon,Middle Africa,Africa,35.709
+NGA,Nigeria,Western Africa,Africa,GAB,Gabon,Middle Africa,Africa,15.479
+SEN,Senegal,Western Africa,Africa,GAB,Gabon,Middle Africa,Africa,19.746
+TGO,Togo,Western Africa,Africa,GAB,Gabon,Middle Africa,Africa,14.9
+GMB,Gambia,Western Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,12.194
+GHA,Ghana,Western Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,102.837
+NGA,Nigeria,Western Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,216.268
+SLE,Sierra Leone,Western Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,25.281
+BEN,Benin,Western Africa,Africa,GHA,Ghana,Western Africa,Africa,16.551
+BFA,Burkina Faso,Western Africa,Africa,GHA,Ghana,Western Africa,Africa,57.733
+CIV,C?te d'Ivoire,Western Africa,Africa,GHA,Ghana,Western Africa,Africa,30.359
+LBR,Liberia,Western Africa,Africa,GHA,Ghana,Western Africa,Africa,27.689
+NGA,Nigeria,Western Africa,Africa,GHA,Ghana,Western Africa,Africa,67.629
+TGO,Togo,Western Africa,Africa,GHA,Ghana,Western Africa,Africa,87.494
+CIV,C?te d'Ivoire,Western Africa,Africa,GIN,Guinea,Western Africa,Africa,13.608
+GNB,Guinea-Bissau,Western Africa,Africa,GIN,Guinea,Western Africa,Africa,11.011
+LBR,Liberia,Western Africa,Africa,GIN,Guinea,Western Africa,Africa,32.706
+MLI,Mali,Western Africa,Africa,GIN,Guinea,Western Africa,Africa,61.197
+SEN,Senegal,Western Africa,Africa,GIN,Guinea,Western Africa,Africa,26.64
+SLE,Sierra Leone,Western Africa,Africa,GIN,Guinea,Western Africa,Africa,15.098
+GIN,Guinea,Western Africa,Africa,GMB,Gambia,Western Africa,Africa,40.369
+GNB,Guinea-Bissau,Western Africa,Africa,GMB,Gambia,Western Africa,Africa,12.328
+SEN,Senegal,Western Africa,Africa,GMB,Gambia,Western Africa,Africa,118.452
+SEN,Senegal,Western Africa,Africa,GNB,Guinea-Bissau,Western Africa,Africa,11.087
+NGA,Nigeria,Western Africa,Africa,IRL,Ireland,Northern Europe,Europe,21.894
+BFA,Burkina Faso,Western Africa,Africa,ITA,Italy,Southern Europe,Europe,11.657
+CIV,C?te d'Ivoire,Western Africa,Africa,ITA,Italy,Southern Europe,Europe,25.555
+GHA,Ghana,Western Africa,Africa,ITA,Italy,Southern Europe,Europe,46.548
+NGA,Nigeria,Western Africa,Africa,ITA,Italy,Southern Europe,Europe,56.259
+SEN,Senegal,Western Africa,Africa,ITA,Italy,Southern Europe,Europe,84.815
+CIV,C?te d'Ivoire,Western Africa,Africa,LBR,Liberia,Western Africa,Africa,40.985
+GIN,Guinea,Western Africa,Africa,LBR,Liberia,Western Africa,Africa,37.38
+SLE,Sierra Leone,Western Africa,Africa,LBR,Liberia,Western Africa,Africa,11.413
+BFA,Burkina Faso,Western Africa,Africa,MLI,Mali,Western Africa,Africa,23.922
+CIV,C?te d'Ivoire,Western Africa,Africa,MLI,Mali,Western Africa,Africa,20.144
+GHA,Ghana,Western Africa,Africa,MLI,Mali,Western Africa,Africa,18.561
+GIN,Guinea,Western Africa,Africa,MLI,Mali,Western Africa,Africa,17.762
+MRT,Mauritania,Western Africa,Africa,MLI,Mali,Western Africa,Africa,17.189
+NGA,Nigeria,Western Africa,Africa,MLI,Mali,Western Africa,Africa,11.84
+MLI,Mali,Western Africa,Africa,MRT,Mauritania,Western Africa,Africa,56.557
+SEN,Senegal,Western Africa,Africa,MRT,Mauritania,Western Africa,Africa,38.574
+BEN,Benin,Western Africa,Africa,NER,Niger,Western Africa,Africa,17.908
+BFA,Burkina Faso,Western Africa,Africa,NER,Niger,Western Africa,Africa,19.323
+MLI,Mali,Western Africa,Africa,NER,Niger,Western Africa,Africa,84.64
+NGA,Nigeria,Western Africa,Africa,NER,Niger,Western Africa,Africa,19.436
+BEN,Benin,Western Africa,Africa,NGA,Nigeria,Western Africa,Africa,351.985
+GHA,Ghana,Western Africa,Africa,NGA,Nigeria,Western Africa,Africa,222.377
+LBR,Liberia,Western Africa,Africa,NGA,Nigeria,Western Africa,Africa,20.541
+MLI,Mali,Western Africa,Africa,NGA,Nigeria,Western Africa,Africa,160.967
+NER,Niger,Western Africa,Africa,NGA,Nigeria,Western Africa,Africa,112.733
+TGO,Togo,Western Africa,Africa,NGA,Nigeria,Western Africa,Africa,147.698
+CPV,Cabo Verde,Western Africa,Africa,NLD,Netherlands,Western Europe,Europe,11.997
+GHA,Ghana,Western Africa,Africa,NLD,Netherlands,Western Europe,Europe,14.212
+CPV,Cabo Verde,Western Africa,Africa,PRT,Portugal,Southern Europe,Europe,57.636
+GNB,Guinea-Bissau,Western Africa,Africa,PRT,Portugal,Southern Europe,Europe,27.517
+NGA,Nigeria,Western Africa,Africa,SDN,Sudan,Northern Africa,Africa,14.828
+GIN,Guinea,Western Africa,Africa,SEN,Senegal,Western Africa,Africa,49.78
+GNB,Guinea-Bissau,Western Africa,Africa,SEN,Senegal,Western Africa,Africa,28.501
+MLI,Mali,Western Africa,Africa,SEN,Senegal,Western Africa,Africa,32.93
+MRT,Mauritania,Western Africa,Africa,SEN,Senegal,Western Africa,Africa,51.49
+SLE,Sierra Leone,Western Africa,Africa,SEN,Senegal,Western Africa,Africa,14.398
+GIN,Guinea,Western Africa,Africa,SLE,Sierra Leone,Western Africa,Africa,68.467
+BEN,Benin,Western Africa,Africa,TGO,Togo,Western Africa,Africa,71.438
+BFA,Burkina Faso,Western Africa,Africa,TGO,Togo,Western Africa,Africa,13.601
+GHA,Ghana,Western Africa,Africa,TGO,Togo,Western Africa,Africa,46.794
+NER,Niger,Western Africa,Africa,TGO,Togo,Western Africa,Africa,65.529
+NGA,Nigeria,Western Africa,Africa,TGO,Togo,Western Africa,Africa,31.974
+CPV,Cabo Verde,Western Africa,Africa,USA,United States of America,Northern America,Northern America,35.228
+CIV,C?te d'Ivoire,Western Africa,Africa,USA,United States of America,Northern America,Northern America,25.976
+GMB,Gambia,Western Africa,Africa,USA,United States of America,Northern America,Northern America,20.877
+GHA,Ghana,Western Africa,Africa,USA,United States of America,Northern America,Northern America,134.338
+GIN,Guinea,Western Africa,Africa,USA,United States of America,Northern America,Northern America,18.331
+LBR,Liberia,Western Africa,Africa,USA,United States of America,Northern America,Northern America,75.408
+NGA,Nigeria,Western Africa,Africa,USA,United States of America,Northern America,Northern America,237.221
+SEN,Senegal,Western Africa,Africa,USA,United States of America,Northern America,Northern America,38.148
+SLE,Sierra Leone,Western Africa,Africa,USA,United States of America,Northern America,Northern America,36.561
+NGA,Nigeria,Western Africa,Africa,ZAF,South Africa,Southern Africa,Africa,17.753
+COD,Democratic Republic of the Congo,Middle Africa,Africa,AGO,Angola,Middle Africa,Africa,43.192
+COD,Democratic Republic of the Congo,Middle Africa,Africa,BDI,Burundi,Eastern Africa,Africa,167.768
+CMR,Cameroon,Middle Africa,Africa,BEL,Belgium,Western Europe,Europe,12.295
+COD,Democratic Republic of the Congo,Middle Africa,Africa,BEL,Belgium,Western Europe,Europe,26.488
+TCD,Chad,Middle Africa,Africa,CAF,Central African Republic,Middle Africa,Africa,10.029
+COD,Democratic Republic of the Congo,Middle Africa,Africa,CAF,Central African Republic,Middle Africa,Africa,17.219
+COD,Democratic Republic of the Congo,Middle Africa,Africa,CAN,Canada,Northern America,Northern America,21.594
+CAF,Central African Republic,Middle Africa,Africa,CMR,Cameroon,Middle Africa,Africa,201.957
+TCD,Chad,Middle Africa,Africa,CMR,Cameroon,Middle Africa,Africa,54.16
+AGO,Angola,Middle Africa,Africa,COD,Democratic Republic of the Congo,Middle Africa,Africa,185.205
+CAF,Central African Republic,Middle Africa,Africa,COD,Democratic Republic of the Congo,Middle Africa,Africa,73.094
+AGO,Angola,Middle Africa,Africa,COG,Congo,Middle Africa,Africa,41.238
+CMR,Cameroon,Middle Africa,Africa,COG,Congo,Middle Africa,Africa,11.3
+CAF,Central African Republic,Middle Africa,Africa,COG,Congo,Middle Africa,Africa,32.696
+TCD,Chad,Middle Africa,Africa,COG,Congo,Middle Africa,Africa,10.565
+COD,Democratic Republic of the Congo,Middle Africa,Africa,COG,Congo,Middle Africa,Africa,170.368
+CMR,Cameroon,Middle Africa,Africa,DEU,Germany,Western Europe,Europe,19.897
+GNQ,Equatorial Guinea,Middle Africa,Africa,ESP,Spain,Southern Europe,Europe,18.841
+AGO,Angola,Middle Africa,Africa,FRA,France,Western Europe,Europe,21.287
+CMR,Cameroon,Middle Africa,Africa,FRA,France,Western Europe,Europe,81.278
+CAF,Central African Republic,Middle Africa,Africa,FRA,France,Western Europe,Europe,16.719
+COG,Congo,Middle Africa,Africa,FRA,France,Western Europe,Europe,69.474
+COD,Democratic Republic of the Congo,Middle Africa,Africa,FRA,France,Western Europe,Europe,76.723
+GAB,Gabon,Middle Africa,Africa,FRA,France,Western Europe,Europe,19.78
+CMR,Cameroon,Middle Africa,Africa,GAB,Gabon,Middle Africa,Africa,32.792
+COG,Congo,Middle Africa,Africa,GAB,Gabon,Middle Africa,Africa,10.564
+GNQ,Equatorial Guinea,Middle Africa,Africa,GAB,Gabon,Middle Africa,Africa,56.283
+AGO,Angola,Middle Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,15.712
+CMR,Cameroon,Middle Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,11.009
+COD,Democratic Republic of the Congo,Middle Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,20.971
+CMR,Cameroon,Middle Africa,Africa,ITA,Italy,Southern Europe,Europe,11.457
+COD,Democratic Republic of the Congo,Middle Africa,Africa,KEN,Kenya,Eastern Africa,Africa,11.292
+COG,Congo,Middle Africa,Africa,MLI,Mali,Western Africa,Africa,29.972
+GAB,Gabon,Middle Africa,Africa,MLI,Mali,Western Africa,Africa,33.255
+AGO,Angola,Middle Africa,Africa,NAM,Namibia,Southern Africa,Africa,33.98
+CMR,Cameroon,Middle Africa,Africa,NGA,Nigeria,Western Africa,Africa,26.893
+TCD,Chad,Middle Africa,Africa,NGA,Nigeria,Western Africa,Africa,29.175
+AGO,Angola,Middle Africa,Africa,PRT,Portugal,Southern Europe,Europe,151.273
+STP,Sao Tome and Principe,Middle Africa,Africa,PRT,Portugal,Southern Europe,Europe,17.345
+COD,Democratic Republic of the Congo,Middle Africa,Africa,RWA,Rwanda,Eastern Africa,Africa,230.622
+CAF,Central African Republic,Middle Africa,Africa,SDN,Sudan,Northern Africa,Africa,13.489
+TCD,Chad,Middle Africa,Africa,SDN,Sudan,Northern Africa,Africa,74.514
+COD,Democratic Republic of the Congo,Middle Africa,Africa,SSD,South Sudan,Eastern Africa,Africa,82.755
+CMR,Cameroon,Middle Africa,Africa,TCD,Chad,Middle Africa,Africa,36.938
+CAF,Central African Republic,Middle Africa,Africa,TCD,Chad,Middle Africa,Africa,93.259
+COG,Congo,Middle Africa,Africa,TZA,United Republic of Tanzania,Eastern Africa,Africa,25.017
+COD,Democratic Republic of the Congo,Middle Africa,Africa,TZA,United Republic of Tanzania,Eastern Africa,Africa,58.25
+COD,Democratic Republic of the Congo,Middle Africa,Africa,UGA,Uganda,Eastern Africa,Africa,303.58
+AGO,Angola,Middle Africa,Africa,USA,United States of America,Northern America,Northern America,12.683
+CMR,Cameroon,Middle Africa,Africa,USA,United States of America,Northern America,Northern America,41.242
+COD,Democratic Republic of the Congo,Middle Africa,Africa,USA,United States of America,Northern America,Northern America,23.043
+AGO,Angola,Middle Africa,Africa,ZAF,South Africa,Southern Africa,Africa,30.268
+COG,Congo,Middle Africa,Africa,ZAF,South Africa,Southern Africa,Africa,21.955
+COD,Democratic Republic of the Congo,Middle Africa,Africa,ZAF,South Africa,Southern Africa,Africa,70.077
+AGO,Angola,Middle Africa,Africa,ZMB,Zambia,Eastern Africa,Africa,17.464
+COD,Democratic Republic of the Congo,Middle Africa,Africa,ZMB,Zambia,Eastern Africa,Africa,13.409
+ERI,Eritrea,Eastern Africa,Africa,ARE,United Arab Emirates,Western Asia,Asia,17.916
+ETH,Ethiopia,Eastern Africa,Africa,AUS,Australia,Australia/New Zealand,Oceania,11.446
+KEN,Kenya,Eastern Africa,Africa,AUS,Australia,Australia/New Zealand,Oceania,17.85
+MUS,Mauritius,Eastern Africa,Africa,AUS,Australia,Australia/New Zealand,Oceania,28.779
+ZWE,Zimbabwe,Eastern Africa,Africa,AUS,Australia,Australia/New Zealand,Oceania,38.843
+RWA,Rwanda,Eastern Africa,Africa,BDI,Burundi,Eastern Africa,Africa,64.363
+TZA,United Republic of Tanzania,Eastern Africa,Africa,BDI,Burundi,Eastern Africa,Africa,28.008
+ZMB,Zambia,Eastern Africa,Africa,BWA,Botswana,Southern Africa,Africa,12.833
+ZWE,Zimbabwe,Eastern Africa,Africa,BWA,Botswana,Southern Africa,Africa,31.625
+ETH,Ethiopia,Eastern Africa,Africa,CAN,Canada,Northern America,Northern America,27.608
+KEN,Kenya,Eastern Africa,Africa,CAN,Canada,Northern America,Northern America,27.929
+MUS,Mauritius,Eastern Africa,Africa,CAN,Canada,Northern America,Northern America,14.775
+SOM,Somalia,Eastern Africa,Africa,CAN,Canada,Northern America,Northern America,24.747
+UGA,Uganda,Eastern Africa,Africa,CAN,Canada,Northern America,Northern America,13.191
+TZA,United Republic of Tanzania,Eastern Africa,Africa,CAN,Canada,Northern America,Northern America,21.61
+ZWE,Zimbabwe,Eastern Africa,Africa,CAN,Canada,Northern America,Northern America,11.118
+BDI,Burundi,Eastern Africa,Africa,COD,Democratic Republic of the Congo,Middle Africa,Africa,39.062
+RWA,Rwanda,Eastern Africa,Africa,COD,Democratic Republic of the Congo,Middle Africa,Africa,97.168
+RWA,Rwanda,Eastern Africa,Africa,COG,Congo,Middle Africa,Africa,25.119
+ERI,Eritrea,Eastern Africa,Africa,DEU,Germany,Western Europe,Europe,14.636
+ETH,Ethiopia,Eastern Africa,Africa,DEU,Germany,Western Europe,Europe,20.809
+KEN,Kenya,Eastern Africa,Africa,DEU,Germany,Western Europe,Europe,15.034
+ETH,Ethiopia,Eastern Africa,Africa,DJI,Djibouti,Eastern Africa,Africa,12.323
+SOM,Somalia,Eastern Africa,Africa,DJI,Djibouti,Eastern Africa,Africa,93.042
+SOM,Somalia,Eastern Africa,Africa,DNK,Denmark,Northern Europe,Europe,10.681
+SOM,Somalia,Eastern Africa,Africa,DZA,Algeria,Northern Africa,Africa,20.81
+SOM,Somalia,Eastern Africa,Africa,EGY,Egypt,Northern Africa,Africa,22.709
+ERI,Eritrea,Eastern Africa,Africa,ETH,Ethiopia,Eastern Africa,Africa,156.03
+SOM,Somalia,Eastern Africa,Africa,ETH,Ethiopia,Eastern Africa,Africa,442.91
+SSD,South Sudan,Eastern Africa,Africa,ETH,Ethiopia,Eastern Africa,Africa,375.202
+SOM,Somalia,Eastern Africa,Africa,FIN,Finland,Northern Europe,Europe,12.49
+COM,Comoros,Eastern Africa,Africa,FRA,France,Western Europe,Europe,36.634
+MDG,Madagascar,Eastern Africa,Africa,FRA,France,Western Europe,Europe,120.4
+MUS,Mauritius,Eastern Africa,Africa,FRA,France,Western Europe,Europe,44.337
+ERI,Eritrea,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,19.031
+ETH,Ethiopia,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,16.654
+KEN,Kenya,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,151.073
+MWI,Malawi,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,17.871
+MUS,Mauritius,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,45.123
+SOM,Somalia,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,110.775
+UGA,Uganda,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,65.447
+TZA,United Republic of Tanzania,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,38.691
+ZMB,Zambia,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,30.897
+ZWE,Zimbabwe,Eastern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,132.942
+ETH,Ethiopia,Eastern Africa,Africa,ISR,Israel,Western Asia,Asia,80.474
+ERI,Eritrea,Eastern Africa,Africa,ITA,Italy,Southern Europe,Europe,13.593
+ETH,Ethiopia,Eastern Africa,Africa,ITA,Italy,Southern Europe,Europe,30.401
+SOM,Somalia,Eastern Africa,Africa,ITA,Italy,Southern Europe,Europe,11.556
+ETH,Ethiopia,Eastern Africa,Africa,KEN,Kenya,Eastern Africa,Africa,36.889
+SOM,Somalia,Eastern Africa,Africa,KEN,Kenya,Eastern Africa,Africa,488.47
+SSD,South Sudan,Eastern Africa,Africa,KEN,Kenya,Eastern Africa,Africa,92.355
+UGA,Uganda,Eastern Africa,Africa,KEN,Kenya,Eastern Africa,Africa,333.789
+TZA,United Republic of Tanzania,Eastern Africa,Africa,KEN,Kenya,Eastern Africa,Africa,39.935
+SOM,Somalia,Eastern Africa,Africa,LBY,Libya,Northern Africa,Africa,104.539
+COM,Comoros,Eastern Africa,Africa,MDG,Madagascar,Eastern Africa,Africa,10.953
+MWI,Malawi,Eastern Africa,Africa,MOZ,Mozambique,Eastern Africa,Africa,77.488
+ZWE,Zimbabwe,Eastern Africa,Africa,MOZ,Mozambique,Eastern Africa,Africa,25.429
+MOZ,Mozambique,Eastern Africa,Africa,MWI,Malawi,Eastern Africa,Africa,54.183
+ZMB,Zambia,Eastern Africa,Africa,MWI,Malawi,Eastern Africa,Africa,42.362
+ZWE,Zimbabwe,Eastern Africa,Africa,MWI,Malawi,Eastern Africa,Africa,36.753
+COM,Comoros,Eastern Africa,Africa,MYT,Mayotte,Eastern Africa,Africa,59.811
+ZWE,Zimbabwe,Eastern Africa,Africa,NAM,Namibia,Southern Africa,Africa,13.247
+SOM,Somalia,Eastern Africa,Africa,NLD,Netherlands,Western Europe,Europe,27.115
+ERI,Eritrea,Eastern Africa,Africa,NOR,Norway,Northern Europe,Europe,14.821
+SOM,Somalia,Eastern Africa,Africa,NOR,Norway,Northern Europe,Europe,27.042
+MOZ,Mozambique,Eastern Africa,Africa,PRT,Portugal,Southern Europe,Europe,67.991
+MDG,Madagascar,Eastern Africa,Africa,REU,R?union,Eastern Africa,Africa,16.763
+BDI,Burundi,Eastern Africa,Africa,RWA,Rwanda,Eastern Africa,Africa,64.501
+UGA,Uganda,Eastern Africa,Africa,RWA,Rwanda,Eastern Africa,Africa,92.195
+TZA,United Republic of Tanzania,Eastern Africa,Africa,RWA,Rwanda,Eastern Africa,Africa,42.776
+ETH,Ethiopia,Eastern Africa,Africa,SAU,Saudi Arabia,Western Asia,Asia,124.347
+ERI,Eritrea,Eastern Africa,Africa,SDN,Sudan,Northern Africa,Africa,159.748
+ETH,Ethiopia,Eastern Africa,Africa,SDN,Sudan,Northern Africa,Africa,60.734
+SSD,South Sudan,Eastern Africa,Africa,SDN,Sudan,Northern Africa,Africa,135.558
+ETH,Ethiopia,Eastern Africa,Africa,SSD,South Sudan,Eastern Africa,Africa,12.786
+UGA,Uganda,Eastern Africa,Africa,SSD,South Sudan,Eastern Africa,Africa,140.607
+ERI,Eritrea,Eastern Africa,Africa,SWE,Sweden,Northern Europe,Europe,22.32
+ETH,Ethiopia,Eastern Africa,Africa,SWE,Sweden,Northern Europe,Europe,16.509
+SOM,Somalia,Eastern Africa,Africa,SWE,Sweden,Northern Europe,Europe,59.213
+MOZ,Mozambique,Eastern Africa,Africa,SWZ,Swaziland,Southern Africa,Africa,10.393
+BDI,Burundi,Eastern Africa,Africa,TZA,United Republic of Tanzania,Eastern Africa,Africa,87.099
+KEN,Kenya,Eastern Africa,Africa,TZA,United Republic of Tanzania,Eastern Africa,Africa,27.247
+MOZ,Mozambique,Eastern Africa,Africa,TZA,United Republic of Tanzania,Eastern Africa,Africa,14.651
+BDI,Burundi,Eastern Africa,Africa,UGA,Uganda,Eastern Africa,Africa,45.345
+KEN,Kenya,Eastern Africa,Africa,UGA,Uganda,Eastern Africa,Africa,43.512
+RWA,Rwanda,Eastern Africa,Africa,UGA,Uganda,Eastern Africa,Africa,76.861
+SOM,Somalia,Eastern Africa,Africa,UGA,Uganda,Eastern Africa,Africa,28.586
+TZA,United Republic of Tanzania,Eastern Africa,Africa,UGA,Uganda,Eastern Africa,Africa,25.321
+ERI,Eritrea,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,30.305
+ETH,Ethiopia,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,184.022
+KEN,Kenya,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,105.467
+SOM,Somalia,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,145.579
+UGA,Uganda,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,41.203
+TZA,United Republic of Tanzania,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,45.297
+ZMB,Zambia,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,22.409
+ZWE,Zimbabwe,Eastern Africa,Africa,USA,United States of America,Northern America,Northern America,50.001
+SOM,Somalia,Eastern Africa,Africa,YEM,Yemen,Western Asia,Asia,245.683
+ETH,Ethiopia,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,44.891
+KEN,Kenya,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,17.686
+MWI,Malawi,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,76.605
+MOZ,Mozambique,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,449.71
+SOM,Somalia,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,69.688
+UGA,Uganda,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,12.837
+TZA,United Republic of Tanzania,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,10.181
+ZMB,Zambia,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,60.469
+ZWE,Zimbabwe,Eastern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,475.406
+MWI,Malawi,Eastern Africa,Africa,ZMB,Zambia,Eastern Africa,Africa,11.258
+ZWE,Zimbabwe,Eastern Africa,Africa,ZMB,Zambia,Eastern Africa,Africa,19.503
+MWI,Malawi,Eastern Africa,Africa,ZWE,Zimbabwe,Eastern Africa,Africa,102.849
+MOZ,Mozambique,Eastern Africa,Africa,ZWE,Zimbabwe,Eastern Africa,Africa,94.382
+ZMB,Zambia,Eastern Africa,Africa,ZWE,Zimbabwe,Eastern Africa,Africa,30.662
+ZAF,South Africa,Southern Africa,Africa,AUS,Australia,Australia/New Zealand,Oceania,183.37
+ZAF,South Africa,Southern Africa,Africa,BWA,Botswana,Southern Africa,Africa,37.265
+ZAF,South Africa,Southern Africa,Africa,CAN,Canada,Northern America,Northern America,47.182
+ZAF,South Africa,Southern Africa,Africa,CHL,Chile,South America,Latin America and the Caribbean,20.457
+ZAF,South Africa,Southern Africa,Africa,DEU,Germany,Western Europe,Europe,18.368
+ZAF,South Africa,Southern Africa,Africa,GBR,United Kingdom,Northern Europe,Europe,218.732
+ZAF,South Africa,Southern Africa,Africa,ISR,Israel,Western Asia,Asia,11.721
+ZAF,South Africa,Southern Africa,Africa,NLD,Netherlands,Western Europe,Europe,13.47
+ZAF,South Africa,Southern Africa,Africa,NZL,New Zealand,Australia/New Zealand,Oceania,56.396
+ZAF,South Africa,Southern Africa,Africa,PRT,Portugal,Southern Europe,Europe,10.677
+ZAF,South Africa,Southern Africa,Africa,SWZ,Swaziland,Southern Africa,Africa,12.511
+ZAF,South Africa,Southern Africa,Africa,USA,United States of America,Northern America,Northern America,88.907
+BWA,Botswana,Southern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,45.014
+LSO,Lesotho,Southern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,350.611
+NAM,Namibia,Southern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,133.282
+SWZ,Swaziland,Southern Africa,Africa,ZAF,South Africa,Southern Africa,Africa,91.232
+ZAF,South Africa,Southern Africa,Africa,ZWE,Zimbabwe,Eastern Africa,Africa,18.61
+JOR,Jordan,Western Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,167.585
+KWT,Kuwait,Western Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,62.546
+LBN,Lebanon,Western Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,52.129
+PSE,State of Palestine,Western Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,54.006
+SYR,Syrian Arab Republic,Western Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,35.196
+TUR,Turkey,Western Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,25.089
+YEM,Yemen,Western Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,173.48
+AZE,Azerbaijan,Western Asia,Asia,ARM,Armenia,Western Asia,Asia,87.675
+GEO,Georgia,Western Asia,Asia,ARM,Armenia,Western Asia,Asia,40.897
+CYP,Cyprus,Western Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,22.08
+IRQ,Iraq,Western Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,62.79
+ISR,Israel,Western Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,12.174
+LBN,Lebanon,Western Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,96.306
+SAU,Saudi Arabia,Western Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,15.107
+SYR,Syrian Arab Republic,Western Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,10.866
+TUR,Turkey,Western Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,43
+TUR,Turkey,Western Asia,Asia,AUT,Austria,Western Europe,Europe,184.847
+ARM,Armenia,Western Asia,Asia,AZE,Azerbaijan,Western Asia,Asia,148.503
+GEO,Georgia,Western Asia,Asia,AZE,Azerbaijan,Western Asia,Asia,51.141
+ARM,Armenia,Western Asia,Asia,BEL,Belgium,Western Europe,Europe,10.433
+TUR,Turkey,Western Asia,Asia,BEL,Belgium,Western Europe,Europe,43.686
+BHR,Bahrain,Western Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,30.16
+JOR,Jordan,Western Asia,Asia,BHR,Bahrain,Western Asia,Asia,14.493
+YEM,Yemen,Western Asia,Asia,BHR,Bahrain,Western Asia,Asia,15.003
+AZE,Azerbaijan,Western Asia,Asia,BLR,Belarus,Eastern Europe,Europe,13.493
+LBN,Lebanon,Western Asia,Asia,BRA,Brazil,South America,Latin America and the Caribbean,14.726
+IRQ,Iraq,Western Asia,Asia,CAN,Canada,Northern America,Northern America,55.336
+ISR,Israel,Western Asia,Asia,CAN,Canada,Northern America,Northern America,27.304
+JOR,Jordan,Western Asia,Asia,CAN,Canada,Northern America,Northern America,11.042
+KWT,Kuwait,Western Asia,Asia,CAN,Canada,Northern America,Northern America,14.651
+LBN,Lebanon,Western Asia,Asia,CAN,Canada,Northern America,Northern America,90.517
+SAU,Saudi Arabia,Western Asia,Asia,CAN,Canada,Northern America,Northern America,25.139
+SYR,Syrian Arab Republic,Western Asia,Asia,CAN,Canada,Northern America,Northern America,24.666
+TUR,Turkey,Western Asia,Asia,CAN,Canada,Northern America,Northern America,29.47
+ARE,United Arab Emirates,Western Asia,Asia,CAN,Canada,Northern America,Northern America,16.665
+TUR,Turkey,Western Asia,Asia,CHE,Switzerland,Western Europe,Europe,84.488
+GEO,Georgia,Western Asia,Asia,CYP,Cyprus,Western Asia,Asia,17.026
+ARM,Armenia,Western Asia,Asia,DEU,Germany,Western Europe,Europe,12.609
+AZE,Azerbaijan,Western Asia,Asia,DEU,Germany,Western Europe,Europe,19.18
+GEO,Georgia,Western Asia,Asia,DEU,Germany,Western Europe,Europe,22.884
+IRQ,Iraq,Western Asia,Asia,DEU,Germany,Western Europe,Europe,115.041
+ISR,Israel,Western Asia,Asia,DEU,Germany,Western Europe,Europe,14.9
+JOR,Jordan,Western Asia,Asia,DEU,Germany,Western Europe,Europe,12.663
+LBN,Lebanon,Western Asia,Asia,DEU,Germany,Western Europe,Europe,79.534
+SYR,Syrian Arab Republic,Western Asia,Asia,DEU,Germany,Western Europe,Europe,53.099
+TUR,Turkey,Western Asia,Asia,DEU,Germany,Western Europe,Europe,1655.996
+IRQ,Iraq,Western Asia,Asia,DNK,Denmark,Northern Europe,Europe,22.594
+LBN,Lebanon,Western Asia,Asia,DNK,Denmark,Northern Europe,Europe,13.061
+TUR,Turkey,Western Asia,Asia,DNK,Denmark,Northern Europe,Europe,34.379
+IRQ,Iraq,Western Asia,Asia,DZA,Algeria,Northern Africa,Africa,13.632
+PSE,State of Palestine,Western Asia,Asia,DZA,Algeria,Northern Africa,Africa,56.961
+IRQ,Iraq,Western Asia,Asia,EGY,Egypt,Northern Africa,Africa,11.877
+PSE,State of Palestine,Western Asia,Asia,EGY,Egypt,Northern Africa,Africa,150.486
+SYR,Syrian Arab Republic,Western Asia,Asia,EGY,Egypt,Northern Africa,Africa,146.837
+IRQ,Iraq,Western Asia,Asia,FIN,Finland,Northern Europe,Europe,12.044
+ARM,Armenia,Western Asia,Asia,FRA,France,Western Europe,Europe,19.083
+LBN,Lebanon,Western Asia,Asia,FRA,France,Western Europe,Europe,47.162
+SYR,Syrian Arab Republic,Western Asia,Asia,FRA,France,Western Europe,Europe,16.758
+TUR,Turkey,Western Asia,Asia,FRA,France,Western Europe,Europe,297.429
+CYP,Cyprus,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,84.815
+IRQ,Iraq,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,80.939
+ISR,Israel,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,19.608
+KWT,Kuwait,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,14.054
+LBN,Lebanon,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,17.128
+SAU,Saudi Arabia,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,36.148
+TUR,Turkey,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,100.956
+ARE,United Arab Emirates,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,12.314
+YEM,Yemen,Western Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,19.405
+ARM,Armenia,Western Asia,Asia,GRC,Greece,Southern Europe,Europe,14.287
+CYP,Cyprus,Western Asia,Asia,GRC,Greece,Southern Europe,Europe,21.607
+GEO,Georgia,Western Asia,Asia,GRC,Greece,Southern Europe,Europe,83.388
+TUR,Turkey,Western Asia,Asia,GRC,Greece,Southern Europe,Europe,33.489
+JOR,Jordan,Western Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,11.648
+ARE,United Arab Emirates,Western Asia,Asia,IND,India,Southern Asia,Asia,11.986
+AZE,Azerbaijan,Western Asia,Asia,IRN,Iran (Islamic Republic of),Southern Asia,Asia,12.007
+IRQ,Iraq,Western Asia,Asia,IRN,Iran (Islamic Republic of),Southern Asia,Asia,85.523
+JOR,Jordan,Western Asia,Asia,IRQ,Iraq,Western Asia,Asia,10.336
+PSE,State of Palestine,Western Asia,Asia,IRQ,Iraq,Western Asia,Asia,12.051
+SYR,Syrian Arab Republic,Western Asia,Asia,IRQ,Iraq,Western Asia,Asia,246.556
+TUR,Turkey,Western Asia,Asia,IRQ,Iraq,Western Asia,Asia,17.515
+AZE,Azerbaijan,Western Asia,Asia,ISR,Israel,Western Asia,Asia,13.529
+IRQ,Iraq,Western Asia,Asia,ISR,Israel,Western Asia,Asia,67.791
+TUR,Turkey,Western Asia,Asia,ISR,Israel,Western Asia,Asia,27.96
+YEM,Yemen,Western Asia,Asia,ISR,Israel,Western Asia,Asia,30.869
+GEO,Georgia,Western Asia,Asia,ITA,Italy,Southern Europe,Europe,12.226
+TUR,Turkey,Western Asia,Asia,ITA,Italy,Southern Europe,Europe,20.491
+IRQ,Iraq,Western Asia,Asia,JOR,Jordan,Western Asia,Asia,35.875
+PSE,State of Palestine,Western Asia,Asia,JOR,Jordan,Western Asia,Asia,2142.755
+SYR,Syrian Arab Republic,Western Asia,Asia,JOR,Jordan,Western Asia,Asia,700.266
+AZE,Azerbaijan,Western Asia,Asia,KAZ,Kazakhstan,Central Asia,Asia,48.377
+TUR,Turkey,Western Asia,Asia,KAZ,Kazakhstan,Central Asia,Asia,46.894
+JOR,Jordan,Western Asia,Asia,KWT,Kuwait,Western Asia,Asia,50.399
+LBN,Lebanon,Western Asia,Asia,KWT,Kuwait,Western Asia,Asia,11.532
+PSE,State of Palestine,Western Asia,Asia,KWT,Kuwait,Western Asia,Asia,14.253
+SYR,Syrian Arab Republic,Western Asia,Asia,KWT,Kuwait,Western Asia,Asia,21.34
+TUR,Turkey,Western Asia,Asia,KWT,Kuwait,Western Asia,Asia,12.297
+ARE,United Arab Emirates,Western Asia,Asia,KWT,Kuwait,Western Asia,Asia,24.662
+YEM,Yemen,Western Asia,Asia,KWT,Kuwait,Western Asia,Asia,65.129
+IRQ,Iraq,Western Asia,Asia,LBN,Lebanon,Western Asia,Asia,120.668
+PSE,State of Palestine,Western Asia,Asia,LBN,Lebanon,Western Asia,Asia,515.55
+SYR,Syrian Arab Republic,Western Asia,Asia,LBN,Lebanon,Western Asia,Asia,1255.494
+IRQ,Iraq,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,68.477
+JOR,Jordan,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,20.408
+KWT,Kuwait,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,10.8
+LBN,Lebanon,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,11.067
+SAU,Saudi Arabia,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,35.474
+PSE,State of Palestine,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,286.136
+SYR,Syrian Arab Republic,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,27.762
+YEM,Yemen,Western Asia,Asia,LBY,Libya,Northern Africa,Africa,21.38
+TUR,Turkey,Western Asia,Asia,MKD,TFYR Macedonia,Southern Europe,Europe,19.922
+IRQ,Iraq,Western Asia,Asia,NLD,Netherlands,Western Europe,Europe,41.384
+TUR,Turkey,Western Asia,Asia,NLD,Netherlands,Western Europe,Europe,199.551
+IRQ,Iraq,Western Asia,Asia,NOR,Norway,Northern Europe,Europe,22.16
+TUR,Turkey,Western Asia,Asia,NOR,Norway,Northern Europe,Europe,11.192
+JOR,Jordan,Western Asia,Asia,OMN,Oman,Western Asia,Asia,17.005
+ARE,United Arab Emirates,Western Asia,Asia,OMN,Oman,Western Asia,Asia,14.759
+ISR,Israel,Western Asia,Asia,PSE,State of Palestine,Western Asia,Asia,62.895
+JOR,Jordan,Western Asia,Asia,PSE,State of Palestine,Western Asia,Asia,55.709
+KWT,Kuwait,Western Asia,Asia,PSE,State of Palestine,Western Asia,Asia,17.111
+QAT,Qatar,Western Asia,Asia,PSE,State of Palestine,Western Asia,Asia,10.111
+SAU,Saudi Arabia,Western Asia,Asia,PSE,State of Palestine,Western Asia,Asia,21.778
+ARE,United Arab Emirates,Western Asia,Asia,PSE,State of Palestine,Western Asia,Asia,10.888
+JOR,Jordan,Western Asia,Asia,QAT,Qatar,Western Asia,Asia,32.217
+YEM,Yemen,Western Asia,Asia,QAT,Qatar,Western Asia,Asia,34.877
+ARM,Armenia,Western Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,527.287
+AZE,Azerbaijan,Western Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,767.339
+GEO,Georgia,Western Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,450.221
+TUR,Turkey,Western Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,10.237
+JOR,Jordan,Western Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,182.152
+LBN,Lebanon,Western Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,116.577
+SYR,Syrian Arab Republic,Western Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,623.247
+YEM,Yemen,Western Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,582.886
+IRQ,Iraq,Western Asia,Asia,SWE,Sweden,Northern Europe,Europe,133.118
+LBN,Lebanon,Western Asia,Asia,SWE,Sweden,Northern Europe,Europe,26.279
+SYR,Syrian Arab Republic,Western Asia,Asia,SWE,Sweden,Northern Europe,Europe,69.199
+TUR,Turkey,Western Asia,Asia,SWE,Sweden,Northern Europe,Europe,47.188
+IRQ,Iraq,Western Asia,Asia,SYR,Syrian Arab Republic,Western Asia,Asia,253.609
+PSE,State of Palestine,Western Asia,Asia,SYR,Syrian Arab Republic,Western Asia,Asia,238.809
+AZE,Azerbaijan,Western Asia,Asia,TUR,Turkey,Western Asia,Asia,16.856
+CYP,Cyprus,Western Asia,Asia,TUR,Turkey,Western Asia,Asia,10.433
+IRQ,Iraq,Western Asia,Asia,TUR,Turkey,Western Asia,Asia,22.392
+SYR,Syrian Arab Republic,Western Asia,Asia,TUR,Turkey,Western Asia,Asia,1568.494
+ARM,Armenia,Western Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,47.307
+AZE,Azerbaijan,Western Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,82.299
+GEO,Georgia,Western Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,64.399
+ARM,Armenia,Western Asia,Asia,USA,United States of America,Northern America,Northern America,84.953
+AZE,Azerbaijan,Western Asia,Asia,USA,United States of America,Northern America,Northern America,19.799
+CYP,Cyprus,Western Asia,Asia,USA,United States of America,Northern America,Northern America,18.41
+GEO,Georgia,Western Asia,Asia,USA,United States of America,Northern America,Northern America,24.456
+IRQ,Iraq,Western Asia,Asia,USA,United States of America,Northern America,Northern America,175.566
+ISR,Israel,Western Asia,Asia,USA,United States of America,Northern America,Northern America,135.963
+JOR,Jordan,Western Asia,Asia,USA,United States of America,Northern America,Northern America,64.868
+KWT,Kuwait,Western Asia,Asia,USA,United States of America,Northern America,Northern America,25.434
+LBN,Lebanon,Western Asia,Asia,USA,United States of America,Northern America,Northern America,123.337
+SAU,Saudi Arabia,Western Asia,Asia,USA,United States of America,Northern America,Northern America,62.496
+PSE,State of Palestine,Western Asia,Asia,USA,United States of America,Northern America,Northern America,36.221
+SYR,Syrian Arab Republic,Western Asia,Asia,USA,United States of America,Northern America,Northern America,69.459
+TUR,Turkey,Western Asia,Asia,USA,United States of America,Northern America,Northern America,107.627
+ARE,United Arab Emirates,Western Asia,Asia,USA,United States of America,Northern America,Northern America,11.197
+YEM,Yemen,Western Asia,Asia,USA,United States of America,Northern America,Northern America,40.861
+AZE,Azerbaijan,Western Asia,Asia,UZB,Uzbekistan,Central Asia,Asia,20.357
+SYR,Syrian Arab Republic,Western Asia,Asia,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,15.632
+TJK,Tajikistan,Central Asia,Asia,AFG,Afghanistan,Southern Asia,Asia,15.031
+UZB,Uzbekistan,Central Asia,Asia,AZE,Azerbaijan,Western Asia,Asia,17.03
+KAZ,Kazakhstan,Central Asia,Asia,BLR,Belarus,Eastern Europe,Europe,69.957
+UZB,Uzbekistan,Central Asia,Asia,BLR,Belarus,Eastern Europe,Europe,14.788
+KAZ,Kazakhstan,Central Asia,Asia,CAN,Canada,Northern America,Northern America,10.422
+KAZ,Kazakhstan,Central Asia,Asia,DEU,Germany,Western Europe,Europe,1016.844
+KGZ,Kyrgyzstan,Central Asia,Asia,DEU,Germany,Western Europe,Europe,83.673
+TJK,Tajikistan,Central Asia,Asia,DEU,Germany,Western Europe,Europe,28.985
+UZB,Uzbekistan,Central Asia,Asia,DEU,Germany,Western Europe,Europe,42.271
+KAZ,Kazakhstan,Central Asia,Asia,GEO,Georgia,Western Asia,Asia,10.763
+KAZ,Kazakhstan,Central Asia,Asia,GRC,Greece,Southern Europe,Europe,26.982
+KAZ,Kazakhstan,Central Asia,Asia,ISR,Israel,Western Asia,Asia,13.632
+UZB,Uzbekistan,Central Asia,Asia,ISR,Israel,Western Asia,Asia,22.316
+TJK,Tajikistan,Central Asia,Asia,KAZ,Kazakhstan,Central Asia,Asia,15.816
+UZB,Uzbekistan,Central Asia,Asia,KAZ,Kazakhstan,Central Asia,Asia,281.713
+KAZ,Kazakhstan,Central Asia,Asia,KGZ,Kyrgyzstan,Central Asia,Asia,12.94
+UZB,Uzbekistan,Central Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,49.862
+KAZ,Kazakhstan,Central Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,2560.269
+KGZ,Kyrgyzstan,Central Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,591.349
+TJK,Tajikistan,Central Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,466.508
+TKM,Turkmenistan,Central Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,185.664
+UZB,Uzbekistan,Central Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,1146.803
+KGZ,Kyrgyzstan,Central Asia,Asia,TJK,Tajikistan,Central Asia,Asia,11.667
+KAZ,Kazakhstan,Central Asia,Asia,TKM,Turkmenistan,Central Asia,Asia,18.152
+UZB,Uzbekistan,Central Asia,Asia,TKM,Turkmenistan,Central Asia,Asia,84.96
+KAZ,Kazakhstan,Central Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,222.245
+KGZ,Kyrgyzstan,Central Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,26.729
+TJK,Tajikistan,Central Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,29.367
+TKM,Turkmenistan,Central Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,22.602
+UZB,Uzbekistan,Central Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,219.814
+KAZ,Kazakhstan,Central Asia,Asia,USA,United States of America,Northern America,Northern America,25.304
+UZB,Uzbekistan,Central Asia,Asia,USA,United States of America,Northern America,Northern America,36.743
+KAZ,Kazakhstan,Central Asia,Asia,UZB,Uzbekistan,Central Asia,Asia,13.194
+TJK,Tajikistan,Central Asia,Asia,UZB,Uzbekistan,Central Asia,Asia,11.496
+PAK,Pakistan,Southern Asia,Asia,AFG,Afghanistan,Southern Asia,Asia,348.369
+BGD,Bangladesh,Southern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,906.483
+IND,India,Southern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,3499.337
+NPL,Nepal,Southern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,43.809
+PAK,Pakistan,Southern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,863.858
+LKA,Sri Lanka,Southern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,113.788
+AFG,Afghanistan,Southern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,37.482
+BGD,Bangladesh,Southern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,37.092
+IND,India,Southern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,389.992
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,48.696
+NPL,Nepal,Southern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,32.872
+PAK,Pakistan,Southern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,43.949
+LKA,Sri Lanka,Southern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,112.12
+IND,India,Southern Asia,Asia,AUT,Austria,Western Europe,Europe,13.576
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,AUT,Austria,Western Europe,Europe,15.495
+AFG,Afghanistan,Southern Asia,Asia,BEL,Belgium,Western Europe,Europe,10.638
+IND,India,Southern Asia,Asia,BEL,Belgium,Western Europe,Europe,10.34
+IND,India,Southern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,34.431
+NPL,Nepal,Southern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,39.059
+BGD,Bangladesh,Southern Asia,Asia,BHR,Bahrain,Western Asia,Asia,78.396
+IND,India,Southern Asia,Asia,BHR,Bahrain,Western Asia,Asia,302.635
+PAK,Pakistan,Southern Asia,Asia,BHR,Bahrain,Western Asia,Asia,74.71
+IND,India,Southern Asia,Asia,BTN,Bhutan,Southern Asia,Asia,44.732
+AFG,Afghanistan,Southern Asia,Asia,CAN,Canada,Northern America,Northern America,45.733
+BGD,Bangladesh,Southern Asia,Asia,CAN,Canada,Northern America,Northern America,51.227
+IND,India,Southern Asia,Asia,CAN,Canada,Northern America,Northern America,621.469
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,CAN,Canada,Northern America,Northern America,136.608
+PAK,Pakistan,Southern Asia,Asia,CAN,Canada,Northern America,Northern America,175.204
+LKA,Sri Lanka,Southern Asia,Asia,CAN,Canada,Northern America,Northern America,146.998
+IND,India,Southern Asia,Asia,CHE,Switzerland,Western Europe,Europe,19.081
+LKA,Sri Lanka,Southern Asia,Asia,CHE,Switzerland,Western Europe,Europe,42.139
+LKA,Sri Lanka,Southern Asia,Asia,CYP,Cyprus,Western Asia,Asia,11.001
+AFG,Afghanistan,Southern Asia,Asia,DEU,Germany,Western Europe,Europe,99.638
+IND,India,Southern Asia,Asia,DEU,Germany,Western Europe,Europe,68.291
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,DEU,Germany,Western Europe,Europe,137.531
+PAK,Pakistan,Southern Asia,Asia,DEU,Germany,Western Europe,Europe,50.174
+LKA,Sri Lanka,Southern Asia,Asia,DEU,Germany,Western Europe,Europe,46.716
+AFG,Afghanistan,Southern Asia,Asia,DNK,Denmark,Northern Europe,Europe,12.26
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,DNK,Denmark,Northern Europe,Europe,14.114
+PAK,Pakistan,Southern Asia,Asia,DNK,Denmark,Northern Europe,Europe,13.044
+BGD,Bangladesh,Southern Asia,Asia,ESP,Spain,Southern Europe,Europe,10.033
+IND,India,Southern Asia,Asia,ESP,Spain,Southern Europe,Europe,33.483
+PAK,Pakistan,Southern Asia,Asia,ESP,Spain,Southern Europe,Europe,56.116
+IND,India,Southern Asia,Asia,FRA,France,Western Europe,Europe,48.061
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,FRA,France,Western Europe,Europe,22.788
+PAK,Pakistan,Southern Asia,Asia,FRA,France,Western Europe,Europe,23.779
+LKA,Sri Lanka,Southern Asia,Asia,FRA,France,Western Europe,Europe,47.864
+AFG,Afghanistan,Southern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,68.256
+BGD,Bangladesh,Southern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,230.143
+IND,India,Southern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,776.603
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,91.087
+NPL,Nepal,Southern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,54.695
+PAK,Pakistan,Southern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,540.495
+LKA,Sri Lanka,Southern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,138.752
+IND,India,Southern Asia,Asia,GRC,Greece,Southern Europe,Europe,10.152
+PAK,Pakistan,Southern Asia,Asia,GRC,Greece,Southern Europe,Europe,31.295
+IND,India,Southern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,18.004
+IND,India,Southern Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,11.648
+BGD,Bangladesh,Southern Asia,Asia,IND,India,Southern Asia,Asia,3171.022
+NPL,Nepal,Southern Asia,Asia,IND,India,Southern Asia,Asia,542.947
+PAK,Pakistan,Southern Asia,Asia,IND,India,Southern Asia,Asia,1106.212
+LKA,Sri Lanka,Southern Asia,Asia,IND,India,Southern Asia,Asia,155.195
+IND,India,Southern Asia,Asia,IRL,Ireland,Northern Europe,Europe,19.764
+AFG,Afghanistan,Southern Asia,Asia,IRN,Iran (Islamic Republic of),Southern Asia,Asia,2348.369
+PAK,Pakistan,Southern Asia,Asia,IRN,Iran (Islamic Republic of),Southern Asia,Asia,28.402
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,IRQ,Iraq,Western Asia,Asia,14.406
+IND,India,Southern Asia,Asia,ISR,Israel,Western Asia,Asia,18.965
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,ISR,Israel,Western Asia,Asia,52.322
+BGD,Bangladesh,Southern Asia,Asia,ITA,Italy,Southern Europe,Europe,97.036
+IND,India,Southern Asia,Asia,ITA,Italy,Southern Europe,Europe,136.403
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,ITA,Italy,Southern Europe,Europe,14.433
+PAK,Pakistan,Southern Asia,Asia,ITA,Italy,Southern Europe,Europe,84.792
+LKA,Sri Lanka,Southern Asia,Asia,ITA,Italy,Southern Europe,Europe,85.093
+BGD,Bangladesh,Southern Asia,Asia,JOR,Jordan,Western Asia,Asia,12.266
+LKA,Sri Lanka,Southern Asia,Asia,JOR,Jordan,Western Asia,Asia,13.175
+IND,India,Southern Asia,Asia,JPN,Japan,Eastern Asia,Asia,22.641
+PAK,Pakistan,Southern Asia,Asia,JPN,Japan,Eastern Asia,Asia,11.178
+BGD,Bangladesh,Southern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,13.733
+NPL,Nepal,Southern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,13.573
+PAK,Pakistan,Southern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,12.276
+LKA,Sri Lanka,Southern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,25.605
+BGD,Bangladesh,Southern Asia,Asia,KWT,Kuwait,Western Asia,Asia,350.229
+IND,India,Southern Asia,Asia,KWT,Kuwait,Western Asia,Asia,1061.758
+NPL,Nepal,Southern Asia,Asia,KWT,Kuwait,Western Asia,Asia,22.678
+PAK,Pakistan,Southern Asia,Asia,KWT,Kuwait,Western Asia,Asia,312.434
+LKA,Sri Lanka,Southern Asia,Asia,KWT,Kuwait,Western Asia,Asia,36.556
+IND,India,Southern Asia,Asia,LKA,Sri Lanka,Southern Asia,Asia,10.46
+BGD,Bangladesh,Southern Asia,Asia,MDV,Maldives,Southern Asia,Asia,53.565
+IND,India,Southern Asia,Asia,MDV,Maldives,Southern Asia,Asia,22.12
+IND,India,Southern Asia,Asia,MMR,Myanmar,South-Eastern Asia,Asia,26.205
+BGD,Bangladesh,Southern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,358.432
+IND,India,Southern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,132.699
+NPL,Nepal,Southern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,205.021
+PAK,Pakistan,Southern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,26.858
+AFG,Afghanistan,Southern Asia,Asia,NLD,Netherlands,Western Europe,Europe,33.852
+IND,India,Southern Asia,Asia,NLD,Netherlands,Western Europe,Europe,22.713
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,NLD,Netherlands,Western Europe,Europe,29.405
+PAK,Pakistan,Southern Asia,Asia,NLD,Netherlands,Western Europe,Europe,12.127
+LKA,Sri Lanka,Southern Asia,Asia,NLD,Netherlands,Western Europe,Europe,10.461
+AFG,Afghanistan,Southern Asia,Asia,NOR,Norway,Northern Europe,Europe,13.238
+IND,India,Southern Asia,Asia,NOR,Norway,Northern Europe,Europe,11.97
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,NOR,Norway,Northern Europe,Europe,16.185
+PAK,Pakistan,Southern Asia,Asia,NOR,Norway,Northern Europe,Europe,19.393
+BTN,Bhutan,Southern Asia,Asia,NPL,Nepal,Southern Asia,Asia,28.74
+IND,India,Southern Asia,Asia,NPL,Nepal,Southern Asia,Asia,446.491
+IND,India,Southern Asia,Asia,NZL,New Zealand,Australia/New Zealand,Oceania,69.8
+BGD,Bangladesh,Southern Asia,Asia,OMN,Oman,Western Asia,Asia,346.068
+IND,India,Southern Asia,Asia,OMN,Oman,Western Asia,Asia,777.632
+PAK,Pakistan,Southern Asia,Asia,OMN,Oman,Western Asia,Asia,284.46
+LKA,Sri Lanka,Southern Asia,Asia,OMN,Oman,Western Asia,Asia,38.377
+AFG,Afghanistan,Southern Asia,Asia,PAK,Pakistan,Southern Asia,Asia,1618.687
+IND,India,Southern Asia,Asia,PAK,Pakistan,Southern Asia,Asia,2000.908
+IND,India,Southern Asia,Asia,PHL,Philippines,South-Eastern Asia,Asia,10.639
+BGD,Bangladesh,Southern Asia,Asia,QAT,Qatar,Western Asia,Asia,160.183
+IND,India,Southern Asia,Asia,QAT,Qatar,Western Asia,Asia,645.577
+NPL,Nepal,Southern Asia,Asia,QAT,Qatar,Western Asia,Asia,151.314
+PAK,Pakistan,Southern Asia,Asia,QAT,Qatar,Western Asia,Asia,133.212
+LKA,Sri Lanka,Southern Asia,Asia,QAT,Qatar,Western Asia,Asia,54.731
+AFG,Afghanistan,Southern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,364.304
+BGD,Bangladesh,Southern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,967.223
+IND,India,Southern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,1894.38
+NPL,Nepal,Southern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,381.102
+PAK,Pakistan,Southern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,1123.26
+LKA,Sri Lanka,Southern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,400.734
+BGD,Bangladesh,Southern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,80.747
+IND,India,Southern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,150.082
+PAK,Pakistan,Southern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,129.253
+LKA,Sri Lanka,Southern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,10.73
+AFG,Afghanistan,Southern Asia,Asia,SWE,Sweden,Northern Europe,Europe,29.085
+IND,India,Southern Asia,Asia,SWE,Sweden,Northern Europe,Europe,22.424
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,SWE,Sweden,Northern Europe,Europe,69.981
+PAK,Pakistan,Southern Asia,Asia,SWE,Sweden,Northern Europe,Europe,11.436
+AFG,Afghanistan,Southern Asia,Asia,TUR,Turkey,Western Asia,Asia,13.601
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,TUR,Turkey,Western Asia,Asia,16.332
+AFG,Afghanistan,Southern Asia,Asia,USA,United States of America,Northern America,Northern America,63.255
+BGD,Bangladesh,Southern Asia,Asia,USA,United States of America,Northern America,Northern America,186.028
+IND,India,Southern Asia,Asia,USA,United States of America,Northern America,Northern America,1969.286
+IRN,Iran (Islamic Republic of),Southern Asia,Asia,USA,United States of America,Northern America,Northern America,371.894
+NPL,Nepal,Southern Asia,Asia,USA,United States of America,Northern America,Northern America,74.904
+PAK,Pakistan,Southern Asia,Asia,USA,United States of America,Northern America,Northern America,325.419
+LKA,Sri Lanka,Southern Asia,Asia,USA,United States of America,Northern America,Northern America,48.074
+IND,India,Southern Asia,Asia,ZAF,South Africa,Southern Africa,Africa,43.25
+PAK,Pakistan,Southern Asia,Asia,ZAF,South Africa,Southern Africa,Africa,10.724
+IDN,Indonesia,South-Eastern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,260.312
+PHL,Philippines,South-Eastern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,555.704
+THA,Thailand,South-Eastern Asia,Asia,ARE,United Arab Emirates,Western Asia,Asia,13.395
+KHM,Cambodia,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,35.71
+IDN,Indonesia,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,84.026
+LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,12.111
+MYS,Malaysia,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,156.934
+MMR,Myanmar,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,28.916
+PHL,Philippines,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,222.34
+SGP,Singapore,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,67.822
+THA,Thailand,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,60.712
+TLS,Timor-Leste,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,11.214
+VNM,Viet Nam,South-Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,227.298
+PHL,Philippines,South-Eastern Asia,Asia,AUT,Austria,Western Europe,Europe,13.856
+KHM,Cambodia,South-Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,19.642
+IDN,Indonesia,South-Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,157.862
+LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,88.155
+MYS,Malaysia,South-Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,233.561
+MMR,Myanmar,South-Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,201.346
+THA,Thailand,South-Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,10.548
+VNM,Viet Nam,South-Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,27.521
+IDN,Indonesia,South-Eastern Asia,Asia,BHR,Bahrain,Western Asia,Asia,22.513
+PHL,Philippines,South-Eastern Asia,Asia,BHR,Bahrain,Western Asia,Asia,48.059
+MYS,Malaysia,South-Eastern Asia,Asia,BRN,Brunei Darussalam,South-Eastern Asia,Asia,48.285
+PHL,Philippines,South-Eastern Asia,Asia,BRN,Brunei Darussalam,South-Eastern Asia,Asia,13.457
+THA,Thailand,South-Eastern Asia,Asia,BRN,Brunei Darussalam,South-Eastern Asia,Asia,14.384
+KHM,Cambodia,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,26.354
+IDN,Indonesia,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,16.143
+LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,15.786
+MYS,Malaysia,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,25.746
+PHL,Philippines,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,545.321
+SGP,Singapore,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,13.234
+THA,Thailand,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,16.263
+VNM,Viet Nam,South-Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,182.847
+PHL,Philippines,South-Eastern Asia,Asia,CHE,Switzerland,Western Europe,Europe,13.416
+THA,Thailand,South-Eastern Asia,Asia,CHE,Switzerland,Western Europe,Europe,19.99
+VNM,Viet Nam,South-Eastern Asia,Asia,CHE,Switzerland,Western Europe,Europe,12.051
+IDN,Indonesia,South-Eastern Asia,Asia,CHN,China,Eastern Asia,Asia,39.736
+PHL,Philippines,South-Eastern Asia,Asia,CHN,China,Eastern Asia,Asia,73.07
+THA,Thailand,South-Eastern Asia,Asia,CHN,China,Eastern Asia,Asia,15.192
+VNM,Viet Nam,South-Eastern Asia,Asia,CHN,China,Eastern Asia,Asia,28.095
+VNM,Viet Nam,South-Eastern Asia,Asia,CZE,Czech Republic,Eastern Europe,Europe,47.475
+IDN,Indonesia,South-Eastern Asia,Asia,DEU,Germany,Western Europe,Europe,19.639
+PHL,Philippines,South-Eastern Asia,Asia,DEU,Germany,Western Europe,Europe,56.25
+THA,Thailand,South-Eastern Asia,Asia,DEU,Germany,Western Europe,Europe,76.002
+VNM,Viet Nam,South-Eastern Asia,Asia,DEU,Germany,Western Europe,Europe,112.958
+PHL,Philippines,South-Eastern Asia,Asia,DNK,Denmark,Northern Europe,Europe,10.882
+THA,Thailand,South-Eastern Asia,Asia,DNK,Denmark,Northern Europe,Europe,12.384
+VNM,Viet Nam,South-Eastern Asia,Asia,DNK,Denmark,Northern Europe,Europe,10.418
+PHL,Philippines,South-Eastern Asia,Asia,ESP,Spain,Southern Europe,Europe,41.334
+THA,Thailand,South-Eastern Asia,Asia,FIN,Finland,Northern Europe,Europe,11.296
+KHM,Cambodia,South-Eastern Asia,Asia,FRA,France,Western Europe,Europe,63.343
+LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia,FRA,France,Western Europe,Europe,42.623
+PHL,Philippines,South-Eastern Asia,Asia,FRA,France,Western Europe,Europe,15.224
+THA,Thailand,South-Eastern Asia,Asia,FRA,France,Western Europe,Europe,18.151
+VNM,Viet Nam,South-Eastern Asia,Asia,FRA,France,Western Europe,Europe,125.731
+IDN,Indonesia,South-Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,10.344
+MYS,Malaysia,South-Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,75.182
+MMR,Myanmar,South-Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,13.064
+PHL,Philippines,South-Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,139.57
+SGP,Singapore,South-Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,45.351
+THA,Thailand,South-Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,47.389
+VNM,Viet Nam,South-Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,32.429
+PHL,Philippines,South-Eastern Asia,Asia,GUM,Guam,Micronesia,Oceania,29.289
+IDN,Indonesia,South-Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,134.593
+MYS,Malaysia,South-Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,15.273
+PHL,Philippines,South-Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,117.914
+THA,Thailand,South-Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,19.192
+VNM,Viet Nam,South-Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,10.93
+SGP,Singapore,South-Eastern Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,21.907
+THA,Thailand,South-Eastern Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,21.907
+TLS,Timor-Leste,South-Eastern Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,21.907
+BRN,Brunei Darussalam,South-Eastern Asia,Asia,IND,India,Southern Asia,Asia,25.388
+MYS,Malaysia,South-Eastern Asia,Asia,IND,India,Southern Asia,Asia,12.442
+MMR,Myanmar,South-Eastern Asia,Asia,IND,India,Southern Asia,Asia,50.587
+PHL,Philippines,South-Eastern Asia,Asia,IRL,Ireland,Northern Europe,Europe,15.312
+PHL,Philippines,South-Eastern Asia,Asia,ITA,Italy,Southern Europe,Europe,143.457
+IDN,Indonesia,South-Eastern Asia,Asia,JOR,Jordan,Western Asia,Asia,10.995
+IDN,Indonesia,South-Eastern Asia,Asia,JPN,Japan,Eastern Asia,Asia,27.354
+PHL,Philippines,South-Eastern Asia,Asia,JPN,Japan,Eastern Asia,Asia,210.243
+THA,Thailand,South-Eastern Asia,Asia,JPN,Japan,Eastern Asia,Asia,41.422
+VNM,Viet Nam,South-Eastern Asia,Asia,JPN,Japan,Eastern Asia,Asia,72.62
+THA,Thailand,South-Eastern Asia,Asia,KHM,Cambodia,South-Eastern Asia,Asia,30.806
+VNM,Viet Nam,South-Eastern Asia,Asia,KHM,Cambodia,South-Eastern Asia,Asia,36.436
+KHM,Cambodia,South-Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,30.705
+IDN,Indonesia,South-Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,33.34
+MMR,Myanmar,South-Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,11.514
+PHL,Philippines,South-Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,38.835
+THA,Thailand,South-Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,26.225
+VNM,Viet Nam,South-Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,113.998
+IDN,Indonesia,South-Eastern Asia,Asia,KWT,Kuwait,Western Asia,Asia,99.485
+PHL,Philippines,South-Eastern Asia,Asia,KWT,Kuwait,Western Asia,Asia,181.462
+VNM,Viet Nam,South-Eastern Asia,Asia,LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia,11.634
+IDN,Indonesia,South-Eastern Asia,Asia,LBY,Libya,Northern Africa,Africa,13.064
+PHL,Philippines,South-Eastern Asia,Asia,MAC,"China, Macao SAR",Eastern Asia,Asia,11.864
+PHL,Philippines,South-Eastern Asia,Asia,MNP,Northern Mariana Islands,Micronesia,Oceania,11.045
+KHM,Cambodia,South-Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,14.127
+IDN,Indonesia,South-Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,1070.433
+MMR,Myanmar,South-Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,252.292
+PHL,Philippines,South-Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,21.732
+SGP,Singapore,South-Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,79.519
+VNM,Viet Nam,South-Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,87.272
+IDN,Indonesia,South-Eastern Asia,Asia,NLD,Netherlands,Western Europe,Europe,132.159
+PHL,Philippines,South-Eastern Asia,Asia,NLD,Netherlands,Western Europe,Europe,12.381
+THA,Thailand,South-Eastern Asia,Asia,NLD,Netherlands,Western Europe,Europe,13.99
+VNM,Viet Nam,South-Eastern Asia,Asia,NLD,Netherlands,Western Europe,Europe,12.8
+PHL,Philippines,South-Eastern Asia,Asia,NOR,Norway,Northern Europe,Europe,20.593
+THA,Thailand,South-Eastern Asia,Asia,NOR,Norway,Northern Europe,Europe,18.049
+VNM,Viet Nam,South-Eastern Asia,Asia,NOR,Norway,Northern Europe,Europe,13.798
+MYS,Malaysia,South-Eastern Asia,Asia,NZL,New Zealand,Australia/New Zealand,Oceania,16.991
+PHL,Philippines,South-Eastern Asia,Asia,NZL,New Zealand,Australia/New Zealand,Oceania,38.756
+IDN,Indonesia,South-Eastern Asia,Asia,OMN,Oman,Western Asia,Asia,70.114
+PHL,Philippines,South-Eastern Asia,Asia,OMN,Oman,Western Asia,Asia,85.949
+IDN,Indonesia,South-Eastern Asia,Asia,QAT,Qatar,Western Asia,Asia,43.049
+PHL,Philippines,South-Eastern Asia,Asia,QAT,Qatar,Western Asia,Asia,148.496
+VNM,Viet Nam,South-Eastern Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,13.671
+IDN,Indonesia,South-Eastern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,1294.035
+MMR,Myanmar,South-Eastern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,202.72
+PHL,Philippines,South-Eastern Asia,Asia,SAU,Saudi Arabia,Western Asia,Asia,488.167
+IDN,Indonesia,South-Eastern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,163.237
+MYS,Malaysia,South-Eastern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,1123.654
+PHL,Philippines,South-Eastern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,15.392
+THA,Thailand,South-Eastern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,19.269
+PHL,Philippines,South-Eastern Asia,Asia,SWE,Sweden,Northern Europe,Europe,12.248
+THA,Thailand,South-Eastern Asia,Asia,SWE,Sweden,Northern Europe,Europe,38.99
+VNM,Viet Nam,South-Eastern Asia,Asia,SWE,Sweden,Northern Europe,Europe,17.004
+KHM,Cambodia,South-Eastern Asia,Asia,THA,Thailand,South-Eastern Asia,Asia,805.272
+LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia,THA,Thailand,South-Eastern Asia,Asia,969.267
+MMR,Myanmar,South-Eastern Asia,Asia,THA,Thailand,South-Eastern Asia,Asia,1978.348
+VNM,Viet Nam,South-Eastern Asia,Asia,UKR,Ukraine,Eastern Europe,Europe,12.39
+KHM,Cambodia,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,167.039
+IDN,Indonesia,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,96.734
+LAO,Lao People's Democratic Republic,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,200.429
+MYS,Malaysia,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,63.566
+MMR,Myanmar,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,103.291
+PHL,Philippines,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,1896.031
+SGP,Singapore,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,31.302
+THA,Thailand,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,236.18
+VNM,Viet Nam,South-Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,1302.87
+MMR,Myanmar,South-Eastern Asia,Asia,VNM,Viet Nam,South-Eastern Asia,Asia,11.187
+THA,Thailand,South-Eastern Asia,Asia,VNM,Viet Nam,South-Eastern Asia,Asia,11.552
+CHN,China,Eastern Asia,Asia,ARG,Argentina,South America,Latin America and the Caribbean,14.397
+CHN,China,Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,451.084
+HKG,"China, Hong Kong SAR",Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,95.557
+JPN,Japan,Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,53.159
+KOR,Republic of Korea,Eastern Asia,Asia,AUS,Australia,Australia/New Zealand,Oceania,98.395
+CHN,China,Eastern Asia,Asia,AUT,Austria,Western Europe,Europe,17.713
+CHN,China,Eastern Asia,Asia,BEL,Belgium,Western Europe,Europe,12.245
+CHN,China,Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,177.772
+JPN,Japan,Eastern Asia,Asia,BGD,Bangladesh,Southern Asia,Asia,13.763
+CHN,China,Eastern Asia,Asia,BRA,Brazil,South America,Latin America and the Caribbean,23.156
+JPN,Japan,Eastern Asia,Asia,BRA,Brazil,South America,Latin America and the Caribbean,58.564
+KOR,Republic of Korea,Eastern Asia,Asia,BRA,Brazil,South America,Latin America and the Caribbean,10.239
+CHN,China,Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,711.22
+HKG,"China, Hong Kong SAR",Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,227.744
+JPN,Japan,Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,36.185
+KOR,Republic of Korea,Eastern Asia,Asia,CAN,Canada,Northern America,Northern America,144.332
+CHN,China,Eastern Asia,Asia,CHE,Switzerland,Western Europe,Europe,18.405
+HKG,"China, Hong Kong SAR",Eastern Asia,Asia,CHN,China,Eastern Asia,Asia,270.252
+MAC,"China, Macao SAR",Eastern Asia,Asia,CHN,China,Eastern Asia,Asia,24.399
+KOR,Republic of Korea,Eastern Asia,Asia,CHN,China,Eastern Asia,Asia,186.786
+CHN,China,Eastern Asia,Asia,DEU,Germany,Western Europe,Europe,102.365
+JPN,Japan,Eastern Asia,Asia,DEU,Germany,Western Europe,Europe,33.081
+KOR,Republic of Korea,Eastern Asia,Asia,DEU,Germany,Western Europe,Europe,29.161
+CHN,China,Eastern Asia,Asia,DNK,Denmark,Northern Europe,Europe,11.662
+CHN,China,Eastern Asia,Asia,ESP,Spain,Southern Europe,Europe,152.904
+CHN,China,Eastern Asia,Asia,FIN,Finland,Northern Europe,Europe,11.55
+CHN,China,Eastern Asia,Asia,FRA,France,Western Europe,Europe,110.045
+JPN,Japan,Eastern Asia,Asia,FRA,France,Western Europe,Europe,21.377
+KOR,Republic of Korea,Eastern Asia,Asia,FRA,France,Western Europe,Europe,20.702
+CHN,China,Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,182.628
+HKG,"China, Hong Kong SAR",Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,119.99
+PRK,Dem. People's Republic of Korea,Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,18.697
+JPN,Japan,Eastern Asia,Asia,GBR,United Kingdom,Northern Europe,Europe,40.127
+CHN,China,Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,2307.783
+MAC,"China, Macao SAR",Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,71.305
+JPN,Japan,Eastern Asia,Asia,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,14.185
+CHN,China,Eastern Asia,Asia,HUN,Hungary,Eastern Europe,Europe,11.449
+CHN,China,Eastern Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,70.319
+JPN,Japan,Eastern Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,18.391
+KOR,Republic of Korea,Eastern Asia,Asia,IDN,Indonesia,South-Eastern Asia,Asia,31.064
+CHN,China,Eastern Asia,Asia,IRL,Ireland,Northern Europe,Europe,12.683
+CHN,China,Eastern Asia,Asia,ITA,Italy,Southern Europe,Europe,200.434
+CHN,China,Eastern Asia,Asia,JPN,Japan,Eastern Asia,Asia,652.413
+KOR,Republic of Korea,Eastern Asia,Asia,JPN,Japan,Eastern Asia,Asia,522.486
+PRK,Dem. People's Republic of Korea,Eastern Asia,Asia,KAZ,Kazakhstan,Central Asia,Asia,61.6
+KOR,Republic of Korea,Eastern Asia,Asia,KAZ,Kazakhstan,Central Asia,Asia,31.916
+CHN,China,Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,750.639
+JPN,Japan,Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,23.912
+MNG,Mongolia,Eastern Asia,Asia,KOR,Republic of Korea,Eastern Asia,Asia,18.407
+CHN,China,Eastern Asia,Asia,MAC,"China, Macao SAR",Eastern Asia,Asia,281.611
+HKG,"China, Hong Kong SAR",Eastern Asia,Asia,MAC,"China, Macao SAR",Eastern Asia,Asia,22.111
+CHN,China,Eastern Asia,Asia,MMR,Myanmar,South-Eastern Asia,Asia,33.656
+CHN,China,Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,10.368
+JPN,Japan,Eastern Asia,Asia,MYS,Malaysia,South-Eastern Asia,Asia,16.45
+CHN,China,Eastern Asia,Asia,NLD,Netherlands,Western Europe,Europe,62.708
+CHN,China,Eastern Asia,Asia,NOR,Norway,Northern Europe,Europe,11.203
+CHN,China,Eastern Asia,Asia,NPL,Nepal,Southern Asia,Asia,20.308
+CHN,China,Eastern Asia,Asia,NZL,New Zealand,Australia/New Zealand,Oceania,92.602
+JPN,Japan,Eastern Asia,Asia,NZL,New Zealand,Australia/New Zealand,Oceania,10.67
+KOR,Republic of Korea,Eastern Asia,Asia,NZL,New Zealand,Australia/New Zealand,Oceania,27.64
+CHN,China,Eastern Asia,Asia,PAN,Panama,Central America,Latin America and the Caribbean,18.665
+CHN,China,Eastern Asia,Asia,PHL,Philippines,South-Eastern Asia,Asia,35.952
+JPN,Japan,Eastern Asia,Asia,PHL,Philippines,South-Eastern Asia,Asia,13.749
+CHN,China,Eastern Asia,Asia,PRK,Dem. People's Republic of Korea,Eastern Asia,Asia,28.594
+CHN,China,Eastern Asia,Asia,PRT,Portugal,Southern Europe,Europe,10.128
+CHN,China,Eastern Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,56.171
+PRK,Dem. People's Republic of Korea,Eastern Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,10.624
+MNG,Mongolia,Eastern Asia,Asia,RUS,Russian Federation,Eastern Europe,Europe,21.144
+CHN,China,Eastern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,448.566
+HKG,"China, Hong Kong SAR",Eastern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,61.969
+MAC,"China, Macao SAR",Eastern Asia,Asia,SGP,Singapore,South-Eastern Asia,Asia,22.199
+CHN,China,Eastern Asia,Asia,SWE,Sweden,Northern Europe,Europe,30.743
+KOR,Republic of Korea,Eastern Asia,Asia,SWE,Sweden,Northern Europe,Europe,10.979
+CHN,China,Eastern Asia,Asia,THA,Thailand,South-Eastern Asia,Asia,100.32
+CHN,China,Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,2103.551
+HKG,"China, Hong Kong SAR",Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,223.719
+MAC,"China, Macao SAR",Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,11.332
+JPN,Japan,Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,345.026
+KOR,Republic of Korea,Eastern Asia,Asia,USA,United States of America,Northern America,Northern America,1119.578
+CHN,China,Eastern Asia,Asia,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,13.865
+CHN,China,Eastern Asia,Asia,ZAF,South Africa,Southern Africa,Africa,25.18
+NZL,New Zealand,Australia/New Zealand,Oceania,AUS,Australia,Australia/New Zealand,Oceania,642.271
+AUS,Australia,Australia/New Zealand,Oceania,CAN,Canada,Northern America,Northern America,27.538
+NZL,New Zealand,Australia/New Zealand,Oceania,CAN,Canada,Northern America,Northern America,12.919
+AUS,Australia,Australia/New Zealand,Oceania,DEU,Germany,Western Europe,Europe,13.892
+AUS,Australia,Australia/New Zealand,Oceania,GBR,United Kingdom,Northern Europe,Europe,135.786
+NZL,New Zealand,Australia/New Zealand,Oceania,GBR,United Kingdom,Northern Europe,Europe,67.276
+AUS,Australia,Australia/New Zealand,Oceania,GRC,Greece,Southern Europe,Europe,20.224
+AUS,Australia,Australia/New Zealand,Oceania,IDN,Indonesia,South-Eastern Asia,Asia,10.547
+AUS,Australia,Australia/New Zealand,Oceania,ITA,Italy,Southern Europe,Europe,19.85
+AUS,Australia,Australia/New Zealand,Oceania,NLD,Netherlands,Western Europe,Europe,10.366
+AUS,Australia,Australia/New Zealand,Oceania,NZL,New Zealand,Australia/New Zealand,Oceania,65.161
+AUS,Australia,Australia/New Zealand,Oceania,SGP,Singapore,South-Eastern Asia,Asia,10.129
+AUS,Australia,Australia/New Zealand,Oceania,USA,United States of America,Northern America,Northern America,77.845
+NZL,New Zealand,Australia/New Zealand,Oceania,USA,United States of America,Northern America,Northern America,30.794
+FJI,Fiji,Melanesia,Oceania,AUS,Australia,Australia/New Zealand,Oceania,72.084
+FJI,Fiji,Melanesia,Oceania,CAN,Canada,Northern America,Northern America,27.06
+FJI,Fiji,Melanesia,Oceania,NZL,New Zealand,Australia/New Zealand,Oceania,54.815
+FJI,Fiji,Melanesia,Oceania,USA,United States of America,Northern America,Northern America,40.737
+FSM,Micronesia (Fed. States of),Micronesia,Oceania,GUM,Guam,Micronesia,Oceania,10.639
+WSM,Samoa,Polynesia,Oceania,ASM,American Samoa,Polynesia,Oceania,15.614
+WSM,Samoa,Polynesia,Oceania,AUS,Australia,Australia/New Zealand,Oceania,26.142
+TON,Tonga,Polynesia,Oceania,AUS,Australia,Australia/New Zealand,Oceania,11.784
+COK,Cook Islands,Polynesia,Oceania,NZL,New Zealand,Australia/New Zealand,Oceania,13.46
+WSM,Samoa,Polynesia,Oceania,NZL,New Zealand,Australia/New Zealand,Oceania,52.64
+TON,Tonga,Polynesia,Oceania,NZL,New Zealand,Australia/New Zealand,Oceania,23.291
+WSM,Samoa,Polynesia,Oceania,USA,United States of America,Northern America,Northern America,16.866
+TON,Tonga,Polynesia,Oceania,USA,United States of America,Northern America,Northern America,17.717
+BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,ARG,Argentina,South America,Latin America and the Caribbean,419.048
+BRA,Brazil,South America,Latin America and the Caribbean,ARG,Argentina,South America,Latin America and the Caribbean,48.792
+CHL,Chile,South America,Latin America and the Caribbean,ARG,Argentina,South America,Latin America and the Caribbean,213.119
+PRY,Paraguay,South America,Latin America and the Caribbean,ARG,Argentina,South America,Latin America and the Caribbean,679.044
+PER,Peru,South America,Latin America and the Caribbean,ARG,Argentina,South America,Latin America and the Caribbean,195.32
+URY,Uruguay,South America,Latin America and the Caribbean,ARG,Argentina,South America,Latin America and the Caribbean,132.749
+ARG,Argentina,South America,Latin America and the Caribbean,AUS,Australia,Australia/New Zealand,Oceania,15.423
+BRA,Brazil,South America,Latin America and the Caribbean,AUS,Australia,Australia/New Zealand,Oceania,20.73
+CHL,Chile,South America,Latin America and the Caribbean,AUS,Australia,Australia/New Zealand,Oceania,30.963
+COL,Colombia,South America,Latin America and the Caribbean,AUS,Australia,Australia/New Zealand,Oceania,15.497
+PER,Peru,South America,Latin America and the Caribbean,AUS,Australia,Australia/New Zealand,Oceania,10.855
+URY,Uruguay,South America,Latin America and the Caribbean,AUS,Australia,Australia/New Zealand,Oceania,11.14
+BRA,Brazil,South America,Latin America and the Caribbean,BGD,Bangladesh,Southern Asia,Asia,14.919
+ARG,Argentina,South America,Latin America and the Caribbean,BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,42.691
+BRA,Brazil,South America,Latin America and the Caribbean,BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,25.688
+PER,Peru,South America,Latin America and the Caribbean,BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,11.282
+ARG,Argentina,South America,Latin America and the Caribbean,BRA,Brazil,South America,Latin America and the Caribbean,34.699
+BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,BRA,Brazil,South America,Latin America and the Caribbean,46.336
+CHL,Chile,South America,Latin America and the Caribbean,BRA,Brazil,South America,Latin America and the Caribbean,18.422
+PRY,Paraguay,South America,Latin America and the Caribbean,BRA,Brazil,South America,Latin America and the Caribbean,46.857
+PER,Peru,South America,Latin America and the Caribbean,BRA,Brazil,South America,Latin America and the Caribbean,17.931
+URY,Uruguay,South America,Latin America and the Caribbean,BRA,Brazil,South America,Latin America and the Caribbean,28.708
+ARG,Argentina,South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,21.35
+BRA,Brazil,South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,29.345
+CHL,Chile,South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,29.09
+COL,Colombia,South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,70.497
+ECU,Ecuador,South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,15.59
+GUY,Guyana,South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,96.531
+PER,Peru,South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,30.099
+VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,19.732
+BRA,Brazil,South America,Latin America and the Caribbean,CHE,Switzerland,Western Europe,Europe,47.482
+COL,Colombia,South America,Latin America and the Caribbean,CHE,Switzerland,Western Europe,Europe,11.949
+ARG,Argentina,South America,Latin America and the Caribbean,CHL,Chile,South America,Latin America and the Caribbean,70.415
+BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,CHL,Chile,South America,Latin America and the Caribbean,37.554
+BRA,Brazil,South America,Latin America and the Caribbean,CHL,Chile,South America,Latin America and the Caribbean,18.243
+COL,Colombia,South America,Latin America and the Caribbean,CHL,Chile,South America,Latin America and the Caribbean,23.471
+ECU,Ecuador,South America,Latin America and the Caribbean,CHL,Chile,South America,Latin America and the Caribbean,23.471
+PER,Peru,South America,Latin America and the Caribbean,CHL,Chile,South America,Latin America and the Caribbean,178.385
+BRA,Brazil,South America,Latin America and the Caribbean,CHN,China,Eastern Asia,Asia,74.289
+PER,Peru,South America,Latin America and the Caribbean,CHN,China,Eastern Asia,Asia,13.483
+ECU,Ecuador,South America,Latin America and the Caribbean,COL,Colombia,South America,Latin America and the Caribbean,14.232
+VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,COL,Colombia,South America,Latin America and the Caribbean,46.614
+COL,Colombia,South America,Latin America and the Caribbean,CRI,Costa Rica,Central America,Latin America and the Caribbean,21.787
+ARG,Argentina,South America,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,18.537
+BRA,Brazil,South America,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,63.893
+CHL,Chile,South America,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,15.942
+COL,Colombia,South America,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,22.116
+PER,Peru,South America,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,18.568
+CHL,Chile,South America,Latin America and the Caribbean,ECU,Ecuador,South America,Latin America and the Caribbean,11.341
+COL,Colombia,South America,Latin America and the Caribbean,ECU,Ecuador,South America,Latin America and the Caribbean,194.733
+PER,Peru,South America,Latin America and the Caribbean,ECU,Ecuador,South America,Latin America and the Caribbean,13.705
+ARG,Argentina,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,250.778
+BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,154.675
+BRA,Brazil,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,99.725
+CHL,Chile,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,54.64
+COL,Colombia,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,346.936
+ECU,Ecuador,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,421.758
+PRY,Paraguay,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,60.506
+PER,Peru,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,183.529
+URY,Uruguay,South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,73.772
+VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,151.594
+ARG,Argentina,South America,Latin America and the Caribbean,FRA,France,Western Europe,Europe,12.946
+BRA,Brazil,South America,Latin America and the Caribbean,FRA,France,Western Europe,Europe,57.405
+CHL,Chile,South America,Latin America and the Caribbean,FRA,France,Western Europe,Europe,14.402
+COL,Colombia,South America,Latin America and the Caribbean,FRA,France,Western Europe,Europe,27.231
+PER,Peru,South America,Latin America and the Caribbean,FRA,France,Western Europe,Europe,11.682
+SUR,Suriname,South America,Latin America and the Caribbean,FRA,France,Western Europe,Europe,24.383
+ARG,Argentina,South America,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,11.339
+BRA,Brazil,South America,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,56.055
+COL,Colombia,South America,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,27.691
+GUY,Guyana,South America,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,23.458
+BRA,Brazil,South America,Latin America and the Caribbean,GUF,French Guiana,South America,Latin America and the Caribbean,19.481
+SUR,Suriname,South America,Latin America and the Caribbean,GUF,French Guiana,South America,Latin America and the Caribbean,30.785
+BRA,Brazil,South America,Latin America and the Caribbean,IRL,Ireland,Northern Europe,Europe,10.292
+ARG,Argentina,South America,Latin America and the Caribbean,ISR,Israel,Western Asia,Asia,39.343
+ARG,Argentina,South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,73.183
+BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,15.698
+BRA,Brazil,South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,104.207
+CHL,Chile,South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,12.427
+COL,Colombia,South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,39.532
+ECU,Ecuador,South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,88.329
+PER,Peru,South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,116.038
+VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,48.97
+BRA,Brazil,South America,Latin America and the Caribbean,JPN,Japan,Eastern Asia,Asia,182.227
+PER,Peru,South America,Latin America and the Caribbean,JPN,Japan,Eastern Asia,Asia,48.837
+ARG,Argentina,South America,Latin America and the Caribbean,MEX,Mexico,Central America,Latin America and the Caribbean,18.728
+COL,Colombia,South America,Latin America and the Caribbean,MEX,Mexico,Central America,Latin America and the Caribbean,20.135
+VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,MEX,Mexico,Central America,Latin America and the Caribbean,15.959
+BRA,Brazil,South America,Latin America and the Caribbean,NLD,Netherlands,Western Europe,Europe,16.089
+COL,Colombia,South America,Latin America and the Caribbean,NLD,Netherlands,Western Europe,Europe,14.375
+SUR,Suriname,South America,Latin America and the Caribbean,NLD,Netherlands,Western Europe,Europe,186.783
+COL,Colombia,South America,Latin America and the Caribbean,PAN,Panama,Central America,Latin America and the Caribbean,55.251
+ARG,Argentina,South America,Latin America and the Caribbean,PER,Peru,South America,Latin America and the Caribbean,11.354
+BRA,Brazil,South America,Latin America and the Caribbean,PRT,Portugal,Southern Europe,Europe,129.968
+VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,PRT,Portugal,Southern Europe,Europe,23.404
+ARG,Argentina,South America,Latin America and the Caribbean,PRY,Paraguay,South America,Latin America and the Caribbean,57.056
+BRA,Brazil,South America,Latin America and the Caribbean,PRY,Paraguay,South America,Latin America and the Caribbean,73.715
+GUY,Guyana,South America,Latin America and the Caribbean,SUR,Suriname,South America,Latin America and the Caribbean,13.284
+CHL,Chile,South America,Latin America and the Caribbean,SWE,Sweden,Northern Europe,Europe,28.853
+COL,Colombia,South America,Latin America and the Caribbean,SWE,Sweden,Northern Europe,Europe,11.973
+ARG,Argentina,South America,Latin America and the Caribbean,URY,Uruguay,South America,Latin America and the Caribbean,22.521
+BRA,Brazil,South America,Latin America and the Caribbean,URY,Uruguay,South America,Latin America and the Caribbean,10.496
+ARG,Argentina,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,179.639
+BOL,Bolivia (Plurinational State of),South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,80.073
+BRA,Brazil,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,347.968
+CHL,Chile,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,97.901
+COL,Colombia,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,687.696
+ECU,Ecuador,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,442.693
+GUY,Guyana,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,269.778
+PRY,Paraguay,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,28.642
+PER,Peru,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,442.615
+SUR,Suriname,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,13.338
+URY,Uruguay,South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,47.664
+VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,197.171
+CHL,Chile,South America,Latin America and the Caribbean,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,15.263
+COL,Colombia,South America,Latin America and the Caribbean,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,973.315
+ECU,Ecuador,South America,Latin America and the Caribbean,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,36.973
+PER,Peru,South America,Latin America and the Caribbean,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,47.007
+ATG,Antigua and Barbuda,Caribbean,Latin America and the Caribbean,BGD,Bangladesh,Southern Asia,Asia,21.664
+HTI,Haiti,Caribbean,Latin America and the Caribbean,BHS,Bahamas,Caribbean,Latin America and the Caribbean,27.591
+BRB,Barbados,Caribbean,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,17.207
+CUB,Cuba,Caribbean,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,15.128
+GRD,Grenada,Caribbean,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,11.524
+HTI,Haiti,Caribbean,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,93.443
+JAM,Jamaica,Caribbean,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,140.185
+VCT,Saint Vincent and the Grenadines,Caribbean,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,13.973
+TTO,Trinidad and Tobago,Caribbean,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,74.682
+DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,CHE,Switzerland,Western Europe,Europe,10.754
+CUB,Cuba,Caribbean,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,14.528
+DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,11.091
+HTI,Haiti,Caribbean,Latin America and the Caribbean,DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,329.281
+CUB,Cuba,Caribbean,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,125.263
+DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,151.369
+HTI,Haiti,Caribbean,Latin America and the Caribbean,FRA,France,Western Europe,Europe,74.337
+BRB,Barbados,Caribbean,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,20.271
+GRD,Grenada,Caribbean,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,10.009
+JAM,Jamaica,Caribbean,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,172.829
+TTO,Trinidad and Tobago,Caribbean,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,25.364
+HTI,Haiti,Caribbean,Latin America and the Caribbean,GLP,Guadeloupe,Caribbean,Latin America and the Caribbean,15.284
+HTI,Haiti,Caribbean,Latin America and the Caribbean,GUF,French Guiana,South America,Latin America and the Caribbean,19.005
+CUB,Cuba,Caribbean,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,33.469
+DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,42.269
+CUB,Cuba,Caribbean,Latin America and the Caribbean,MEX,Mexico,Central America,Latin America and the Caribbean,17.653
+CUW,Cura?ao,Caribbean,Latin America and the Caribbean,NLD,Netherlands,Western Europe,Europe,61.301
+SXM,Sint Maarten (Dutch part),Caribbean,Latin America and the Caribbean,NLD,Netherlands,Western Europe,Europe,21.893
+CUB,Cuba,Caribbean,Latin America and the Caribbean,PRI,Puerto Rico,Caribbean,Latin America and the Caribbean,13.321
+DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,PRI,Puerto Rico,Caribbean,Latin America and the Caribbean,57.891
+ATG,Antigua and Barbuda,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,28.558
+BHS,Bahamas,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,33.617
+BRB,Barbados,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,54.78
+CUB,Cuba,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,1131.284
+DMA,Dominica,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,29.579
+DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,940.874
+GRD,Grenada,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,32.46
+HTI,Haiti,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,604.004
+JAM,Jamaica,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,712.83
+PRI,Puerto Rico,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,1744.402
+KNA,Saint Kitts and Nevis,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,17.226
+LCA,Saint Lucia,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,21.076
+VCT,Saint Vincent and the Grenadines,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,22.808
+TTO,Trinidad and Tobago,Caribbean,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,240.948
+CUB,Cuba,Caribbean,Latin America and the Caribbean,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,11.423
+DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,14.743
+SLV,El Salvador,Central America,Latin America and the Caribbean,AUS,Australia,Australia/New Zealand,Oceania,11.689
+GTM,Guatemala,Central America,Latin America and the Caribbean,BLZ,Belize,Central America,Latin America and the Caribbean,23.231
+SLV,El Salvador,Central America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,48.632
+GTM,Guatemala,Central America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,17.555
+MEX,Mexico,Central America,Latin America and the Caribbean,CAN,Canada,Northern America,Northern America,93.557
+SLV,El Salvador,Central America,Latin America and the Caribbean,CRI,Costa Rica,Central America,Latin America and the Caribbean,14.239
+NIC,Nicaragua,Central America,Latin America and the Caribbean,CRI,Costa Rica,Central America,Latin America and the Caribbean,299.34
+PAN,Panama,Central America,Latin America and the Caribbean,CRI,Costa Rica,Central America,Latin America and the Caribbean,11.702
+MEX,Mexico,Central America,Latin America and the Caribbean,DEU,Germany,Western Europe,Europe,18.268
+HND,Honduras,Central America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,37.194
+MEX,Mexico,Central America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,46.867
+NIC,Nicaragua,Central America,Latin America and the Caribbean,ESP,Spain,Southern Europe,Europe,18.713
+MEX,Mexico,Central America,Latin America and the Caribbean,FRA,France,Western Europe,Europe,12.58
+MEX,Mexico,Central America,Latin America and the Caribbean,GBR,United Kingdom,Northern Europe,Europe,10.502
+SLV,El Salvador,Central America,Latin America and the Caribbean,GTM,Guatemala,Central America,Latin America and the Caribbean,19.198
+MEX,Mexico,Central America,Latin America and the Caribbean,GTM,Guatemala,Central America,Latin America and the Caribbean,17.54
+SLV,El Salvador,Central America,Latin America and the Caribbean,ITA,Italy,Southern Europe,Europe,12.464
+SLV,El Salvador,Central America,Latin America and the Caribbean,MEX,Mexico,Central America,Latin America and the Caribbean,10.054
+GTM,Guatemala,Central America,Latin America and the Caribbean,MEX,Mexico,Central America,Latin America and the Caribbean,53.128
+HND,Honduras,Central America,Latin America and the Caribbean,MEX,Mexico,Central America,Latin America and the Caribbean,15.027
+CRI,Costa Rica,Central America,Latin America and the Caribbean,NIC,Nicaragua,Central America,Latin America and the Caribbean,10.772
+HND,Honduras,Central America,Latin America and the Caribbean,NIC,Nicaragua,Central America,Latin America and the Caribbean,12.439
+NIC,Nicaragua,Central America,Latin America and the Caribbean,PAN,Panama,Central America,Latin America and the Caribbean,12.915
+HND,Honduras,Central America,Latin America and the Caribbean,SLV,El Salvador,Central America,Latin America and the Caribbean,11.676
+BLZ,Belize,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,49.765
+CRI,Costa Rica,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,85.924
+SLV,El Salvador,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,1276.489
+GTM,Guatemala,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,881.191
+HND,Honduras,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,530.645
+MEX,Mexico,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,12050.031
+NIC,Nicaragua,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,257.427
+PAN,Panama,Central America,Latin America and the Caribbean,USA,United States of America,Northern America,Northern America,107.852
+USA,United States of America,Northern America,Northern America,ARE,United Arab Emirates,Western Asia,Asia,12.953
+CAN,Canada,Northern America,Northern America,AUS,Australia,Australia/New Zealand,Oceania,54.034
+USA,United States of America,Northern America,Northern America,AUS,Australia,Australia/New Zealand,Oceania,110.643
+USA,United States of America,Northern America,Northern America,AUT,Austria,Western Europe,Europe,11.054
+USA,United States of America,Northern America,Northern America,BEL,Belgium,Western Europe,Europe,12.853
+USA,United States of America,Northern America,Northern America,BGD,Bangladesh,Southern Asia,Asia,46.008
+USA,United States of America,Northern America,Northern America,BRA,Brazil,South America,Latin America and the Caribbean,28.068
+USA,United States of America,Northern America,Northern America,CAN,Canada,Northern America,Northern America,343.252
+CAN,Canada,Northern America,Northern America,CHE,Switzerland,Western Europe,Europe,12.369
+USA,United States of America,Northern America,Northern America,CHE,Switzerland,Western Europe,Europe,38.347
+USA,United States of America,Northern America,Northern America,CHN,China,Eastern Asia,Asia,26.777
+USA,United States of America,Northern America,Northern America,COL,Colombia,South America,Latin America and the Caribbean,18.841
+USA,United States of America,Northern America,Northern America,CRI,Costa Rica,Central America,Latin America and the Caribbean,12.982
+CAN,Canada,Northern America,Northern America,DEU,Germany,Western Europe,Europe,19.695
+USA,United States of America,Northern America,Northern America,DEU,Germany,Western Europe,Europe,137.575
+GRL,Greenland,Northern America,Northern America,DNK,Denmark,Northern Europe,Europe,16.437
+USA,United States of America,Northern America,Northern America,DNK,Denmark,Northern Europe,Europe,12.367
+USA,United States of America,Northern America,Northern America,DOM,Dominican Republic,Caribbean,Latin America and the Caribbean,25.814
+USA,United States of America,Northern America,Northern America,ECU,Ecuador,South America,Latin America and the Caribbean,26.802
+USA,United States of America,Northern America,Northern America,ESP,Spain,Southern Europe,Europe,39.825
+CAN,Canada,Northern America,Northern America,FRA,France,Western Europe,Europe,25.738
+USA,United States of America,Northern America,Northern America,FRA,France,Western Europe,Europe,53.906
+CAN,Canada,Northern America,Northern America,GBR,United Kingdom,Northern Europe,Europe,86.415
+USA,United States of America,Northern America,Northern America,GBR,United Kingdom,Northern Europe,Europe,212.15
+CAN,Canada,Northern America,Northern America,GRC,Greece,Southern Europe,Europe,12.611
+USA,United States of America,Northern America,Northern America,GRC,Greece,Southern Europe,Europe,22.839
+USA,United States of America,Northern America,Northern America,GUM,Guam,Micronesia,Oceania,18.508
+CAN,Canada,Northern America,Northern America,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,14.66
+USA,United States of America,Northern America,Northern America,HKG,"China, Hong Kong SAR",Eastern Asia,Asia,13.25
+USA,United States of America,Northern America,Northern America,IDN,Indonesia,South-Eastern Asia,Asia,11.746
+USA,United States of America,Northern America,Northern America,IRL,Ireland,Northern Europe,Europe,30.69
+USA,United States of America,Northern America,Northern America,ISR,Israel,Western Asia,Asia,79.082
+CAN,Canada,Northern America,Northern America,ITA,Italy,Southern Europe,Europe,25.54
+USA,United States of America,Northern America,Northern America,ITA,Italy,Southern Europe,Europe,54.226
+USA,United States of America,Northern America,Northern America,JPN,Japan,Eastern Asia,Asia,50.243
+CAN,Canada,Northern America,Northern America,KOR,Republic of Korea,Eastern Asia,Asia,14.153
+USA,United States of America,Northern America,Northern America,KOR,Republic of Korea,Eastern Asia,Asia,68.784
+CAN,Canada,Northern America,Northern America,MEX,Mexico,Central America,Latin America and the Caribbean,14.121
+USA,United States of America,Northern America,Northern America,MEX,Mexico,Central America,Latin America and the Caribbean,876.528
+USA,United States of America,Northern America,Northern America,NLD,Netherlands,Western Europe,Europe,27.285
+USA,United States of America,Northern America,Northern America,NOR,Norway,Northern Europe,Europe,17.461
+USA,United States of America,Northern America,Northern America,NZL,New Zealand,Australia/New Zealand,Oceania,22.3
+USA,United States of America,Northern America,Northern America,PAN,Panama,Central America,Latin America and the Caribbean,14.04
+USA,United States of America,Northern America,Northern America,PHL,Philippines,South-Eastern Asia,Asia,35.564
+USA,United States of America,Northern America,Northern America,POL,Poland,Eastern Europe,Europe,13.671
+USA,United States of America,Northern America,Northern America,PRI,Puerto Rico,Caribbean,Latin America and the Caribbean,165.147
+USA,United States of America,Northern America,Northern America,SGP,Singapore,South-Eastern Asia,Asia,17.161
+USA,United States of America,Northern America,Northern America,SWE,Sweden,Northern Europe,Europe,20.011
+USA,United States of America,Northern America,Northern America,TUR,Turkey,Western Asia,Asia,13.634
+CAN,Canada,Northern America,Northern America,USA,United States of America,Northern America,Northern America,842.175
+USA,United States of America,Northern America,Northern America,VEN,Venezuela (Bolivarian Republic of),South America,Latin America and the Caribbean,11.242
+USA,United States of America,Northern America,Northern America,VIR,United States Virgin Islands,Caribbean,Latin America and the Caribbean,16.861
+USA,United States of America,Northern America,Northern America,ZAF,South Africa,Southern Africa,Africa,18.114
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,"Note: The number is slightly less than the 244 million total migrants, since they do not include 9.8 million migrants with unspecified origin and the migrants from “corridors” with smaller than 10,000 migrants wide.",,,,,,,

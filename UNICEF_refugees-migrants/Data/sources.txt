@@ -1,0 +1,17 @@
+MAIN DATA SOURCES
+
+Total population of country: United Nations, Department of Economic and Social Affairs, Population Division, World Population Prospects: The 2015 Revision, United Nations, New York, 2015.
+
+International migrants by country of destination: United Nations, Department of Economic and Social Affairs, Population Division, Trends in International Migrant Stock: The 2015 Revision, United Nations, New York, 2015. Share of under 18 calculated by UNICEF based on United Nations, Department of Economic and Social Affairs, Population Division, Trends in International Migrant Stock: Migrants by Age and Sex, United Nations, New York, 2015.
+
+International migrants by country of origin: United Nations, Department of Economic and Social Affairs, Population Division, Trends in International Migrant Stock: Migrants by Destination and Origin. United Nations, New York, 2015.
+
+Refugees by country of asylum: United Nations High Commissioner for Refugees, Global Trends: Forced Displacement in 2015, UNHCR, Geneva, 2016.
+
+Refugees by country of origin: United Nations High Commissioner for Refugees, Global Trends: Forced Displacement in 2015. UNHCR, Geneva, 2016. Share of under 18 from UNHCR unpublished data table, cited with permission.
+
+Asylum seekers: United Nations High Commissioner for Refugees, Global Trends: Forced Displacement in 2015, UNHCR, Geneva, 2016.
+
+Internally displaced persons (IDPs): Internal Displacement Monitoring Centre, Global Internal Displacement Database (GIDD), IDMC, 2015.
+
+Key human rights instruments: United Nations Treaty Collection; see http://treaties.un.org (as of 13 July 2016).
