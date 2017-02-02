@@ -19,10 +19,10 @@ Safe and sustainable legal global pathways for migration must be established, an
 
 Create (you can choose to create one or more visualizations):  
 
-*A in depth dashboard or (tableau) story on the situation of refugees and migrant children worldwide. 
-*An interactive infographic or gif that’s based on this data – something that’s a bit more geared towards a broader less technically inclined audience. 
-*A country dashboard (so that a UNICEF country office for example could showcase the situation from their perspective).
-*Any data visualization that you think will attract the attention for this issue.
+* An in depth dashboard or (tableau) story on the situation of refugees and migrant children worldwide. 
+* An interactive infographic or gif that’s based on this data – something that’s a bit more geared towards a broader less technically inclined audience. 
+* A country dashboard (so that a UNICEF country office for example could showcase the situation from their perspective).
+* Any data visualization that you think will attract the attention for this issue.
 
 
 ##How to Participate
