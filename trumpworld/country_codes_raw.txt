@@ -1,0 +1,132 @@
+Guernsey GG
+Isle Of Man IM
+Jersey JE
+Montenegro ME
+Saint Barthélemy BL
+Saint Martin MF 
+Afghanistan AF Congo, The Democratic Republic of the CD
+Åland Islands AX Cook Islands CK
+Albania AL Costa Rica CR
+Algeria DZ Côte D'Ivoire CI
+American Samoa AS Croatia HR
+Andorra AD Cuba CU
+Angola AO Cyprus CY
+Anguilla AI Czech Republic CZ
+Antarctica AQ Denmark DK
+Antigua and Barbuda AG Djibouti DJ
+Argentina AR Dominica DM
+Armenia AM Dominican Republic DO
+Aruba AW Ecuador EC
+Australia AU Egypt EG
+Austria AT El Salvador SV
+Azerbaijan AZ Equatorial Guinea GQ
+Bahamas BS Eritrea ER
+Bahrain BH Estonia EE
+Bangladesh BD Ethiopia ET
+Barbados BB Falkland Islands (Malvinas) FK
+Belarus BY Faroe Islands FO
+Belgium BE Fiji FJ
+Belize BZ Finland FI
+Benin BJ France FR
+Bermuda BM French Guiana GF
+Bhutan BT French Polynesia PF
+Bolivia BO French Southern Territories TF
+Bosnia and Herzegovina BA Gabon GA
+Botswana BW Gambia GM
+Bouvet Island BV Georgia GE
+Brazil BR Germany DE
+British Indian Ocean Territory IO Ghana GH
+Brunei Darussalam BN Gibraltar GI
+Bulgaria BG Greece GR
+Burkina Faso BF Greenland GL
+Burundi BI Grenada GD
+Cambodia KH Guadeloupe GP
+Cameroon CM Guam GU
+Canada CA Guatemala GT
+Cape Verde CV Guernsey GG
+Cayman Islands KY Guinea GN
+Central African Republic CF Guinea-Bissau GW
+Chad TD Guyana GY
+Chile CL Haiti HT
+China CN Heard Island and Mcdonald Islands HM
+Christmas Island CX Holy See (Vatican City State) VA
+Cocos (Keeling) Islands CC Honduras HN
+Colombia CO Hong Kong HK
+Comoros KM Hungary HU
+Congo CG Iceland IS 
+India IN Myanmar MM
+Indonesia ID Namibia NA
+Iran, Islamic Republic of IR Nauru NR
+Iraq IQ Nepal NP
+Ireland IE Netherlands NL
+Isle of Man IM Netherlands Antilles AN
+Israel IL New Caledonia NC
+Italy IT New Zealand NZ
+Jamaica JM Nicaragua NI
+Japan JP Niger NE
+Jersey JE Nigeria NG
+Jordan JO Niue NU
+Kazakhstan KZ Norfolk Island NF
+Kenya KE Northern Mariana Islands MP
+Kiribati KI Norway NO
+Korea, Democratic People's Republic of KP Oman OM
+Korea, Republic of KR Pakistan PK
+Kuwait KW Palau PW
+Kyrgyzstan KG Palestinian Territory, Occupied PS
+Lao People's Democratic Republic LA Panama PA
+Latvia LV Papua New Guinea PG
+Lebanon LB Paraguay PY
+Lesotho LS Peru PE
+Liberia LR Philippines PH
+Libyan Arab Jamahiriya LY Pitcairn PN
+Liechtenstein LI Poland PL
+Lithuania LT Portugal PT
+Luxembourg LU Puerto Rico PR
+Macao MO Qatar QA
+Macedonia, The Former Yugoslav Republic of MK Réunion RE
+Madagascar MG Romania RO
+Malawi MW Russian Federation RU
+Malaysia MY Rwanda RW
+Maldives MV Saint Barthélemy BL
+Mali ML Saint Helena SH
+Malta MT Saint Kitts and Nevis KN
+Marshall Islands MH Saint Lucia LC
+Martinique MQ Saint Martin MF
+Mauritania MR Saint Pierre and Miquelon PM
+Mauritius MU Saint Vincent and the Grenadines VC
+Mayotte YT Samoa WS
+Mexico MX San Marino SM
+Micronesia, Federated States Of FM Sao Tome and Principe ST
+Moldova MD Saudi Arabia SA
+Monaco MC Senegal SN
+Mongolia MN Serbia RS
+Montenegro ME Seychelles SC
+Montserrat MS Sierra Leone SL
+Morocco MA Singapore SG
+Mozambique MZ Slovakia SK 
+Slovenia SI Turkey TR
+Solomon Islands SB Turkmenistan TM
+Somalia SO Turks and Caicos Islands TC
+South Africa ZA Tuvalu TV
+South Georgia and the South Sandwich
+Islands
+GS Uganda UG
+Spain ES Ukraine UA
+Sri Lanka LK United Arab Emirates AE
+Sudan SD United Kingdom GB
+Suriname SR United States US
+Svalbard and Jan Mayen SJ United States Minor Outlying Islands UM
+Swaziland SZ Uruguay UY
+Sweden SE Uzbekistan UZ
+Switzerland CH Vanuatu VU
+Syrian Arab Republic SY Vatican City State see HOLY SEE
+Taiwan, Province of China TW Venezuela VE
+Tajikistan TJ Viet Nam VN
+Tanzania, United Republic of TZ Virgin Islands, British VG
+Thailand TH Virgin Islands, U.S. VI
+Timor-Leste TL Wallis and Futuna WF
+Togo TG Western Sahara EH
+Tokelau TK Yemen YE
+Tonga TO Zambia ZM
+Trinidad and Tobago TT Zimbabwe ZW
+Tunisia TN 

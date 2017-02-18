@@ -1,0 +1,39 @@
+Alabama AL Nebraska NE
+Alaska AK Nevada NV
+Alberta AB New Brunswick NB
+American Samoa AS New Hampshire NH
+Arizona AZ New Jersey NJ
+Arkansas AR New Mexico NM
+British Columbia BC New York NY
+California CA Newfoundland NF
+Canal Zone CZ Newfoundland And Labrador NL
+Colorado CO North Carolina NC
+Connecticut CT North Dakota ND
+Delaware DE Northern Mariana Islands MP
+District Of Columbia DC Northwest Territories NT
+Federated States Of Micronesia FM Nova Scotia NS
+Florida FL Nunavut NU
+Georgia GA Ohio OH
+Guam GU Oklahoma OK
+Hawaii HI Ontario ON
+Idaho ID Oregon OR
+Illinois IL Pennsylvania PA
+Indiana IN Prince Edward Island PE
+Iowa IA Puerto Rico PR
+Kansas KS Quebec QC
+Kentucky KY Republic Of Palau PW
+Louisiana LA Rhode Island RI
+Maine ME Saskatchewan SK
+Manitoba MB South Carolina SC
+Marshall Islands MH South Dakota SD
+Maryland MD Tennessee TN
+Massachusetts MA Texas TX
+Michigan MI Utah UT
+Military-Americas AA Vermont VT
+Military-Europe AE Virgin Islands VI
+Military-Pacific AP Virginia VA
+Minnesota MN Washington WA
+Mississippi MS West Virginia WV
+Missouri MO Wisconsin WI
+Montana MT Wyoming WY
+Yukon YT 
