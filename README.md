@@ -25,4 +25,5 @@ Skills required will vary by project, but these small projects should be a great
 
 ### Micro-projects
 * Mapping the D4D Slack Channel Ecosystem
-* Visualization of data on refugee and migrant children via [Viz for Social Good and UNICEF](https://www.vizforsocialgood.com/united-nations-childrens-fund) - their challenge had a 1 Feb. 2017 (11:59PM PST) deadline, but given the current immigration policy crisis, consideration of these data can be useful beyond that date.  
+* Visualization of data on refugee and migrant children via [Viz for Social Good and UNICEF](https://www.vizforsocialgood.com/projectsanddata/2017/2/4/unicef) - their challenge ended on 1 Feb. 2017 (11:59PM PST), but given the current immigration policy crisis, consideration of these data can be useful beyond that date.
+
