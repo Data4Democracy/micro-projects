@@ -1,0 +1,4669 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "C4CJ3J1EK",
+            "name": "1boston-crash-model",
+            "is_channel": true,
+            "created": 1488344903,
+            "creator": "U4BR0JQLB",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "1boston-crash-model",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "boston-crash-modeling"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C4609PG10",
+            "name": "accessibility",
+            "is_channel": true,
+            "created": 1487185332,
+            "creator": "U44ASGR99",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "accessibility",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "How to make sure our results can be accessed by everyone ? Don't let disabilty get in the way of democracy !",
+                "creator": "U44ASGR99",
+                "last_set": 1487340353
+            },
+            "previous_names": [],
+            "num_members": 13
+        },
+        {
+            "id": "C40CVBNNT",
+            "name": "across-the-news",
+            "is_channel": true,
+            "created": 1485986997,
+            "creator": "U3FNRCTC3",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "across-the-news",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "Visualizing News Media Bias and its effects",
+                "creator": "U4820S2FP",
+                "last_set": 1488891167
+            },
+            "purpose": {
+                "value": "Build a tool that helps readers quickly see all perspectives of a story",
+                "creator": "U3FNRCTC3",
+                "last_set": 1485986997
+            },
+            "previous_names": [],
+            "num_members": 96
+        },
+        {
+            "id": "C44E3F0CV",
+            "name": "analyst-advocates",
+            "is_channel": true,
+            "created": 1486915401,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "analyst-advocates",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Making it easier for analysts to get started with D4D projects",
+                "creator": "U39JB4RGR",
+                "last_set": 1486915401
+            },
+            "previous_names": [],
+            "num_members": 86
+        },
+        {
+            "id": "C3QKL8M98",
+            "name": "assemble",
+            "is_channel": true,
+            "created": 1484228788,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "assemble",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Welcome! checkout our community guide https:\/\/github.com\/Data4Democracy\/assemble\/blob\/master\/community-guide.md",
+                "creator": "U3GCLA9BR",
+                "last_set": 1485785645
+            },
+            "purpose": {
+                "value": "working to build tools and infrastructure to enable the study of online communities",
+                "creator": "U3GCLA9BR",
+                "last_set": 1484228789
+            },
+            "previous_names": [],
+            "num_members": 244
+        },
+        {
+            "id": "C4VTQ2G4U",
+            "name": "atibroadcastapp",
+            "is_channel": true,
+            "created": 1491529725,
+            "creator": "U47DEH6QN",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "atibroadcastapp",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For working on trusted partner broadcast app for the America the Indivisible Network in alignment with the Indivisible Project",
+                "creator": "U47DEH6QN",
+                "last_set": 1491529725
+            },
+            "previous_names": [],
+            "num_members": 32
+        },
+        {
+            "id": "C4T2L19J7",
+            "name": "atx_political_ads",
+            "is_channel": true,
+            "created": 1491066563,
+            "creator": "U4T21FC3D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "atx_political_ads",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 15
+        },
+        {
+            "id": "C4T0USKFU",
+            "name": "bolsafamiliaexplore",
+            "is_channel": true,
+            "created": 1491002973,
+            "creator": "U4STLH6V9",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "bolsafamiliaexplore",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Explore data from the Bolsa Familia social welfare program from the Brazilian Federal Goverment that distributes Billions of Dollars to low income families in Brazil (see: https:\/\/en.wikipedia.org\/wiki\/Bolsa_Fam%C3%ADlia).",
+                "creator": "U4STLH6V9",
+                "last_set": 1491002974
+            },
+            "previous_names": [],
+            "num_members": 17
+        },
+        {
+            "id": "C4TLV9UBG",
+            "name": "chicago-epa",
+            "is_channel": true,
+            "created": 1491002744,
+            "creator": "U44R03MBP",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "chicago-epa",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Water Quality?",
+                "creator": "U44R03MBP",
+                "last_set": 1491002758
+            },
+            "previous_names": [],
+            "num_members": 15
+        },
+        {
+            "id": "C40TWD84D",
+            "name": "citizensvoice",
+            "is_channel": true,
+            "created": 1486152382,
+            "creator": "U3YBT54FM",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "citizensvoice",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Project: Congressional constituents flood phone lines to convey their conerns \/ needs \/ wants while staffers manually tabulate. It\u2019s 2017 and that is absolutely ridiculous. Let's solve that.",
+                "creator": "U3YBT54FM",
+                "last_set": 1486152523
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3G7HFFSP",
+            "name": "city-atlanta",
+            "is_channel": true,
+            "created": 1482091742,
+            "creator": "U3F2BS82V",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-atlanta",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 14
+        },
+        {
+            "id": "C3G7F689H",
+            "name": "city-austin",
+            "is_channel": true,
+            "created": 1482090608,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-austin",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For people in or interested in Austin.",
+                "creator": "U39JB4RGR",
+                "last_set": 1482090608
+            },
+            "previous_names": [],
+            "num_members": 103
+        },
+        {
+            "id": "C4PURJVBK",
+            "name": "city-berlin",
+            "is_channel": true,
+            "created": 1490689246,
+            "creator": "U4Q74V3FE",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-berlin",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C4RK7ES3G",
+            "name": "city-bloomington-in",
+            "is_channel": true,
+            "created": 1490723956,
+            "creator": "U3X7QV64E",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-bloomington-in",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "D4D efforts connected to the City of Bloomington, IN (there are many Bloomingtons)",
+                "creator": "U3X7QV64E",
+                "last_set": 1490723956
+            },
+            "previous_names": [],
+            "num_members": 3
+        },
+        {
+            "id": "C3GBSF4AY",
+            "name": "city-boston",
+            "is_channel": true,
+            "created": 1482091567,
+            "creator": "U3FQSGHPW",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-boston",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "City of Boston-related chatter. ",
+                "creator": "U3FQSGHPW",
+                "last_set": 1482091568
+            },
+            "previous_names": [],
+            "num_members": 98
+        },
+        {
+            "id": "C4VU7R4F8",
+            "name": "city-boulder",
+            "is_channel": true,
+            "created": 1491445516,
+            "creator": "U4TMX0HFG",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-boulder",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Boulder, CO!",
+                "creator": "U4TMX0HFG",
+                "last_set": 1491445516
+            },
+            "previous_names": [],
+            "num_members": 19
+        },
+        {
+            "id": "C3PRSV0N6",
+            "name": "city-chicago",
+            "is_channel": true,
+            "created": 1484094299,
+            "creator": "U3LBGTXPT",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-chicago",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "Hackathon 3\/31 and 4\/1 at Metis in West Loop! Be there!",
+                "creator": "U3Z38J5BR",
+                "last_set": 1489089886
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 64
+        },
+        {
+            "id": "C4AQ15EQ5",
+            "name": "city-cincinnati",
+            "is_channel": true,
+            "created": 1488168203,
+            "creator": "U4AHVAP2N",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-cincinnati",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C3QK74HT8",
+            "name": "city-columbus",
+            "is_channel": true,
+            "created": 1484120340,
+            "creator": "U3GARQRQF",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-columbus",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For people living in, interested in, or analyzing data from Columbus",
+                "creator": "U3GARQRQF",
+                "last_set": 1484120340
+            },
+            "previous_names": [],
+            "num_members": 10
+        },
+        {
+            "id": "C3G7XPD51",
+            "name": "city-dc",
+            "is_channel": true,
+            "created": 1482098910,
+            "creator": "U3F4XHZ6D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-dc",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "talk about washington, dc related projects",
+                "creator": "U3F4XHZ6D",
+                "last_set": 1482098910
+            },
+            "previous_names": [],
+            "num_members": 73
+        },
+        {
+            "id": "C3H0M064X",
+            "name": "city-denver",
+            "is_channel": true,
+            "created": 1482095097,
+            "creator": "U3FS36DAP",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-denver",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 37
+        },
+        {
+            "id": "C4G459RAS",
+            "name": "city-detroit",
+            "is_channel": true,
+            "created": 1488987482,
+            "creator": "U3SHVMGSH",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-detroit",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 7
+        },
+        {
+            "id": "C4Q5R2KDH",
+            "name": "city-dfw",
+            "is_channel": true,
+            "created": 1490630601,
+            "creator": "U4LLGGS5B",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-dfw",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 8
+        },
+        {
+            "id": "C3Q7C31QE",
+            "name": "city-hartford",
+            "is_channel": true,
+            "created": 1484059702,
+            "creator": "U3N24KF32",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-hartford",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Chat about data efforts in the nutmeg state and the greater Hartford area!",
+                "creator": "U3N24KF32",
+                "last_set": 1484059785
+            },
+            "previous_names": [],
+            "num_members": 6
+        },
+        {
+            "id": "C5CADC9FW",
+            "name": "city-honolulu",
+            "is_channel": true,
+            "created": 1494528089,
+            "creator": "U5B1AC34L",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-honolulu",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Anyone interested in projects pertaining to Honolulu, HI.",
+                "creator": "U5B1AC34L",
+                "last_set": 1494528090
+            },
+            "previous_names": [],
+            "num_members": 1
+        },
+        {
+            "id": "C3SSQPKSS",
+            "name": "city-houston",
+            "is_channel": true,
+            "created": 1484596941,
+            "creator": "U3PM61CSZ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-houston",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For people that love data and live in Houston",
+                "creator": "U3PM61CSZ",
+                "last_set": 1484596941
+            },
+            "previous_names": [],
+            "num_members": 20
+        },
+        {
+            "id": "C5BUYP5T6",
+            "name": "city-london",
+            "is_channel": true,
+            "created": 1494488996,
+            "creator": "U5BQWJL4B",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-london",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussions on projects based in London",
+                "creator": "U5BQWJL4B",
+                "last_set": 1494488997
+            },
+            "previous_names": [],
+            "num_members": 5
+        },
+        {
+            "id": "C3JMNN7UZ",
+            "name": "city-losangeles",
+            "is_channel": true,
+            "created": 1482939699,
+            "creator": "U3FDWTM88",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-losangeles",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Collaborate on projects in the greater Los Angeles area and nearby counties in the larger Southern California region.",
+                "creator": "U3FDWTM88",
+                "last_set": 1482963213
+            },
+            "previous_names": [],
+            "num_members": 46
+        },
+        {
+            "id": "C3H0ENCCF",
+            "name": "city-louisville",
+            "is_channel": true,
+            "created": 1482091990,
+            "creator": "U3GBWSKC6",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-louisville",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Louisville stuff!",
+                "creator": "U3GBWSKC6",
+                "last_set": 1482091990
+            },
+            "previous_names": [],
+            "num_members": 32
+        },
+        {
+            "id": "C5RQ5LP9N",
+            "name": "city-munich",
+            "is_channel": true,
+            "created": 1497291363,
+            "creator": "U5P00NNMB",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-munich",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Willkommen im M\u00fcnchner Channel!",
+                "creator": "U5P00NNMB",
+                "last_set": 1497291370
+            },
+            "previous_names": [
+                "munich"
+            ],
+            "num_members": 1
+        },
+        {
+            "id": "C3J2X3Z8F",
+            "name": "city-nashville",
+            "is_channel": true,
+            "created": 1482292789,
+            "creator": "U3HTGLGP8",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-nashville",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Nashville\/Middle TN projects &amp; discussion!",
+                "creator": "U3HTGLGP8",
+                "last_set": 1482292790
+            },
+            "previous_names": [],
+            "num_members": 15
+        },
+        {
+            "id": "C3G7H2NQK",
+            "name": "city-nyc",
+            "is_channel": true,
+            "created": 1482091522,
+            "creator": "U3GNC6NR5",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-nyc",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "D4D in NYC",
+                "creator": "U3G504VL5",
+                "last_set": 1495033521
+            },
+            "purpose": {
+                "value": "Discuss and collaborate on local nyc based data science projects",
+                "creator": "U3GNC6NR5",
+                "last_set": 1482091523
+            },
+            "previous_names": [],
+            "num_members": 168
+        },
+        {
+            "id": "C3GBV37QC",
+            "name": "city-pdx",
+            "is_channel": true,
+            "created": 1482092864,
+            "creator": "U3G45V5C5",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-pdx",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 17
+        },
+        {
+            "id": "C5E1TQRFF",
+            "name": "city-philadelphia",
+            "is_channel": true,
+            "created": 1494906664,
+            "creator": "U5ENCUB38",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-philadelphia",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Channel for peeps in Philadelphia",
+                "creator": "U5ENCUB38",
+                "last_set": 1494906664
+            },
+            "previous_names": [],
+            "num_members": 3
+        },
+        {
+            "id": "C3FJPQ77A",
+            "name": "city-phoenix",
+            "is_channel": true,
+            "created": 1482101495,
+            "creator": "U3FMS7H9T",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-phoenix",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For folks in the Phoenix-Metro area (and any other Arizonans, too)",
+                "creator": "U3FMS7H9T",
+                "last_set": 1482101496
+            },
+            "previous_names": [],
+            "num_members": 11
+        },
+        {
+            "id": "C406R1ZAB",
+            "name": "city-pittsburgh",
+            "is_channel": true,
+            "created": 1485966910,
+            "creator": "U3YM4VDA4",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-pittsburgh",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "steel city data nerds unite",
+                "creator": "U3YM4VDA4",
+                "last_set": 1485966911
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C5F6F7YJ2",
+            "name": "city-portland-me",
+            "is_channel": true,
+            "created": 1494981764,
+            "creator": "U4V8U27TQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-portland-me",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Portland ME",
+                "creator": "U4V8U27TQ",
+                "last_set": 1494981764
+            },
+            "previous_names": [],
+            "num_members": 2
+        },
+        {
+            "id": "C3LGLEQFQ",
+            "name": "city-sanantonio",
+            "is_channel": true,
+            "created": 1483060673,
+            "creator": "U3K5QM5MX",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-sanantonio",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For people in or interested in San Antonio.",
+                "creator": "U3K5QM5MX",
+                "last_set": 1483060673
+            },
+            "previous_names": [],
+            "num_members": 6
+        },
+        {
+            "id": "C3LHE0C4X",
+            "name": "city-sandiego",
+            "is_channel": true,
+            "created": 1483067702,
+            "creator": "U3KSFHJPL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-sandiego",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Data Analysis of all things San Diego",
+                "creator": "U3KSFHJPL",
+                "last_set": 1483067702
+            },
+            "previous_names": [],
+            "num_members": 52
+        },
+        {
+            "id": "C5AV1KTHP",
+            "name": "city-sanfrancisco",
+            "is_channel": true,
+            "created": 1494432992,
+            "creator": "U55PP350C",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-sanfrancisco",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Local collaboration",
+                "creator": "U55PP350C",
+                "last_set": 1494432993
+            },
+            "previous_names": [],
+            "num_members": 8
+        },
+        {
+            "id": "C3FJGSHQ9",
+            "name": "city-seattle",
+            "is_channel": true,
+            "created": 1482083885,
+            "creator": "U3FNRCTC3",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-seattle",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Connect locally with Seattle data scientists to discuss local projects",
+                "creator": "U3FNRCTC3",
+                "last_set": 1482084434
+            },
+            "previous_names": [],
+            "num_members": 81
+        },
+        {
+            "id": "C3FJ5G96U",
+            "name": "city-sf",
+            "is_channel": true,
+            "created": 1482092186,
+            "creator": "U3F3WU8SC",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-sf",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Collaborate on San Francisco data projects",
+                "creator": "U3F3WU8SC",
+                "last_set": 1482092186
+            },
+            "previous_names": [],
+            "num_members": 92
+        },
+        {
+            "id": "C47C0BZ6X",
+            "name": "city-stl",
+            "is_channel": true,
+            "created": 1487468645,
+            "creator": "U484Y5555",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-stl",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Data projects in and about St. Louis, MO",
+                "creator": "U484Y5555",
+                "last_set": 1487468646
+            },
+            "previous_names": [],
+            "num_members": 7
+        },
+        {
+            "id": "C3GC2JF61",
+            "name": "city-syracuse",
+            "is_channel": true,
+            "created": 1482091598,
+            "creator": "U3FPGK8F7",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "city-syracuse",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Gathering place for people who want to work on data projects in and around Central New York",
+                "creator": "U3FPGK8F7",
+                "last_set": 1482091598
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C40SMCU03",
+            "name": "collect-social",
+            "is_channel": true,
+            "created": 1486170025,
+            "creator": "U3ZNUG2UR",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "collect-social",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4HF75RPV",
+            "name": "countermeme",
+            "is_channel": true,
+            "created": 1489422283,
+            "creator": "U3RJBT4SJ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "countermeme",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussion of the Countermeme project",
+                "creator": "U3RJBT4SJ",
+                "last_set": 1489422284
+            },
+            "previous_names": [],
+            "num_members": 7
+        },
+        {
+            "id": "C4EBXDWA1",
+            "name": "country_myanmar",
+            "is_channel": true,
+            "created": 1488821133,
+            "creator": "U4F0346EB",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country_myanmar",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Working in Myanmar? Headed to Myanmar? Interested in supporting data projects for Myanmar? Let\u2019s connect!",
+                "creator": "U4F0346EB",
+                "last_set": 1488822363
+            },
+            "previous_names": [],
+            "num_members": 7
+        },
+        {
+            "id": "C3QAV98E7",
+            "name": "country-australia",
+            "is_channel": true,
+            "created": 1484179937,
+            "creator": "U3HQG6Z41",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-australia",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussions and meeting place for Australian Data Scientists",
+                "creator": "U3HQG6Z41",
+                "last_set": 1484179937
+            },
+            "previous_names": [],
+            "num_members": 18
+        },
+        {
+            "id": "C3QM4FVAB",
+            "name": "country-canada",
+            "is_channel": true,
+            "created": 1484130724,
+            "creator": "U3PLUG8SY",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-canada",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 23
+        },
+        {
+            "id": "C44R85475",
+            "name": "country-france",
+            "is_channel": true,
+            "created": 1487020283,
+            "creator": "U44ASGR99",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-france",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "France Presidential elections : 23rd April, 2017",
+                "creator": "U44ASGR99",
+                "last_set": 1487022213
+            },
+            "purpose": {
+                "value": "Anything related to France ! Non French speakers : you are of course welcome. If you are struggling with something (words in a dataset...) because of the language, feel free to ask for help !",
+                "creator": "U44ASGR99",
+                "last_set": 1487022079
+            },
+            "previous_names": [],
+            "num_members": 19
+        },
+        {
+            "id": "C40P3H97A",
+            "name": "country-germany",
+            "is_channel": true,
+            "created": 1486389473,
+            "creator": "U3ZE311QU",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-germany",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "anything related to Germany; especially in light of the upcoming election",
+                "creator": "U3ZE311QU",
+                "last_set": 1486389474
+            },
+            "previous_names": [],
+            "num_members": 23
+        },
+        {
+            "id": "C3KAJ2H6X",
+            "name": "country-india",
+            "is_channel": true,
+            "created": 1482941581,
+            "creator": "U3JTT96JK",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-india",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Work on projects that can uplift the standard of living in India - promote safety of women, reduction in coal usage, improve road conditions, etc",
+                "creator": "U3JTT96JK",
+                "last_set": 1482941582
+            },
+            "previous_names": [],
+            "num_members": 12
+        },
+        {
+            "id": "C3RFHUUGP",
+            "name": "country-netherlands",
+            "is_channel": true,
+            "created": 1484246479,
+            "creator": "U3QHXF9UL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-netherlands",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 9
+        },
+        {
+            "id": "C4T0ZEAQ6",
+            "name": "country-romania",
+            "is_channel": true,
+            "created": 1490905806,
+            "creator": "U4SBF0Z3N",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-romania",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3G9L4G4A",
+            "name": "country-sweden",
+            "is_channel": true,
+            "created": 1482093012,
+            "creator": "U3FPGN05B",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-sweden",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Local data inititatives in or about Sweden",
+                "creator": "U3FPGN05B",
+                "last_set": 1482093013
+            },
+            "previous_names": [],
+            "num_members": 5
+        },
+        {
+            "id": "C45M58HU7",
+            "name": "country-turkey",
+            "is_channel": true,
+            "created": 1487035064,
+            "creator": "U449D4WE5",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-turkey",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussion and meeting place of all things data for Turkey",
+                "creator": "U449D4WE5",
+                "last_set": 1487035064
+            },
+            "previous_names": [],
+            "num_members": 6
+        },
+        {
+            "id": "C5CN6DCG7",
+            "name": "country-uk",
+            "is_channel": true,
+            "created": 1494488927,
+            "creator": "U5BQWJL4B",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "country-uk",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussions for data people in the UK",
+                "creator": "U5BQWJL4B",
+                "last_set": 1494488928
+            },
+            "previous_names": [],
+            "num_members": 2
+        },
+        {
+            "id": "C4SQ5ND9A",
+            "name": "d4d-hackathon-boston",
+            "is_channel": true,
+            "created": 1490974917,
+            "creator": "U46H8VC3H",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "d4d-hackathon-boston",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 9
+        },
+        {
+            "id": "C3YMKNPMF",
+            "name": "d4d-labs",
+            "is_channel": true,
+            "created": 1485953730,
+            "creator": "U3GBWSKC6",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "d4d-labs",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "A Methodology Colloquium channel: https:\/\/www.youtube.com\/channel\/UC86eeR0OyCLvtyGBd4RJDNQ",
+                "creator": "U42EYPQ2F",
+                "last_set": 1489522247
+            },
+            "purpose": {
+                "value": "Explore cutting edge methodologies that members of the d4d community are building (tools, algorithms, apps, you name it!)",
+                "creator": "U3GBWSKC6",
+                "last_set": 1485953730
+            },
+            "previous_names": [],
+            "num_members": 115
+        },
+        {
+            "id": "C3XAX4X5M",
+            "name": "d4d-website",
+            "is_channel": true,
+            "created": 1485399112,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "d4d-website",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "https:\/\/github.com\/Data4Democracy\/datafordemocracy.org",
+                "creator": "U39JB4RGR",
+                "last_set": 1485399129
+            },
+            "purpose": {
+                "value": "Making the Data for Democracy public facing website!",
+                "creator": "U39JB4RGR",
+                "last_set": 1485399112
+            },
+            "previous_names": [],
+            "num_members": 36
+        },
+        {
+            "id": "C3V1NPRSM",
+            "name": "data-dot-gov-archive",
+            "is_channel": true,
+            "created": 1485270152,
+            "creator": "U3GN145D4",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "data-dot-gov-archive",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Copying federal datasets off of data.gov in case they disappear.",
+                "creator": "U3GN145D4",
+                "last_set": 1485270152
+            },
+            "previous_names": [],
+            "num_members": 84
+        },
+        {
+            "id": "C4TLFKLFR",
+            "name": "dc-city",
+            "is_channel": true,
+            "created": 1490997828,
+            "creator": "U3U74LX89",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "dc-city",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 1
+        },
+        {
+            "id": "C3ZPTFNH0",
+            "name": "dev-ops",
+            "is_channel": true,
+            "created": 1485996175,
+            "creator": "U3ZL3C7QU",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "dev-ops",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 26
+        },
+        {
+            "id": "C3SABFRK7",
+            "name": "discursive-commdetect",
+            "is_channel": true,
+            "created": 1484602272,
+            "creator": "U3GN0MBKQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "discursive-commdetect",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Community detection",
+                "creator": "U3GN0MBKQ",
+                "last_set": 1484602273
+            },
+            "previous_names": [],
+            "num_members": 58
+        },
+        {
+            "id": "C5BJ5TMMF",
+            "name": "disinfo-campaigns",
+            "is_channel": true,
+            "created": 1494517784,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "disinfo-campaigns",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Research disinformation campaigns &amp; narrative hacking taking place in upcoming European elections",
+                "creator": "U3GCLA9BR",
+                "last_set": 1494517784
+            },
+            "previous_names": [
+                "disinfo-campigns"
+            ],
+            "num_members": 21
+        },
+        {
+            "id": "C3GNDQLLF",
+            "name": "election-transparency",
+            "is_channel": true,
+            "created": 1481935800,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "election-transparency",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Check out our GH Page: https:\/\/github.com\/Data4Democracy\/election-transparency",
+                "creator": "U3F29FGUQ",
+                "last_set": 1484833993
+            },
+            "purpose": {
+                "value": "Collecting data and building models and visualizations to further the public's understanding of the electoral system.",
+                "creator": "U3F29FGUQ",
+                "last_set": 1487029621
+            },
+            "previous_names": [
+                "voter-fraud"
+            ],
+            "num_members": 308
+        },
+        {
+            "id": "C3YFB4874",
+            "name": "eventador",
+            "is_channel": true,
+            "created": 1485812031,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "eventador",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "https:\/\/github.com\/Data4Democracy\/assemble\/issues\/12",
+                "creator": "U3GCLA9BR",
+                "last_set": 1485812278
+            },
+            "purpose": {
+                "value": "https:\/\/github.com\/Data4Democracy\/assemble",
+                "creator": "U3GCLA9BR",
+                "last_set": 1485812265
+            },
+            "previous_names": [],
+            "num_members": 34
+        },
+        {
+            "id": "C433HKG2Z",
+            "name": "everything",
+            "is_channel": true,
+            "created": 1486602774,
+            "creator": "U3R8NBDUL",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "everything",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4AP5T51A",
+            "name": "factcheck",
+            "is_channel": true,
+            "created": 1488165531,
+            "creator": "U3Z8QQTPU",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "factcheck",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "A home for all things fact-checking-related in D4D.",
+                "creator": "U3Z8QQTPU",
+                "last_set": 1492018793
+            },
+            "purpose": {
+                "value": "To combat alternative facts via Twitter",
+                "creator": "U3Z8QQTPU",
+                "last_set": 1488165531
+            },
+            "previous_names": [
+                "factcheckbot"
+            ],
+            "num_members": 65
+        },
+        {
+            "id": "C3GVCNKCN",
+            "name": "far-right",
+            "is_channel": true,
+            "created": 1482089747,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "far-right",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Check out https:\/\/github.com\/Data4Democracy\/far-right-analysis for an intro to #far-right and the latest news on what we're working on.",
+                "creator": "U3FNVRZA6",
+                "last_set": 1485785083
+            },
+            "purpose": {
+                "value": "Projects investigating the alt-right, militia groups, etc.",
+                "creator": "U39JB4RGR",
+                "last_set": 1482089747
+            },
+            "previous_names": [],
+            "num_members": 253
+        },
+        {
+            "id": "C5CUM3FHC",
+            "name": "fr-election-analysis",
+            "is_channel": true,
+            "created": 1494516788,
+            "creator": "U3GCLA9BR",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "fr-election-analysis",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Brainstorm\/coordinate post or series of posts following up on https:\/\/medium.com\/data-for-democracy\/democracy-hacked-a46c04d9e6d1",
+                "creator": "U3GCLA9BR",
+                "last_set": 1494516789
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C39HEA0UQ",
+            "name": "general",
+            "is_channel": true,
+            "created": 1480790983,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": true,
+            "name_normalized": "general",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Ping @projects for ideas on how to get involved! Start here to learn about what we're working on: https:\/\/github.com\/Data4Democracy\/read-this-first",
+                "creator": "U53N45ZRV",
+                "last_set": 1492810475
+            },
+            "purpose": {
+                "value": "This channel is for hanging out and announcements. We'll make more specific channels for projects as necessary, but for now, introduce yourself and checked out the pinned posts! If you need help, ping @gecky or @jonathon, or head over to #onboarding!",
+                "creator": "U39JB4RGR",
+                "last_set": 1484605960
+            },
+            "previous_names": [],
+            "num_members": 1772
+        },
+        {
+            "id": "C4T4R1RGV",
+            "name": "gerrymandering-fun",
+            "is_channel": true,
+            "created": 1491020023,
+            "creator": "U4TN4G4MD",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "gerrymandering-fun",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To discuss Gerrymandering",
+                "creator": "U4TN4G4MD",
+                "last_set": 1491020023
+            },
+            "previous_names": [],
+            "num_members": 19
+        },
+        {
+            "id": "C4PAFB7PV",
+            "name": "gif",
+            "is_channel": true,
+            "created": 1490376029,
+            "creator": "U3YMGF96Y",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "gif",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "for those of us who communicate with pictures",
+                "creator": "U3YMGF96Y",
+                "last_set": 1490376029
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C3N1L9MS9",
+            "name": "github-help",
+            "is_channel": true,
+            "created": 1483651991,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "github-help",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "https:\/\/github.com\/Data4Democracy\/github-playground",
+                "creator": "U3GCLA9BR",
+                "last_set": 1484229009
+            },
+            "purpose": {
+                "value": "Ask questions &amp; experiment with git &amp; github in a group setting.",
+                "creator": "U3GCLA9BR",
+                "last_set": 1484228978
+            },
+            "previous_names": [],
+            "num_members": 78
+        },
+        {
+            "id": "C3YP8H2NM",
+            "name": "github-labels",
+            "is_channel": true,
+            "created": 1485960789,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "github-labels",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 8
+        },
+        {
+            "id": "C49U954SX",
+            "name": "glossary-bot",
+            "is_channel": true,
+            "created": 1487943759,
+            "creator": "U41047U9Z",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "glossary-bot",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Default public channel for glossary bot",
+                "creator": "U41047U9Z",
+                "last_set": 1487943759
+            },
+            "previous_names": [],
+            "num_members": 3
+        },
+        {
+            "id": "C4KKTHNGH",
+            "name": "hackathon-city-dc",
+            "is_channel": true,
+            "created": 1489846777,
+            "creator": "U3F29FGUQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hackathon-city-dc",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss projects for the April 1 D4D Hackathon in DC",
+                "creator": "U3F29FGUQ",
+                "last_set": 1489846777
+            },
+            "previous_names": [],
+            "num_members": 23
+        },
+        {
+            "id": "C4MLJAD5E",
+            "name": "hackathon-elect-trans",
+            "is_channel": true,
+            "created": 1490226154,
+            "creator": "U3F29FGUQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hackathon-elect-trans",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss projects for the March Hackathon for the Election Transparency group",
+                "creator": "U3F29FGUQ",
+                "last_set": 1490226155
+            },
+            "previous_names": [
+                "hackathon_elect_trans"
+            ],
+            "num_members": 30
+        },
+        {
+            "id": "C4QSRUKEU",
+            "name": "hackathon-imm-conn",
+            "is_channel": true,
+            "created": 1490810383,
+            "creator": "U3Y7W5HD1",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hackathon-imm-conn",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss projects for the March hackathon related to the immigration-connect project",
+                "creator": "U3Y7W5HD1",
+                "last_set": 1490810383
+            },
+            "previous_names": [],
+            "num_members": 9
+        },
+        {
+            "id": "C4BFJ5GHZ",
+            "name": "hackathon-mar2017",
+            "is_channel": true,
+            "created": 1488301284,
+            "creator": "U3GHB48AC",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hackathon-mar2017",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussion around the first D4D Hackathon, Mar 31-Apr 2",
+                "creator": "U3GHB48AC",
+                "last_set": 1488301284
+            },
+            "previous_names": [],
+            "num_members": 183
+        },
+        {
+            "id": "C4SB2PUM7",
+            "name": "hackathon-seattle17",
+            "is_channel": true,
+            "created": 1491010848,
+            "creator": "U3FNRCTC3",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hackathon-seattle17",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For those participating in the in-person Seattle hackathon",
+                "creator": "U3FNRCTC3",
+                "last_set": 1491010848
+            },
+            "previous_names": [],
+            "num_members": 21
+        },
+        {
+            "id": "C4RNN5W85",
+            "name": "hackathon-story",
+            "is_channel": true,
+            "created": 1490816181,
+            "creator": "U3WNV70JY",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hackathon-story",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For dashing off live updates during the D4D hackathon, to be polished up and posted on social media.",
+                "creator": "U3WNV70JY",
+                "last_set": 1490816182
+            },
+            "previous_names": [],
+            "num_members": 62
+        },
+        {
+            "id": "C4MN45WAK",
+            "name": "hangouts",
+            "is_channel": true,
+            "created": 1490042523,
+            "creator": "U3R8NBDUL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hangouts",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Have a topic for a future hangout? Want to hang?",
+                "creator": "U3R8NBDUL",
+                "last_set": 1490042523
+            },
+            "previous_names": [],
+            "num_members": 38
+        },
+        {
+            "id": "C4T6X9Y0M",
+            "name": "hate-classifier",
+            "is_channel": true,
+            "created": 1491062612,
+            "creator": "U3Y7W5HD1",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hate-classifier",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Working on hate speech classifier",
+                "creator": "U3Y7W5HD1",
+                "last_set": 1491062613
+            },
+            "previous_names": [],
+            "num_members": 10
+        },
+        {
+            "id": "C3ZNS59SS",
+            "name": "hatecrime",
+            "is_channel": true,
+            "created": 1485896213,
+            "creator": "U3FL9S37D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "hatecrime",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Build the tools and infrastructure to create a georeferenced dataset on hatecrimes in Europe",
+                "creator": "U3FL9S37D",
+                "last_set": 1485896214
+            },
+            "previous_names": [],
+            "num_members": 29
+        },
+        {
+            "id": "C55K4MV9A",
+            "name": "housing",
+            "is_channel": true,
+            "created": 1493311134,
+            "creator": "U4Z0E0Y3T",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "housing",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "general place for housing &amp; urban development projects! please join if you have interest proposing analyses and data collection involving housing\/rental costs, zoning \/ development, gentrification, and the built environment.",
+                "creator": "U4Z0E0Y3T",
+                "last_set": 1493324835
+            },
+            "previous_names": [],
+            "num_members": 10
+        },
+        {
+            "id": "C4NEXKLNT",
+            "name": "i-kids-and-families",
+            "is_channel": true,
+            "created": 1490149100,
+            "creator": "U3N2807JL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "i-kids-and-families",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "interest group - kids and families",
+                "creator": "U3N2807JL",
+                "last_set": 1496949774
+            },
+            "purpose": {
+                "value": "A space to brainstorm and kick off projects related to kids and families!",
+                "creator": "U3N2807JL",
+                "last_set": 1496949774
+            },
+            "previous_names": [
+                "fragile-families"
+            ],
+            "num_members": 13
+        },
+        {
+            "id": "C495V52S2",
+            "name": "id-infrastructure",
+            "is_channel": true,
+            "created": 1487706557,
+            "creator": "U43A3TXFX",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "id-infrastructure",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Infrastructure for the internal displacement project",
+                "creator": "U43A3TXFX",
+                "last_set": 1487706557
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3XQVHBHR",
+            "name": "immigration-connect",
+            "is_channel": true,
+            "created": 1485658880,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "immigration-connect",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Support non-profits working on immigration issues",
+                "creator": "U3FDWTM88",
+                "last_set": 1489127204
+            },
+            "previous_names": [],
+            "num_members": 95
+        },
+        {
+            "id": "C4XAP5J05",
+            "name": "indiadata",
+            "is_channel": true,
+            "created": 1491856216,
+            "creator": "U4XTZK7L6",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "indiadata",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "exclusive insight into data pertaining to India",
+                "creator": "U4XTZK7L6",
+                "last_set": 1491856217
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C46162WJV",
+            "name": "indivisible",
+            "is_channel": true,
+            "created": 1487284504,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "indivisible",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "github: https:\/\/github.com\/Data4Democracy\/indivisible",
+                "creator": "U4290V50Q",
+                "last_set": 1488248841
+            },
+            "purpose": {
+                "value": "Aggregating call to action sites into a single application.",
+                "creator": "U39JB4RGR",
+                "last_set": 1487284505
+            },
+            "previous_names": [],
+            "num_members": 97
+        },
+        {
+            "id": "C447NMTQV",
+            "name": "internal-displacement",
+            "is_channel": true,
+            "created": 1486778083,
+            "creator": "U3F4NHLKB",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "internal-displacement",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "GitHub repo: https:\/\/github.com\/Data4Democracy\/internal-displacement",
+                "creator": "U3F4NHLKB",
+                "last_set": 1487014016
+            },
+            "purpose": {
+                "value": "For technical discussion on the IDETECT #refugees project.",
+                "creator": "U3F4NHLKB",
+                "last_set": 1486778084
+            },
+            "previous_names": [],
+            "num_members": 98
+        },
+        {
+            "id": "C3JN38A3G",
+            "name": "jobs",
+            "is_channel": true,
+            "created": 1482424576,
+            "creator": "U3F4XHZ6D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "jobs",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Repository for anyone looking for data science talent, or data scientists looking for work",
+                "creator": "U3F4XHZ6D",
+                "last_set": 1482424609
+            },
+            "previous_names": [],
+            "num_members": 276
+        },
+        {
+            "id": "C49CA3Z9P",
+            "name": "julia",
+            "is_channel": true,
+            "created": 1487951056,
+            "creator": "U3XMA76FJ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "julia",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "for anyone curious about julia!",
+                "creator": "U3XMA76FJ",
+                "last_set": 1487951056
+            },
+            "previous_names": [],
+            "num_members": 13
+        },
+        {
+            "id": "C4ADZ737X",
+            "name": "justice",
+            "is_channel": true,
+            "created": 1487991062,
+            "creator": "U3GNC6NR5",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "justice",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Data projects with justice data",
+                "creator": "U3GNC6NR5",
+                "last_set": 1487991062
+            },
+            "previous_names": [],
+            "num_members": 23
+        },
+        {
+            "id": "C3M1438AJ",
+            "name": "kenya-pol-rhetoric",
+            "is_channel": true,
+            "created": 1483310756,
+            "creator": "U3FMRAZPF",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "kenya-pol-rhetoric",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Coordinating the \"Tracking the statements of Kenyan elites on social media\" project",
+                "creator": "U3FMRAZPF",
+                "last_set": 1483310757
+            },
+            "previous_names": [],
+            "num_members": 22
+        },
+        {
+            "id": "C3KT6MZ9Q",
+            "name": "learning",
+            "is_channel": true,
+            "created": 1483080547,
+            "creator": "U3J2Q8WCT",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "learning",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "A place to ask for help and share resources for learning to work with data",
+                "creator": "U3J2Q8WCT",
+                "last_set": 1483080595
+            },
+            "purpose": {
+                "value": "A place to ask for help and share resources for learning to work with data",
+                "creator": "U3J2Q8WCT",
+                "last_set": 1483080548
+            },
+            "previous_names": [],
+            "num_members": 323
+        },
+        {
+            "id": "C4TNC0PQE",
+            "name": "local-impact",
+            "is_channel": true,
+            "created": 1491024706,
+            "creator": "U3FDWTM88",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "local-impact",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Inform voters of the local contributions of agencies targeted to be eliminated by Trump administration. Provide voters contact information of their congressional representatives.",
+                "creator": "U3FDWTM88",
+                "last_set": 1491026410
+            },
+            "previous_names": [],
+            "num_members": 20
+        },
+        {
+            "id": "C3UNRTWD8",
+            "name": "marches",
+            "is_channel": true,
+            "created": 1485054124,
+            "creator": "U3KS0T0AC",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "marches",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "The purpose of this channel is to discuss analyzing data related to Women's Marches and the Science Marches. ",
+                "creator": "U3KS0T0AC",
+                "last_set": 1486906823
+            },
+            "previous_names": [
+                "womens-march"
+            ],
+            "num_members": 53
+        },
+        {
+            "id": "C3XHBBHNC",
+            "name": "micro-projects",
+            "is_channel": true,
+            "created": 1485789885,
+            "creator": "U3N2807JL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "micro-projects",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "https:\/\/github.com\/Data4Democracy\/micro-projects",
+                "creator": "U3N2807JL",
+                "last_set": 1485790103
+            },
+            "previous_names": [],
+            "num_members": 294
+        },
+        {
+            "id": "C43G0AGUQ",
+            "name": "microprojects",
+            "is_channel": true,
+            "created": 1486828927,
+            "creator": "U41N5Q1V4",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "microprojects",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4XF8GEKG",
+            "name": "mistakes",
+            "is_channel": true,
+            "created": 1491805409,
+            "creator": "U4SA2DQ5P",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "mistakes",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Created by mistake",
+                "creator": "U4SA2DQ5P",
+                "last_set": 1491805483
+            },
+            "previous_names": [
+                "film"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C48C1BRH9",
+            "name": "mode",
+            "is_channel": true,
+            "created": 1487702633,
+            "creator": "U3YBT54FM",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "mode",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "mode analytics admin, data questions",
+                "creator": "U3YBT54FM",
+                "last_set": 1487702633
+            },
+            "previous_names": [],
+            "num_members": 3
+        },
+        {
+            "id": "C3V6WB80M",
+            "name": "news",
+            "is_channel": true,
+            "created": 1485182618,
+            "creator": "U3R8NBDUL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "news",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Have a news article that the community should be aware of? Post it here!",
+                "creator": "U3R8NBDUL",
+                "last_set": 1485182619
+            },
+            "previous_names": [],
+            "num_members": 133
+        },
+        {
+            "id": "C3RJME6U9",
+            "name": "nlp-twitter",
+            "is_channel": true,
+            "created": 1484611833,
+            "creator": "U3FQ17PDZ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "nlp-twitter",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "explore and create nlp pipelines\/analyses for twitter data",
+                "creator": "U3FQ17PDZ",
+                "last_set": 1484611834
+            },
+            "previous_names": [],
+            "num_members": 84
+        },
+        {
+            "id": "C4T3YSHMY",
+            "name": "nyc-4chan",
+            "is_channel": true,
+            "created": 1491058602,
+            "creator": "U3RF46LP9",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "nyc-4chan",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C4MAYU8LR",
+            "name": "nyc-hack-stakeholders",
+            "is_channel": true,
+            "created": 1490192156,
+            "creator": "U3XMA76FJ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "nyc-hack-stakeholders",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "logistics for the nyc hackathon!",
+                "creator": "U3XMA76FJ",
+                "last_set": 1490192156
+            },
+            "previous_names": [],
+            "num_members": 11
+        },
+        {
+            "id": "C4TQAMQJK",
+            "name": "nycfostercare",
+            "is_channel": true,
+            "created": 1491058216,
+            "creator": "U4T1NQ10T",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "nycfostercare",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "On-boarding of optimal foster families in the most efficient manner possible",
+                "creator": "U4T1NQ10T",
+                "last_set": 1491058216
+            },
+            "previous_names": [],
+            "num_members": 5
+        },
+        {
+            "id": "C3S64JPTM",
+            "name": "onboarding",
+            "is_channel": true,
+            "created": 1484604458,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "onboarding",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Getting help getting started!",
+                "creator": "U39JB4RGR",
+                "last_set": 1484604459
+            },
+            "previous_names": [],
+            "num_members": 683
+        },
+        {
+            "id": "C4161CDCJ",
+            "name": "open-elections",
+            "is_channel": true,
+            "created": 1486307213,
+            "creator": "U3F29FGUQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "open-elections",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "Helping collect elections data for the Open Elections Project: http:\/\/www.openelections.net\/",
+                "creator": "U3GKNAT9S",
+                "last_set": 1490882161
+            },
+            "purpose": {
+                "value": "Channel to discuss helping out the OpenElections team collect elections data",
+                "creator": "U3F29FGUQ",
+                "last_set": 1486307213
+            },
+            "previous_names": [],
+            "num_members": 66
+        },
+        {
+            "id": "C54C4AYUW",
+            "name": "operation-reachout",
+            "is_channel": true,
+            "created": 1493047311,
+            "creator": "U3R8NBDUL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "operation-reachout",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Place to track who we are reaching out to, timelines, and track next steps. Trello for tracking https:\/\/trello.com\/b\/uYgGSxcw",
+                "creator": "U3R8NBDUL",
+                "last_set": 1493047451
+            },
+            "previous_names": [],
+            "num_members": 11
+        },
+        {
+            "id": "C3G0RJ7RT",
+            "name": "ops-ftw",
+            "is_channel": true,
+            "created": 1481914102,
+            "creator": "U3EUJQB6D",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "ops-ftw",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "Automate all the things, rawr!",
+                "creator": "U3F4XHZ6D",
+                "last_set": 1482943653
+            },
+            "purpose": {
+                "value": "Infrastructure and automate all the things, rawr!",
+                "creator": "U3YBT54FM",
+                "last_set": 1485985534
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3HV311TR",
+            "name": "opsec",
+            "is_channel": true,
+            "created": 1482269662,
+            "creator": "U3FL9S37D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "opsec",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Talking\/learning operational security",
+                "creator": "U3FL9S37D",
+                "last_set": 1482269665
+            },
+            "previous_names": [],
+            "num_members": 57
+        },
+        {
+            "id": "C3Z347V3J",
+            "name": "orgstructure",
+            "is_channel": true,
+            "created": 1485996720,
+            "creator": "U3R8NBDUL",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "orgstructure",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3XK1TBEX",
+            "name": "overwatch",
+            "is_channel": true,
+            "created": 1485558672,
+            "creator": "U3R8NBDUL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "overwatch",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 1
+        },
+        {
+            "id": "C3T9P5N8G",
+            "name": "p-boston-crash-model",
+            "is_channel": true,
+            "created": 1484868405,
+            "creator": "U3GN145D4",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-boston-crash-model",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "Here for the hackathon? https:\/\/docs.google.com\/document\/d\/1ibnjKjNN26dmajc9iCWtkyg7D6TstmCuz9pR1pCpklM\/edit#",
+                "creator": "U3H69DP42",
+                "last_set": 1490973027
+            },
+            "purpose": {
+                "value": "Planning and executing Boston's crash modeling project",
+                "creator": "U3GN145D4",
+                "last_set": 1484868406
+            },
+            "previous_names": [
+                "boston-crash-modeling"
+            ],
+            "num_members": 94
+        },
+        {
+            "id": "C4VT6PP8U",
+            "name": "p-centrist",
+            "is_channel": true,
+            "created": 1491526006,
+            "creator": "U3F29FGUQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-centrist",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 6
+        },
+        {
+            "id": "C4T230H5J",
+            "name": "p-chicago-lobbying",
+            "is_channel": true,
+            "created": 1491003574,
+            "creator": "U3Z38J5BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-chicago-lobbying",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Hackathon Project for Chicago",
+                "creator": "U3Z38J5BR",
+                "last_set": 1491003575
+            },
+            "previous_names": [],
+            "num_members": 17
+        },
+        {
+            "id": "C3J47KNRJ",
+            "name": "p-drug-spending",
+            "is_channel": true,
+            "created": 1482417499,
+            "creator": "U3GHB48AC",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-drug-spending",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "Welcome, new members! To find out more about the project and how you can help, check out our GitHub repo: https:\/\/github.com\/data4democracy\/drug-spending",
+                "creator": "U3GHB48AC",
+                "last_set": 1485785730
+            },
+            "purpose": {
+                "value": "Finding ways to make Medicare drug spending data more consumable\r\n\r\nMore info here!\r\nhttps:\/\/github.com\/Data4Democracy\/drug-spending\/blob\/master\/README.md",
+                "creator": "U3VQZAH6J",
+                "last_set": 1486496656
+            },
+            "previous_names": [
+                "drug-spending"
+            ],
+            "num_members": 166
+        },
+        {
+            "id": "C5JTYFRA7",
+            "name": "p-eviction-chatbot",
+            "is_channel": true,
+            "created": 1495924351,
+            "creator": "U3N2807JL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-eviction-chatbot",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 9
+        },
+        {
+            "id": "C5FV57ZD5",
+            "name": "p-front-pages",
+            "is_channel": true,
+            "created": 1495118744,
+            "creator": "U4TMX0HFG",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-front-pages",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 7
+        },
+        {
+            "id": "C4T7R60S1",
+            "name": "p-gerrymander",
+            "is_channel": true,
+            "created": 1491073416,
+            "creator": "U3F29FGUQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-gerrymander",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Work with Samuel Wang on Gerrymandering Website",
+                "creator": "U3F29FGUQ",
+                "last_set": 1491073416
+            },
+            "previous_names": [],
+            "num_members": 32
+        },
+        {
+            "id": "C5BE6LN5T",
+            "name": "p-hate-score",
+            "is_channel": true,
+            "created": 1494417848,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-hate-score",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Assigning a Hate Score to media properties promoting racism and xenophobia.",
+                "creator": "U39JB4RGR",
+                "last_set": 1494417849
+            },
+            "previous_names": [],
+            "num_members": 34
+        },
+        {
+            "id": "C59DRB0TA",
+            "name": "p-just-politics",
+            "is_channel": true,
+            "created": 1494244802,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-just-politics",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "https:\/\/github.com\/Data4Democracy\/just-politics",
+                "creator": "U3XV8BQBE",
+                "last_set": 1496006423
+            },
+            "purpose": {
+                "value": "Identifying vulnerable seats in the 2018 midterm elections",
+                "creator": "U39JB4RGR",
+                "last_set": 1494244804
+            },
+            "previous_names": [],
+            "num_members": 82
+        },
+        {
+            "id": "C5CTQ264V",
+            "name": "p-metadata4democracy",
+            "is_channel": true,
+            "created": 1494607079,
+            "creator": "U5B40QDD0",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-metadata4democracy",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Tracking the metadata-for-democracy project",
+                "creator": "U5B40QDD0",
+                "last_set": 1494607079
+            },
+            "previous_names": [],
+            "num_members": 28
+        },
+        {
+            "id": "C4SD953DX",
+            "name": "p-nyc-accessibility",
+            "is_channel": true,
+            "created": 1491055911,
+            "creator": "U3G504VL5",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-nyc-accessibility",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "new project! nyc!",
+                "creator": "U3G504VL5",
+                "last_set": 1491055912
+            },
+            "previous_names": [
+                "nyc-accessibility"
+            ],
+            "num_members": 14
+        },
+        {
+            "id": "C5L273B0T",
+            "name": "p-pudl",
+            "is_channel": true,
+            "created": 1496181000,
+            "creator": "U5JU806DB",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-pudl",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussion of Catalyst Cooperative's Public Utility Data Liberation project. GitHub Repo: https:\/\/github.com\/catalyst-cooperative\/pudl",
+                "creator": "U5JU806DB",
+                "last_set": 1496335625
+            },
+            "previous_names": [],
+            "num_members": 17
+        },
+        {
+            "id": "C5JDSJZU1",
+            "name": "p-quorum",
+            "is_channel": true,
+            "created": 1495932611,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-quorum",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "WordPress for open source intelligence.",
+                "creator": "U39JB4RGR",
+                "last_set": 1495932612
+            },
+            "previous_names": [],
+            "num_members": 13
+        },
+        {
+            "id": "C3VA09CC9",
+            "name": "p-verum",
+            "is_channel": true,
+            "created": 1485298618,
+            "creator": "U3R8NBDUL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-verum",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "a project dedicated to showing the voter how their candidate represents them through the analysis of state data.",
+                "creator": "U3R8NBDUL",
+                "last_set": 1485298618
+            },
+            "previous_names": [
+                "project-verum",
+                "verum"
+            ],
+            "num_members": 40
+        },
+        {
+            "id": "C4TS4GFK9",
+            "name": "p-weather-data",
+            "is_channel": true,
+            "created": 1491084118,
+            "creator": "U3R8NBDUL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "p-weather-data",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Democratizing Weather Data to make it easier for people to use. https:\/\/github.com\/Data4Democracy\/democratizing_weather_data",
+                "creator": "U3R8NBDUL",
+                "last_set": 1495751474
+            },
+            "previous_names": [
+                "weather-data"
+            ],
+            "num_members": 20
+        },
+        {
+            "id": "C5FKCMLHZ",
+            "name": "pair-wise",
+            "is_channel": true,
+            "created": 1495214138,
+            "creator": "U4TMX0HFG",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "pair-wise",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For coordinating pair programming to help people get up to speed quickly with a new technology. Respond to requests via threading.",
+                "creator": "U501GDX7F",
+                "last_set": 1495264507
+            },
+            "previous_names": [],
+            "num_members": 77
+        },
+        {
+            "id": "C3GPKHD6J",
+            "name": "parseltongue",
+            "is_channel": true,
+            "created": 1481969575,
+            "creator": "U3FL9S37D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "parseltongue",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Python all the way!",
+                "creator": "U3FL9S37D",
+                "last_set": 1481969575
+            },
+            "previous_names": [
+                "parseltounge"
+            ],
+            "num_members": 240
+        },
+        {
+            "id": "C3G69A17W",
+            "name": "parseltounge",
+            "is_channel": true,
+            "created": 1481976303,
+            "creator": "U3GNW72G7",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "parseltounge",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C41JY9L1K",
+            "name": "political-ads",
+            "is_channel": true,
+            "created": 1486396417,
+            "creator": "U3ZN3RY8J",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "political-ads",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Channel to collaborate on the political-ads project.",
+                "creator": "U3ZN3RY8J",
+                "last_set": 1486396418
+            },
+            "previous_names": [],
+            "num_members": 35
+        },
+        {
+            "id": "C3H24TA8G",
+            "name": "project-ideas",
+            "is_channel": true,
+            "created": 1482352851,
+            "creator": "U3F4NHLKB",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "project-ideas",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Check out the list of project ideas in the repo: https:\/\/github.com\/Data4Democracy\/project-ideas\/issues",
+                "creator": "U3F4NHLKB",
+                "last_set": 1496155742
+            },
+            "purpose": {
+                "value": "Propose ventures, bounce around ideas, share interesting data, and find partners for new projects.",
+                "creator": "U3F4NHLKB",
+                "last_set": 1482352852
+            },
+            "previous_names": [],
+            "num_members": 529
+        },
+        {
+            "id": "C560LQX17",
+            "name": "projeto-lupa",
+            "is_channel": true,
+            "created": 1493496295,
+            "creator": "U3N2807JL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "projeto-lupa",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "projeto-lupan"
+            ],
+            "num_members": 16
+        },
+        {
+            "id": "C3FS0HPB2",
+            "name": "propublica",
+            "is_channel": true,
+            "created": 1482161007,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "propublica",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place to talk about ProPublica projects with Derek.",
+                "creator": "U39JB4RGR",
+                "last_set": 1482161008
+            },
+            "previous_names": [],
+            "num_members": 218
+        },
+        {
+            "id": "C4MT8NSMR",
+            "name": "pycon2017",
+            "is_channel": true,
+            "created": 1490186361,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "pycon2017",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss PyCon May 17-25 Portland, Oregon",
+                "creator": "U3GCLA9BR",
+                "last_set": 1490186361
+            },
+            "previous_names": [],
+            "num_members": 16
+        },
+        {
+            "id": "C46SN23CL",
+            "name": "python",
+            "is_channel": true,
+            "created": 1487306055,
+            "creator": "U42EYPQ2F",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "python",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place to ask questions, recommend potentially useful packages, and share tips &amp; tricks about using the Python programming language",
+                "creator": "U42EYPQ2F",
+                "last_set": 1487306091
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3KLG4NPK",
+            "name": "python-users",
+            "is_channel": true,
+            "created": 1483322674,
+            "creator": "U3G7EKAKE",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "python-users",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place to ask questions and to share tips and tricks about using the Python language for data analysis.",
+                "creator": "U3G7EKAKE",
+                "last_set": 1483322675
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3Y5E80U8",
+            "name": "r_users",
+            "is_channel": true,
+            "created": 1485877054,
+            "creator": "U3YPUMRH9",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "r_users",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3F4HEVA5",
+            "name": "r-users",
+            "is_channel": true,
+            "created": 1481902100,
+            "creator": "U3GBWSKC6",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "r-users",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place to ask questions and to share tips &amp; tricks about using the R language for data analysis",
+                "creator": "U3GBWSKC6",
+                "last_set": 1481902100
+            },
+            "previous_names": [],
+            "num_members": 228
+        },
+        {
+            "id": "C3AB1CT1A",
+            "name": "random",
+            "is_channel": true,
+            "created": 1480790983,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "random",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Bird talk. Only bird talk. Grackles or GTFO.",
+                "creator": "U3Z38J5BR",
+                "last_set": 1486678091
+            },
+            "purpose": {
+                "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 1717
+        },
+        {
+            "id": "C3TBT4N3T",
+            "name": "refugees",
+            "is_channel": true,
+            "created": 1484876676,
+            "creator": "U3F4NHLKB",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "refugees",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "For projects relating to refugees. Currently building a tool to classify and extract information about internal displacement from news articles and visualise it.",
+                "creator": "U3F4NHLKB",
+                "last_set": 1485970429
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "internal-displacement"
+            ],
+            "num_members": 140
+        },
+        {
+            "id": "C3NQLB9AB",
+            "name": "region-europe",
+            "is_channel": true,
+            "created": 1483695936,
+            "creator": "U3FL9S37D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "region-europe",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Regional group for all things datascience in Europe! Projects, meetups and whatever crazy stuff we can come up with \ud83c\udf89",
+                "creator": "U3FL9S37D",
+                "last_set": 1483695938
+            },
+            "previous_names": [],
+            "num_members": 37
+        },
+        {
+            "id": "C458W84QY",
+            "name": "results-translations",
+            "is_channel": true,
+            "created": 1487185233,
+            "creator": "U44ASGR99",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "results-translations",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Help people spread their results by translating them in another language.",
+                "creator": "U44ASGR99",
+                "last_set": 1487185234
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C5RRW94HE",
+            "name": "showandtell",
+            "is_channel": true,
+            "created": 1497296759,
+            "creator": "U4TMX0HFG",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "showandtell",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 15
+        },
+        {
+            "id": "C3PNNMPGS",
+            "name": "social-networks",
+            "is_channel": true,
+            "created": 1484079998,
+            "creator": "U3GCLA9BR",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "social-networks",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "Project goals &amp; introductions",
+                "creator": "U3GCLA9BR",
+                "last_set": 1484137831
+            },
+            "purpose": {
+                "value": "People interested in building infrastructure and tools to enable the study of online social networks",
+                "creator": "U3GCLA9BR",
+                "last_set": 1484081190
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5NU94QLV",
+            "name": "spark",
+            "is_channel": true,
+            "created": 1496682807,
+            "creator": "U4KFTJ1BQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "spark",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussions on Spark deployment, implementation, and algorithms.  For all Spark varieties - Scala Spark, PySpark, SparkR, SparkSQL, and Spark Streaming",
+                "creator": "U4KFTJ1BQ",
+                "last_set": 1496682808
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C408B5C00",
+            "name": "sql",
+            "is_channel": true,
+            "created": 1486175765,
+            "creator": "U3RA74N3D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "sql",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "For the learned, learning, and lovers of SQL",
+                "creator": "U3RA74N3D",
+                "last_set": 1486177356
+            },
+            "purpose": {
+                "value": "For the learned, learning, and lovers of SQL",
+                "creator": "U3RA74N3D",
+                "last_set": 1486175766
+            },
+            "previous_names": [],
+            "num_members": 75
+        },
+        {
+            "id": "C3MNJJK1D",
+            "name": "state-arkansas",
+            "is_channel": true,
+            "created": 1483501447,
+            "creator": "U3LAUCGRW",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-arkansas",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For people living in, interested in, or working on projects related to Arkansas",
+                "creator": "U3LAUCGRW",
+                "last_set": 1483501447
+            },
+            "previous_names": [],
+            "num_members": 1
+        },
+        {
+            "id": "C4VSN3SU8",
+            "name": "state-colorado",
+            "is_channel": true,
+            "created": 1491689176,
+            "creator": "U4UCVJD2P",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-colorado",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Colorado state issues to research, TABOR impacts, water and land usage, election openness, education you name it.",
+                "creator": "U4UCVJD2P",
+                "last_set": 1491689176
+            },
+            "previous_names": [],
+            "num_members": 3
+        },
+        {
+            "id": "C3XUDEP4H",
+            "name": "state-florida",
+            "is_channel": true,
+            "created": 1485832992,
+            "creator": "U3Z9R4URM",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-florida",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Swing state and home of the infamous Florida Man.",
+                "creator": "U3Z9R4URM",
+                "last_set": 1485833437
+            },
+            "previous_names": [],
+            "num_members": 11
+        },
+        {
+            "id": "C5C8ZAGF4",
+            "name": "state-hawaii",
+            "is_channel": true,
+            "created": 1494528159,
+            "creator": "U5B1AC34L",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-hawaii",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Hawaii is just a bunch of islands in the middle of the Pacific.",
+                "creator": "U5B1AC34L",
+                "last_set": 1494528160
+            },
+            "previous_names": [],
+            "num_members": 1
+        },
+        {
+            "id": "C3HQFA5A6",
+            "name": "state-iowa",
+            "is_channel": true,
+            "created": 1482360183,
+            "creator": "U3HH1NWUB",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-iowa",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "to data the heck out of the hawkeye state",
+                "creator": "U3HH1NWUB",
+                "last_set": 1482360183
+            },
+            "previous_names": [
+                "iowa"
+            ],
+            "num_members": 7
+        },
+        {
+            "id": "C3JAV8TMY",
+            "name": "state-nc",
+            "is_channel": true,
+            "created": 1482497941,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-nc",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "People living in, traveling to or interested in NC",
+                "creator": "U3GCLA9BR",
+                "last_set": 1482497942
+            },
+            "previous_names": [],
+            "num_members": 18
+        },
+        {
+            "id": "C3G9502GK",
+            "name": "state-nebraska",
+            "is_channel": true,
+            "created": 1482116490,
+            "creator": "U3FTEBKEG",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-nebraska",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "I would be ecstatic if we get more than one person in here. ",
+                "creator": "U3FTEBKEG",
+                "last_set": 1482116490
+            },
+            "previous_names": [],
+            "num_members": 2
+        },
+        {
+            "id": "C3L6X82DP",
+            "name": "state-nj",
+            "is_channel": true,
+            "created": 1483471866,
+            "creator": "U3F20EVS4",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-nj",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 7
+        },
+        {
+            "id": "C4AQ1JC13",
+            "name": "state-ohio",
+            "is_channel": true,
+            "created": 1488168352,
+            "creator": "U4AHVAP2N",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-ohio",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 2
+        },
+        {
+            "id": "C3X1B9SMD",
+            "name": "state-tennessee",
+            "is_channel": true,
+            "created": 1485359150,
+            "creator": "U3GHB48AC",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-tennessee",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "People living in, interested by, or doing work related to Tennessee",
+                "creator": "U3GHB48AC",
+                "last_set": 1485359151
+            },
+            "previous_names": [],
+            "num_members": 14
+        },
+        {
+            "id": "C3JH28TRV",
+            "name": "state-virginia",
+            "is_channel": true,
+            "created": 1482373459,
+            "creator": "U3HUPKZJ9",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "state-virginia",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 16
+        },
+        {
+            "id": "C4K9WNN8Y",
+            "name": "stats",
+            "is_channel": true,
+            "created": 1489767732,
+            "creator": "U3KF3AEMN",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "stats",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Random discussions about random variables",
+                "creator": "U3KF3AEMN",
+                "last_set": 1489767732
+            },
+            "previous_names": [],
+            "num_members": 21
+        },
+        {
+            "id": "C3Z8125JB",
+            "name": "storytelling",
+            "is_channel": true,
+            "created": 1485819979,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "storytelling",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Writing and talking about the cool stuff the D4D community is doing",
+                "creator": "U39JB4RGR",
+                "last_set": 1485819979
+            },
+            "previous_names": [
+                "storyteling"
+            ],
+            "num_members": 126
+        },
+        {
+            "id": "C5DN9PC5P",
+            "name": "storytelling-news",
+            "is_channel": true,
+            "created": 1494964769,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "storytelling-news",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Chatting about the bi-weekly newsletter",
+                "creator": "U39JB4RGR",
+                "last_set": 1494964777
+            },
+            "previous_names": [],
+            "num_members": 12
+        },
+        {
+            "id": "C4T21GE1Z",
+            "name": "supersecret-gabai",
+            "is_channel": true,
+            "created": 1491059498,
+            "creator": "U3GN0MBKQ",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "supersecret-gabai",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "discuss gab.ai and life",
+                "creator": "U3GN0MBKQ",
+                "last_set": 1491059499
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C454KAKUM",
+            "name": "talent",
+            "is_channel": true,
+            "created": 1487043952,
+            "creator": "U4433L98C",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "talent",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Create a searchable list of each member\u2019s talents, proficiencies, areas of interest, in order to make it easier to find the right talent set for a specific project.",
+                "creator": "U4433L98C",
+                "last_set": 1487043953
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C58P167FW",
+            "name": "talk-politics",
+            "is_channel": true,
+            "created": 1493908271,
+            "creator": "U3GHB48AC",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "talk-politics",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Free-form discussion of political topics",
+                "creator": "U3GHB48AC",
+                "last_set": 1493908271
+            },
+            "previous_names": [],
+            "num_members": 23
+        },
+        {
+            "id": "C40SYQZRD",
+            "name": "teaching",
+            "is_channel": true,
+            "created": 1486060691,
+            "creator": "U3ZAQ3WTF",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "teaching",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Organizing resources for teachers who might want to connect d4d to their coursework.",
+                "creator": "U3ZAQ3WTF",
+                "last_set": 1486060691
+            },
+            "previous_names": [],
+            "num_members": 42
+        },
+        {
+            "id": "C451DHH98",
+            "name": "test",
+            "is_channel": true,
+            "created": 1487039276,
+            "creator": "U43A3TXFX",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "test",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3ZMG24LQ",
+            "name": "testing",
+            "is_channel": true,
+            "created": 1486087553,
+            "creator": "U3RJBT4SJ",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "testing",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C40HXL67L",
+            "name": "thats-so-meta",
+            "is_channel": true,
+            "created": 1486125071,
+            "creator": "U39JB4RGR",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "thats-so-meta",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Ideas and discussion to make D4D even more awesome.",
+                "creator": "U39JB4RGR",
+                "last_set": 1486125071
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4MMMUDV5",
+            "name": "tool-pandas",
+            "is_channel": true,
+            "created": 1490040865,
+            "creator": "U3R8NBDUL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "tool-pandas",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Python's Pandas Tool",
+                "creator": "U3R8NBDUL",
+                "last_set": 1490040865
+            },
+            "previous_names": [],
+            "num_members": 35
+        },
+        {
+            "id": "C3QJG4JAK",
+            "name": "tools-support",
+            "is_channel": true,
+            "created": 1484109054,
+            "creator": "U39JB4RGR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "tools-support",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Talk to the companies providing awesome technologies to help the community. Get their help! Tell them you love them!",
+                "creator": "U39JB4RGR",
+                "last_set": 1484109054
+            },
+            "previous_names": [],
+            "num_members": 42
+        },
+        {
+            "id": "C558VA72R",
+            "name": "town-council",
+            "is_channel": true,
+            "created": 1493252233,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "town-council",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Scraping &amp; centralizing text from local\/city council meeting minutes and agendas. https:\/\/github.com\/Data4Democracy\/town-council",
+                "creator": "U4Z0E0Y3T",
+                "last_set": 1497271031
+            },
+            "previous_names": [],
+            "num_members": 35
+        },
+        {
+            "id": "C3F6YLKS4",
+            "name": "travel",
+            "is_channel": true,
+            "created": 1481914696,
+            "creator": "U3EUJQB6D",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "travel",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Post where you are headed and connect with local data nerds :airplane:",
+                "creator": "U3EUJQB6D",
+                "last_set": 1481914696
+            },
+            "previous_names": [],
+            "num_members": 74
+        },
+        {
+            "id": "C3T8C0RDE",
+            "name": "tutorials",
+            "is_channel": true,
+            "created": 1484862504,
+            "creator": "U3GN0MBKQ",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "tutorials",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Make and curate tutorials for D4D projects. For actual learning, see #learning.",
+                "creator": "U3F4NHLKB",
+                "last_set": 1484862971
+            },
+            "purpose": {
+                "value": "Make and curate tutorials for D4D projects.",
+                "creator": "U3GN0MBKQ",
+                "last_set": 1484862554
+            },
+            "previous_names": [],
+            "num_members": 127
+        },
+        {
+            "id": "C41P60WS3",
+            "name": "tweepee",
+            "is_channel": true,
+            "created": 1486236960,
+            "creator": "U3GN0MBKQ",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "tweepee",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Back to #assemble !",
+                "creator": "U3GCLA9BR",
+                "last_set": 1486379533
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3Z395MK4",
+            "name": "tweetyourreps",
+            "is_channel": true,
+            "created": 1485897919,
+            "creator": "U3Y5WC07L",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "tweetyourreps",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 8
+        },
+        {
+            "id": "C5CDEAAFJ",
+            "name": "uk-elections",
+            "is_channel": true,
+            "created": 1494671205,
+            "creator": "U5BQWJL4B",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "uk-elections",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For discussions on the uk-elections project.\r\nhttps:\/\/github.com\/Data4Democracy\/uk-elections",
+                "creator": "U5CRBNATH",
+                "last_set": 1494962275
+            },
+            "previous_names": [],
+            "num_members": 16
+        },
+        {
+            "id": "C3QU0MVN0",
+            "name": "usa-dashboard",
+            "is_channel": true,
+            "created": 1484250361,
+            "creator": "U3QNVHZT5",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "usa-dashboard",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Right now we're focused on scraping crime data from the largest cities.  See issues: https:\/\/github.com\/Data4Democracy\/usa-dashboard",
+                "creator": "U3QNVHZT5",
+                "last_set": 1485463318
+            },
+            "purpose": {
+                "value": "Project coordination for USA Dashboard project.",
+                "creator": "U3QNVHZT5",
+                "last_set": 1484250362
+            },
+            "previous_names": [],
+            "num_members": 180
+        },
+        {
+            "id": "C4C7ZJLRJ",
+            "name": "virginia",
+            "is_channel": true,
+            "created": 1488389214,
+            "creator": "U3G4SB71B",
+            "is_archived": true,
+            "is_general": false,
+            "name_normalized": "virginia",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4365U5T2",
+            "name": "viz-kids",
+            "is_channel": true,
+            "created": 1486743758,
+            "creator": "U3N2807JL",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "viz-kids",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "Who needs axis labels? Not us!",
+                "creator": "U3Z38J5BR",
+                "last_set": 1486743856
+            },
+            "purpose": {
+                "value": "Let's talk about viz, baby!",
+                "creator": "U3N2807JL",
+                "last_set": 1486743758
+            },
+            "previous_names": [],
+            "num_members": 76
+        },
+        {
+            "id": "C5C240LF2",
+            "name": "wesearchr-spider",
+            "is_channel": true,
+            "created": 1494597830,
+            "creator": "U3GCLA9BR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "wesearchr-spider",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss wesearchr spider",
+                "creator": "U3GCLA9BR",
+                "last_set": 1494597831
+            },
+            "previous_names": [],
+            "num_members": 5
+        },
+        {
+            "id": "C4SCYAPL0",
+            "name": "white-house-pfds",
+            "is_channel": true,
+            "created": 1491062993,
+            "creator": "U4824N2AY",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "white-house-pfds",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "topic": {
+                "value": "PFD = personal financial disclosure =-)",
+                "creator": "U4824N2AY",
+                "last_set": 1491063009
+            },
+            "purpose": {
+                "value": "for now, a mini-project to explore info extraction from the PDF files recently released by the white house",
+                "creator": "U4824N2AY",
+                "last_set": 1491062993
+            },
+            "previous_names": [],
+            "num_members": 23
+        }
+    ]
+}
